@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.2) Gecko/20060601 Firefox/2.0.0.2 (Ubuntu-edgy)
+author=
+csum=
+ctime=1174782644
+host=69.243.109.103
+name=Events.Event-2006-02-16
+rev=1
+targets=Macropedia.ImperiumEquipment
+text='''February 16, 2006''' We have resumed lexicon building with the [[Macropedia/Imperium Equipment]] annex. This lexicon focuses on exceptional equipment availible during the Imperium.
+time=1174782644
+author:1174782644=
+diff:1174782644:1174782644:=1d0%0a%3c '''February 16, 2006''' We have resumed lexicon building with the [[Macropedia/Imperium Equipment]] annex. This lexicon focuses on exceptional equipment availible during the Imperium.%0a\ No newline at end of file%0a
+host:1174782644=69.243.109.103

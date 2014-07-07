@@ -1,0 +1,13 @@
+@import "compass";
+
+@import "custom/colors";
+@import "custom/typography";
+@import "base";
+@import "partials";
+@import "custom/syntax";
+@import "custom/styles";
+
+.navbar-brand span {
+	display:block;
+	font-size: 50% !important;
+}

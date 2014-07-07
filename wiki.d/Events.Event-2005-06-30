@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.2) Gecko/20060601 Firefox/2.0.0.2 (Ubuntu-edgy)
+author=
+csum=
+ctime=1174782711
+host=69.243.109.103
+name=Events.Event-2005-06-30
+rev=1
+targets=
+text=On June 30, 2005, we finished our first run through the Lexicon. We wrote over 100 entries during that time. Since then, we have begun to go back through the various letters to complete the phantom entries that we created and were not able to write under the rules of the game.
+time=1174782711
+author:1174782711=
+diff:1174782711:1174782711:=1d0%0a%3c On June 30, 2005, we finished our first run through the Lexicon. We wrote over 100 entries during that time. Since then, we have begun to go back through the various letters to complete the phantom entries that we created and were not able to write under the rules of the game.%0a\ No newline at end of file%0a
+host:1174782711=69.243.109.103

@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Event-2006-02-16"
+date: 2007-03-25T00:30:44+00:00
+comments: true
+sharing: true
+footer: true
+group: Events
+---
+
+**February 16, 2006** We have resumed lexicon building with the [Macropedia/Imperium Equipment](/macropedia/imperium-equipment) annex. This lexicon focuses on exceptional equipment availible during the Imperium.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "New Skin"
+date: 2010-03-28T18:05:34+00:00
+comments: true
+sharing: true
+footer: true
+group: Events
+---
+
+**March 23, 2010.**
+<a name='teaser'></a>If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.
+
+<a name='body'></a>
+I've also been thinking about how to make the site more useful; so stay tuned for updates.
+
+On other news, for the past three years, I've been creating a series of [Astro Empires guides](/events/astro-empires) that provide a view into how the game functions. Through they years, I've received scores of comments; usually thanking me for helping light the way.

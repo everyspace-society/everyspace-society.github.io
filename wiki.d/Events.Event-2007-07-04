@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0-beta57 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.4) Gecko/20061201 Firefox/2.0.0.4 (Ubuntu-feisty)
+author=BenWilson
+charset=ISO-8859-1
+csum=
+host=69.243.109.103
+name=Events.Event-2007-07-04
+rev=3
+targets=Chronology.Chronology
+text='''July 4, 2007''' Lately, we've been moving forward on revising the [[Chronology/Chronology]]. Aaron's leading the way with the rest of us slowly catching up.
+time=1183597391
+author:1183597391=BenWilson
+csum:1183597391=
+diff:1183597391:1183597354:=1c1%0a%3c '''July 4, 2007''' Lately, we've been moving forward on revising the [[Chronology/Chronology]]. Aaron's leading the way with the rest of us slowly catching up.%0a\ No newline at end of file%0a---%0a> '''July 4, 2007''' Lately, we've been moving forward on revising the [[Chronology]]. Aaron's leading the way with the rest of us slowly catching up.%0a\ No newline at end of file%0a
+host:1183597391=69.243.109.103
+author:1183597354=BenWilson
+csum:1183597354=
+diff:1183597354:1183597227:=1d0%0a%3c '''July 4, 2007''' Lately, we've been moving forward on revising the [[Chronology]]. Aaron's leading the way with the rest of us slowly catching up.%0a\ No newline at end of file%0a
+host:1183597354=69.243.109.103
+author:1183597227=BenWilson
+host:1183597227=69.243.109.103

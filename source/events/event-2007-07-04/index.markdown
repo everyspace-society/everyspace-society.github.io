@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Event-2007-07-04"
+date: 2007-07-05T01:00:27+00:00
+comments: true
+sharing: true
+footer: true
+group: Events
+---
+
+**July 4, 2007** Lately, we've been moving forward on revising the [Chronology/Chronology](/chronology/chronology). Aaron's leading the way with the rest of us slowly catching up.

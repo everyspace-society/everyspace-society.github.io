@@ -1,0 +1,21 @@
+version=pmwiki-2.2.0-beta31 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.2) Gecko/20060601 Firefox/2.0.0.2 (Ubuntu-edgy)
+author=BenWilson
+csum=
+host=69.243.109.103
+name=Events.Event-2007-03-26
+rev=3
+targets=
+text='''March 24, 2007.''' After nearly a year hiatus, E-space Society is considering reforming to re-write the timeline. After the timeline is revised, we will likely move on to another lexicon game.%0a(:title Retooling the Timeline:)
+time=1174925281
+title=Retooling the Timeline
+author:1174925281=BenWilson
+csum:1174925281=
+diff:1174925281:1174925228:=1c1%0a%3c '''March 24, 2007.''' After nearly a year hiatus, E-space Society is considering reforming to re-write the timeline. After the timeline is revised, we will likely move on to another lexicon game.%0a---%0a> '''March 24, 2007''' After nearly a year hiatus, E-space Society is considering reforming to re-write the timeline. After the timeline is revised, we will likely move on to another lexicon game.%0a
+host:1174925281=69.243.109.103
+author:1174925228=BenWilson
+csum:1174925228=
+diff:1174925228:1174925216:=1,2d0%0a%3c '''March 24, 2007''' After nearly a year hiatus, E-space Society is considering reforming to re-write the timeline. After the timeline is revised, we will likely move on to another lexicon game.%0a%3c (:title Retooling the Timeline:)%0a\ No newline at end of file%0a
+host:1174925228=69.243.109.103
+author:1174925216=BenWilson
+host:1174925216=69.243.109.103
