@@ -8,24 +8,60 @@
 @import "custom/styles";
 
 .navbar-brand span, h1 span {
-	display:block;
+	display:block !important;
 	font-size: 50% !important;
 }
 .page-header {
-	margin-bottom: 0;
+	margin-bottom: 0 !important;
 }
 body {
 	background: url(/images/esback-white.jpg) no-repeat top left fixed !important;
 }
 .bs-callout {
-    border-left-width: 1em;
-	border-right-width: 1px;
-	border-top-width: 1px;
-	border-bottom-width: 1px;
+    border-left-width: 1em !important;
+	border-right-width: 1px !important;
+	border-top-width: 1px !important;
+	border-bottom-width: 1px !important;
 }
 .bs-callout-danger{border-color:#d9534f}
 .bs-callout-danger h4 {border-color:#9F2622}
-.bs-callout-warning h4 {color: #C77B10;}
+.bs-callout-warning h4 {color: #C77B10 !important;}
 .bs-callout-warning{border-color:#f0ad4e}
 .bs-callout-info{border-color:#238FAF}
-.bs-callout-info h4 {color: #114959;}
+.bs-callout-info h4 {color: #114959 !important;}
+.navbar-simple .brand {
+ 	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+}
+.navbar-simple .navbar-inner {
+	background: #fff !important;
+	filter: none !important;
+	box-shadow: 0 2px 15px rgba(0,0,0,0.25) !important;
+	-moz-box-shadow: 0 2px 15px rgba(0,0,0,0.25) !important;
+	-webkit-box-shadow: 0 2px 15px rgba(0,0,0,0.25) !important;
+	border-bottom: 1px solid rgba(0,0,0,0.2) !important;
+}
+.navbar-simple .navbar-inner .nav {
+	float: right !important;
+}
+.navbar-simple .navbar-inner .nav li a {
+	background: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+	color: #777 !important;
+	font-size: 13px !important;
+	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+	font-weight: 600 !important;
+}
+.navbar-simple .navbar-inner .nav li a:hover {
+	background: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+	color: #bf3604 !important;
+}		
+.navbar-simple .navbar-inner .nav li.active a {
+	color: #bf3604 !important;
+}
