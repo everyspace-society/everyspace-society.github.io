@@ -8,10 +8,27 @@ footer: true
 group: EveOnline
 ---
 
+## Attributes Calculator
+
+<table  id='attributes' style='width: 150px'><tr><td  valign='top'>Intelligence
+</td><td  valign='top'><input type='text' name='Int' value='20' id='Int' class='span2' size='3' />
+</td></tr><tr><td  valign='top'>Perception
+</td><td  valign='top'><input type='text' name='Perc' value='20' id='Perc' class='span2' size='3' />
+</td></tr><tr><td  valign='top'>Charisma
+</td><td  valign='top'><input type='text' name='Char' value='19' id='Char' class='span2' size='3' />
+</td></tr><tr><td  valign='top'>Willpower
+</td><td  valign='top'><input type='text' name='Will' value='20' id='Will' class='span2' size='3' />
+</td></tr><tr><td  valign='top'>Memory
+</td><td  valign='top'><input type='text' name='Mem' value='20' id='Mem' class='span2' size='3' />
+</td></tr></table>
+<p>Setting these attributes to your character's current attributes sets the skill points per hour in the various skill group tables below, under the Burn Rate column.
+</p>
+
+
 New characters tend to do well with high Perception and Intelligence scores. This is because Perception and Intelligence are primary skills for the essential combat and piloting skills. When starting a trade-focused character, then there is value in starting with high Charisma and medium Willpower and Memory.
 
-Perception-Related Core Skills
-=======================
+## Perception-Related Core Skills
+
 
 <table class='table'><tr>
 <th>Skill</th>
@@ -34,8 +51,7 @@ Perception-Related Core Skills
 <td>Uses <strong>Intelligence</strong> and <strong>Perception</strong>. </td>
 <td></td></tr></table>
 
-Intelligence/Memory-Related Core Skills
-==============================
+## Intelligence/Memory-Related Core Skills
 
 <table class='table'><tr>
 <th>Skill</th>
@@ -66,8 +82,8 @@ Intelligence/Memory-Related Core Skills
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
 <td></td></tr></table>
 
-Other Skill/Attributes Mapped
-=======================
+## Other Skill/Attributes Mapped
+
 
 Charisma is often considered a less important skill. In combat nobody cares if you're polite or well-groomed. In interactions between players, its your own Charisma that matters. When you hover over <span class=''>Charisma</span> in the table below, it will show the other skill group areas that involve Charisma.
 
@@ -132,13 +148,11 @@ Charisma is often considered a less important skill. In combat nobody cares if y
 <td> <span class=''>Charisma</span>/ <span class=''>Memory</span></td>
 <td></td></tr></table>
 
-Accelerating Skill Learning
-===========================
+## Accelerating Skill Learning
 
 You can compress the time required train these skills by investing in implants for Intelligence, Memory, Perception and Willpower. The minimum level if implants you should install are +3 . This will keep skill training times reasonable. You need only a bit of Cybernetics to be able to use these. If you plan in going to low-sec or nullsec, then better go cheap. For this reason, some players advise waiting six months before going to those areas...so you have some skills under your belt and are better able to afford losing your implant.s
 
-Armor Tanking Skills
-====================
+## Armor Tanking Skills
 
 <a name='arm'></a>
 If you want to fit armor buffer tanks or active armor tanks you'll want to train armor support skills and be able to fit T2 armor tanking modules. Armor tanking is popular for PvP.
@@ -192,8 +206,8 @@ Train these skills to Level III as required.
 <td><input type='text' name='IM' value='16' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
-Astrometrics
-==========
+## Astrometrics
+
 
 Have Astrometrics to level 4 and all of the other three scanning support skills to
 level 3. To be certain, have Astrometric Rangefinding, Astrometric Pinpointing 
@@ -234,8 +248,8 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 <td> <input type='text' name='PW' value='512' id='PW' class='col-md-2' size='3' /></td></tr></table>
 
 
-Capacitor Skills
-================
+## Capacitor Skills
+
 
 <a name='cap'></a>
 **Caldari and Minmatar.** These pilots don't depend on capacitor power as much as other races do, but it's still very important, especially for active tanks, for running propulsion modules and for capacitor warfare. You'll want Energy Systems Operation at level V and Energy Management to level IV at least. Cap Boosters are useful in some PvP fits, so you'll want to be able to fit the best with Energy Grid Upgrades IV.
@@ -268,8 +282,7 @@ These are all the skills you need to optimize the size, recharge rate and effici
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
-Drone Skills
-====================
+## Drone Skills
 
 <a name='dro'></a>
 If you fly any ship bigger than a frigate you will want [drone skills -> http://wiki.eveonline.com/en/wiki/Drones](drone skills -> http://wiki.eveonline.com/en/wiki/Drones). To be most effective, you will need to get Tech II drones, which means investing even more time and effort in drone skill development. T2 light drones are a great help in Level 4 missions, where they make short work of frigates which scramble your valuable battleship, stopping you from warping out if the mission goes wrong.
@@ -359,8 +372,8 @@ Try to use small (S) drones against frigates, medium (M) against cruisers and he
 
 
 
-EWAR Skills
-===========
+## EWAR Skills
+
 <a name='ewa'></a>
 
 Electronic Warfare is a major part of fleet and small gang combat operations, especially in the UNI. Because most of our opponents have higher skill levels than the typical Eve University pilot, we must neutralize their natural advantage  and EWAR is an effective way to do this. An experienced pilot, even with tens of millions of skill points and a host of powerful faction ship modules, can do nothing if they cant target anything. With the right combination of EWAR, you can practically turn off an opponent's ship. Combined tackling and Electronic Warfare can render even the sturdiest tank and most ominous firepower absolutely useless.
@@ -395,8 +408,7 @@ Uses **Intelligence** and **Memory**.
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
-Fitting Skills
-==============
+## Fitting Skills
 
 <a name='fit'></a>
 <table class='table'><tr>
@@ -420,8 +432,8 @@ Fitting Skills
 <td> -2%25 powergrid needs of weapon turrets and launchers.</td>
 <td><input type='text' name='IM' value='1536' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
-Gunnery Skills
-=========
+## Gunnery Skills
+
 
 <a name='gun'></a>
 
@@ -480,8 +492,8 @@ To maximize your the effectiveness from your guns, train the following to Level 
 
 In the medium term pilots should look towards training T2 guns for more DPS. In the case of the Minmatar autocannon, an extra tactical option with T2 Barrage ammo.
 
-Missile Skills
-==============
+## Missile Skills
+
 
 Missiles are probably the signature Caldari weapon.
 
@@ -619,8 +631,8 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 <td>Purgatory</td></tr></table>
 
 
-Navigation Skills
-================
+## Navigation Skills
+
 
 **Caldari.** These are essential skills, even though Caldari ships aren't the nimblest around. Even if you stick to the bigger ships, having a more agile/quicker than expected battleship can save your life.
 
@@ -663,8 +675,7 @@ Uses **Intelligence** and **Perception**.
 <td><input type='text' name='IP' value='256' id='IP' class='col-md-2' size='3' /></td></tr></table>
 
 
-Shield Tanking Skills
-====================
+## Shield Tanking Skills
 
 <a name='shi'></a>
 If you want to fit shield tanks&mdash;either buffer tanks, passive regen tanks or active tanks&mdash;you'll want to train good shield support skills and be able to fit T2 shield tanking modules. The 'X Shield Compensation' (Explosive Shield Compensation, Thermic Shield Compensation &c) skills aren't as useful as their armor counterparts and you can leave them.
@@ -701,8 +712,7 @@ Uses **Intelligence** and **Memory**.
 <td><input type='text' name='IM' value='90.5' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
-Tackling Skills
-===============
+## Tackling Skills
 
 <a name='tac'></a>
 All PvP combat pilots need to train up on tackling skills. These are the skills you need to prevent a target from escaping. These are usually the first combat skills learned by new pilots, because they are easy to master, and because they are highly valued, especially in fleet.
