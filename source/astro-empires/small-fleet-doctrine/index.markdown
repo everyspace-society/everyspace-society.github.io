@@ -8,8 +8,10 @@ footer: true
 group: AstroEmpires
 ---
 
+* **Updated November 2009.**
+* **Updated July 2013.**
 
-**Updated November 2009.** Astro Empires is a game of military economy. This guide advocates
+Astro Empires is a game of military economy. This guide advocates
 deploying a more efficient fleet than one's rival under the term 
 "Small Fleet Doctrine."
 [Historically](http://en.wikipedia.org/wiki/Jeune_Ecole), the Small
@@ -43,7 +45,6 @@ Once you have read through this article, we encourage you to read about
 [how to manually plan attacks](/astro-empires/napkin-combat).
 
 
-
 **All you need to know.** If you do not care to read the entire
 article, then here is all you probably need to know. Build Fighters to
 take out meat (support) ships. Build Heavy Bombers and Cruisers to take
@@ -57,9 +58,7 @@ offensive, always bring with you enough Recyclers to mop up all the
 debris at the tick.
 
 
-
-Fleet Composition
-=================
+## Fleet Composition
 
 The core problem with balanced fleet doctrine is that it convinces
 people that they need to build and use units that are unnecessary in a
@@ -70,8 +69,7 @@ combat will suffer as you will not earn as much as you spend&mdash;the
 Pyrric victory. In this Section, we discuss each unit and their role in
 an efficient fleet. This precedes a short set of points to remember.
 
-General Unit Advice
--------------------
+#### General Unit Advice
 
 This sub-section provides general comments on the fleet units in Astro
 Empires.
@@ -89,10 +87,324 @@ Heavy Cruisers. In the Small Fleet approach, capital ships are
 generally not built because of their inefficiency.
 
 <a name='chart'></a>
+<table class='table'><tr><td class='head' rowspan='2' style='border-right:2px solid 336'>Att Units
+</td><th colspan='16'>Defenders</td>
+</tr>
+<tr><th>FT</th>
+<th>BO</th>
+<th>HB</th>
+<th>IB</th>
+<th>CV</th>
+<th>DD</th>
+<th>FR</th>
+<th>IF</th>
+<th>CR</th>
+<th>HC</th>
+<th>BB</th>
+<th>DR</th>
+<th>TI</th>
+<th>LV</th>
+<th>DS</th>
+<th>SP</td>
+</tr>
+<tr><td class='success'>FT</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X </td>
+</tr>
+<tr><td class='info'>BO</td>
+<td class='warning'>?</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='success'>HB</td>
+<td class='danger'>-</td>
+<td class='warning'>?</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='warning'>IB</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='info'>CV</td>
+<td class='warning'>?</td>
+<td class='warning'>?</td>
+<td class='danger'>-</td>
+<td class='warning'>?</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='info'>DD</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='danger'>FR</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='danger'>IF</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='success'>CR</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='warning'>HC</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='warning'>BB</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='warning'>DR</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='danger'>TI</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='danger'>LV</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='warning'>?</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='danger'>DS</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='success'>X</td>
+<td class='success'>X</td>
+</tr>
+<tr><td class='type'>SP</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+<td class='danger'>-</td>
+</tr></table>
 
+* Yellow = Later
+* Red = Avoid
+* Blue = Maybe
+* Green = Definitely
 
-Support Ships
--------------
+**Reading the chart:** To see which units are efficient against what,
+the columns are the defenders, the attackers are the rows.
+
+### Support Ships
 
 Generally speaking, there are three support (meat) units you want in
 battle: Fighters, Heavy Bombers and Destroyers. Fighters are the best in
@@ -101,14 +413,14 @@ when there is no enemy Fighter support. Destroyers are also highly
 effective against Escorts; again when there is no enemy Fighter support.
 Corvettes are useful in raider, emergency resupply roles.
 
-* Fighters: Anti-support
-* H.Bombers (Bombers): Anti-escort
-* Destroyers: Anti-escort (until you have H.Bombers)
-* Corvettes: Fast Raiders
+* (FT) Fighters: Anti-support
+* (HB) H.Bombers (Bombers): Anti-escort
+* (DD) Destroyers: Anti-escort (until you have H.Bombers)
+* (CV) Corvettes: Fast Raiders
 
 We now look at the support units in greater detail.
 
-### Fighters (FT)
+#### Fighters (FT)
 
 <span class='text-success'>**Build this unit.**</span> 
 These are the staple of all fleets in AE&mdash;defense, offense, everything.
@@ -123,7 +435,7 @@ through Fighters at an obscene rate because Fighters are basically
 designed to die. Application of Fighter waves in combat can
 significantly improve your exchange rate.
 
-### Bombers (BO)
+#### Bombers (BO)
 
 <span class='text-warning'>**Consider this unit.**</span> 
 Bombers have the same armor as Fighters with twice the firepower and
@@ -134,8 +446,7 @@ have Heavy Bombers. Use them in an anti-Cruiser role. Their relative
 efficiency over Heavy Bombers makes them more useful than their
 counterpart in an _offensive_ role.
 
-Heavy Bombers (HB)
-~~~~~~~~~~~~~~~~~~~
+#### Heavy Bombers (HB)
 
 <span class=''>**Build this unit.**</span> 
 Heavy Bombers are primarily *offensive units*. They carry enough punch
@@ -146,16 +457,17 @@ used in waves after your Fighter waves destroy the enemy's unshielded
 units. 
 
 <div class='bs-callout bs-callout-info'>
+<h4>Value of Heavy Bombers:</h4>
 HBs are ideal units for breaking occupations, if you have a
 proper amount of Command Centers.
 </div>
 
-### Ion Bombers (IB)
+#### Ion Bombers (IB)
 
 <span class='text-warning'>**Consider this unit.**</span>
 Ion Bombers support an anti-capital role but are highly vulnerable to Fighters due to their low shielding. Ion Frigates, below, have a substantially higher ratio against Capital, however.
 
-### Corvettes
+#### Corvettes (CV)
 
 <span class='text-warning'>**Consider this unit.**</span> 
 The Corvette utility lies in its speed. They are not very useful in a
@@ -171,8 +483,7 @@ be used to hunt naked Frigates, if so inclined. They do not need hangars
 to travel between astros. Therefore, emergency resupply might help a
 fleet with insufficient Fighter support.
 
-Destroyers (DDs, tin cans)
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+#### Destroyers (DD)
 
 <span class='text-success'>**Build this unit.**</span> 
 Because Cruisers and Destroyers share the Plasma weapons system,
@@ -188,14 +499,12 @@ with Command Centers, playing havoc with the enemy ratios. Their speed
 makes them handy at Recycler hunting. Because they are unshielded, do
 not leave Destroyers in hostile territory when you have to be offline.
 
-Frigates (FR)
-~~~~~~~~~~~~~
+#### Frigates (FR)
 
 <span class='text-warning'>**Consider this unit.**</span> 
 Frigates have a mixed reputation. Small Fleet used to discourage Frigate construction. However, the value of Frigates is not that cut-and-dried. Lacking shields, they are highly vulnerable to Fighters. They have a .33 cost/armor ratio to a Fighter's .88 ratio; which shows what you stand to lose when caught off guard. However, diligently used, Frigates are a decent tool, marginally efficient against Cruisers (.33 to .28 cost/armor ratio), and can carry Fighters (raising the overall efficiency). A Frigate/Fighter mix costs 100 credits, requires 10 Recyclers to support, and can be a lethal, quick combination...with diligence.
 
-Escort Ships
-------------
+### Escort Ships
 
 Escort ships are __shielded__ units that are generally capable of warp
 travel. They retain some vulnerability to support ships but primarily
@@ -209,8 +518,7 @@ ships, but your fleet should comprise a considerable percentage of it.
 
 We now look at the escort units in greater detail.
 
-Ion Frigates (IF)
-~~~~~~~~~~~~~~~~~
+#### Ion Frigates (IF)
 
 <span class='text-warning'>**Consider this unit.**</span>
 Ion Frigates are units of limited utility. With a high-enough Ion level (e.g. over 15), they provide the best ratios (upward of 3.9) against Levis and Death Stars&mdash;all capital ships. Combining them with Ion Bombers (two per IF) packs a stronger punch, but with a lower ratio (2.6); requiring fewer units.
@@ -219,7 +527,7 @@ Ion Frigates are units of limited utility. With a high-enough Ion level (e.g. ov
 * Against TI: 350 to 400 Ion Frigates per TI
 * Against Dreads: about 100 Ion Frigates per Dread
  
-### Cruisers (CR)
+#### Cruisers (CR)
 
 <span class='text-success'>**Build this unit.**</span> In Small Fleet Doctrine, Cruisers serve
 a critical role. You will want to build these by the hundreds. They are
@@ -235,8 +543,7 @@ Rings (Prings), but it takes a hundreds of them. Make sure you have
 enough. Regardless, Cruisers should be the backbone of your main battle
 fleets.
 
-Heavy Cruisers (HC)
-~~~~~~~~~~~~~~~~~~~
+#### Heavy Cruisers (HC)
 
 <span class='text-success'>**Build this unit.**</span> 
 Heavy Cruisers are the bruiser of Astro Empires. 
@@ -255,8 +562,7 @@ banks.
 Therefore, you do not need build these until you start seeing Dreadnoughts and
 Titans.
 
-Battleships (BS)
-~~~~~~~~~~~~~~~~
+#### Battleships (BS/BB)
 
 <span class='text-warning'>**Consider this unit.**</span> 
 As ships get larger, they tend to become less efficient. 
@@ -275,8 +581,7 @@ They are very efficient against Death Stars.
 Therefore, do not build Battleships for in an anti-capital role until
 you are faced with Leviathans and Death Stars.
 
-Capital Ships
--------------
+### Capital Ships
 
 Captial Ships are the massive units that provide bragging rights to
 senior players. To younger players, they provide shock-and-awe. However,
@@ -285,8 +590,7 @@ against things that cannot hurt it. Small Fleet Doctrine discourages
 building any of these units until you have a firm grasp on their use and
 can effectively destroy your rival's capital units and defend your own.
 
-Dreadnoughts (DN)
-~~~~~~~~~~~~~~~~~
+#### Dreadnoughts (DN)
 
 The strength of these units is their shields. They are great for
 attacking bases that have defenses weaker than Disruptor Turrets,
@@ -306,8 +610,7 @@ routes. While a Dread may efficiently be destroyed by Heavy Cruisers and
 Battleships, the prings would kill whatever was brought in to kill the
 Dread. This causes at best a break-even situation for the attacker.
 
-Titans (TI)
-~~~~~~~~~~~
+#### Titans (TI)
 
 Titans are massively inefficient against Heavy Cruisers and Battleships.
 They are able to destroy Cruisers effectively because of the Titan's
@@ -318,8 +621,7 @@ as will 130 HCs; assuming technology is the same.  The HCs should yield
 about a 2:1 kill ratio, while the BBs will yield around 1.5:1.  
 Titans are great to send out solo to smash bases with defenses less than rings.
 
-Leviathan
-~~~~~~~~~~
+#### Leviathan
 
 Levianthans are allegedly useful for taking bases with Disruptor
 Turrets. However, they are still massively inefficient against a
@@ -329,28 +631,26 @@ fleet and collecting the debris. Levies are best used in stacks to chomp
 opposing fleet. However, if caught off guard a destroyed Levi stack
 might make the owner cry.
 
-Utility Ships
--------------
+### Utility Ships
 
 Utility Ships are those ships which you need, but should never be used
 in combat. This guide does not discuss Outpost Ships as they have one
 obvious, limited role.
 
 <div class='bs-callout bs-callout-info'>
+<h4>Retreat Your Utilities:</h4>
 Always retreat utility ships before attacking. They are not meant for fleet
 operations.
 </div>
 
-
-### Recyclers (RC)
+#### Recyclers (RC)
 
 These are not combat units. However, they are critical to successful
 fleet operations. Resource denial is key to waging war in Astro Empires.
 You should probably have at least 1000 for effective hit-and-run
 tactics.
 
-Carriers (CA)
-~~~~~~~~~~~~~
+#### Carriers (CA)
 
 Support ships (mostly Fightes) are useless outside the base that built
 them because they need transportation. Carriers are the smallest unit
@@ -358,8 +658,7 @@ that can carry Fighters by the boat load.  They have less survivability
 than Fleet Carriers, but they are also faster. Keep a group at your
 jumpgates for rapid reinforcement. 
 
-Fleet Carriers (FC)
-~~~~~~~~~~~~~~~~~~~
+#### Fleet Carriers (FC)
 
 Fleet Carriers sacrifice speed for survivability and portage. They have
 strong enough shields to shield-rape small units. If you have a
@@ -369,18 +668,19 @@ you are experienced. You should have lots of FCs to move all your
 Fighters around. Although, if speed is your goal and you are hunting
 with Cruisers, keep using Carriers.
 
-Major Points to Remember
-------------------------
+<div class='bs-callout bs-callout-info'>
+<h4>Major Points to Remember</h4>
 
-Here are the most important parts for review:
+<p>Here are the most important parts for review:</p>
 
-* Fighters and Cruisers should be the bulk of your fleet&mdash;70 percent your total fleet size.
-* Keep enough HCs around to deal with the big stuff, with more than that if you want to use them in main fleets.
-* Do not build Frigates, Ion Frigates, or Ion Bombers. You are wasting your production time and money.
-* Bigger is not always better. The bigger you get, the less efficient you get. Do not build too much of the big stuff.
+<ul>
+<li> Fighters and Cruisers should be the bulk of your fleet&mdash;70 percent your total fleet size.</li>
+<li> Keep enough HCs around to deal with the big stuff, with more than that if you want to use them in main fleets.</li>
+<li> Do not build Frigates, Ion Frigates, or Ion Bombers. You are wasting your production time and money.</li>
+<li> Bigger is not always better. The bigger you get, the less efficient you get. Do not build too much of the big stuff.</li>
+</ul></div>
 
-Small Fleet Doctrine Applied
-============================
+## Small Fleet Doctrine Applied
 
 From the previous sections, we learn that the most efficient units are
 Fighters, Cruisers and Heavy Cruisers. We also learn that other units
@@ -390,8 +690,7 @@ technology levels. You investigate his fleet to determine where the
 chinks in the armor are. However, Small Fleet assumes that Heavy
 Cruisers are generally the largest unit you will build.
 
-Spying on Your Rival
---------------------
+### Spying on Your Rival
 
 How do you find your rival's technology? Sneak a Scout or Corvette into
 his fleet. You run through the attack sequence, stopping at the point
@@ -405,20 +704,17 @@ you need to kill his. That is your first wave. Are there many Cruisers?
 Then bring more Destroyers. If there are many Heavy Cruisers, then bring
 more Cruisers. Et cetera.
 
-Normal Fleet Strength
----------------------
+### Normal Fleet Strength
 
 In a defensive role, you should plan to cover your weaknesses. You will
 want a heavy Fighter support. Normal doctrine suggests 35 percent of
 the point value of your fleet will be Fighters. Another 40 percent
 should be Cruisers and Heavy Cruisers.
 
-Updates
-=======
+## Updates
 
 **November 2009.** Refined descriptions of Ion Bombers and Frigates to
 correct errors in anti-capital role. Added use of Corvette in a scout
 role, something Merovech has used for some time but was just lax in
 documenting.
-
 

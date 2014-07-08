@@ -17,3 +17,15 @@
 body {
 	background: url(/images/esback-white.jpg) no-repeat top left fixed !important;
 }
+.bs-callout {
+    border-left-width: 1em;
+	border-right-width: 1px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+}
+.bs-callout-danger{border-color:#d9534f}
+.bs-callout-danger h4 {border-color:#9F2622}
+.bs-callout-warning h4 {color: #C77B10;}
+.bs-callout-warning{border-color:#f0ad4e}
+.bs-callout-info{border-color:#238FAF}
+.bs-callout-info h4 {color: #114959;}

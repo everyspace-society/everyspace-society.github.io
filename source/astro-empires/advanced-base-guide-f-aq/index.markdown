@@ -14,9 +14,7 @@ challenges more experienced players who have not given optimal base
 design serious thought. This FAQ page tries to address some lingering
 questions to that guide that falls outside its scope.
 
-
-
-Q: Why does the Research Column mention a reduced number of Spaceports?
+#### Q: Why does the Research Column mention a reduced number of Spaceports?
 
 Free players are limited in the number of Terraforms. The Research Labs
 increase the total number of spaces needed by 29 when the Fusion Plants
@@ -26,7 +24,7 @@ this is to eithe reduce the number of Robotic Factories or Spaceports by
 five. This saves the need for one Urban and one Plant, totaling seven.
 The Production column demonstrates the reduction by Robotic Factories.
 
-Q: What about Android Factories? Don't Free players get five of them as well?
+#### Q: What about Android Factories? Don't Free players get five of them as well?
 
 Free players get five Android Factories, which increase the energy
 demands by 20. This would require three more Fusion Plants and four more
@@ -37,5 +35,5 @@ is an improvement of fifty percent. However, by researching to
 Cybernetics-10, a free player gains the same improvement without the
 increased space demands.
 
-Q: What about Orbital Bases?
+#### Q: What about Orbital Bases?
 

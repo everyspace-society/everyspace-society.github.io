@@ -9,10 +9,7 @@ group: AstroEmpires
 ---
 
 
-<div class=''>
-
-
-</div>
+* **Updated July 2013.**
 
 The **Base Defense Guide** describes suitable defenses premised on the
 base's profile profile; how much an attacker can reasonably expect to get in pillaging the base. The goal is to provide a basic understanding of
@@ -21,7 +18,7 @@ needs. Remember, any base defense may be taken by a motivated rival.
 The objective is to reduce the benefit the rival gains by taking the
 base.
 
-<div class=''>
+<div class='bs-callout-warning'>
 "Fixed fortifications are a monument to the stupidity of man." --- Geo.
 S. Patton
 </div>
@@ -33,8 +30,7 @@ any of these aspects is to jeopardize one's enjoyment of the game.  This
 guide discusses the defensive structures and offers a structure for when
 to have what mode of base defense.
 
-Motivation
-==========
+## Motivation
 
 As with the [Small Fleet Doctrine](/astro-empires/small-fleet-doctrine), this guide is about efficiencies.
 You are trying to raise the efficiency of your defenses to reduce the
@@ -53,8 +49,7 @@ obvious first benefactor is the base itself: its economy and
 productivity. The second benefactor is that base's trade. The other
 benefactor is the fleet in orbit over that base.
 
-Strategy
-========
+## Strategy
 
 The power of a base's combined defenses and fleets should exceed the
 total economic value of the base, fleet debris and trade routes. The
@@ -66,7 +61,8 @@ routes. How do you calculate the base's economic value?
 
 The economic value of the base is a little more fluid. The value is:
 
-<div class=''>
+<div class='bs-callout bs-callout-info'>
+<h4>Base Economic Value Formula</h4>
 Value = (Empire Econ / Base Econ) * Credits on Hand + Pillage Bonus
 </div>
 
@@ -88,7 +84,7 @@ defenses are strong enough to assist in protecting the value of the
 trade routes.
 
 
-<table class='table'><tr><>cellspacing=0 class='structure'</></tr>
+<table class='table'>
 <tr>
 <th>Base Econ</th>
 <th>Pillage Bonus</th>
@@ -145,8 +141,7 @@ trade routes.
 <td>200</td>
 <td>21600</td></tr></table>
 
-Example
--------
+### Example
 
 Assume you have 7000 credits on hand, your total economy is 1000 and your base's economy is 100. The percentage share is 10 percent (1000/100), or 700. The pillage bonus is 5400. Therefore, the rival would obtain 6100 in pillaging that base.
 
@@ -181,16 +176,15 @@ First, the solution is not always more fleet. More fleet equals more
 debris. So, the fleet becomes its own problem. This is why the base
 defenses should be somewhat self-sustaining.
 
-Defenses
-========
+## Defenses
 
 This section discusses the four categories of Base Defenses. For the
 purpose of this article, Commanders are not considered.
 
-Command Centers (CC)
---------------------
+### Command Centers (CC)
 
-<div class=''>
+<div class='bs-callout bs-callout-info'>
+<h4>Tooltip:</h4>
 Command Centers value lies in raising occupation. 
 </div>
 
@@ -229,11 +223,11 @@ damage if the attacker does not give you the extra fleet to kill. He
 needs the firepower to kill your defense fleet regardless of your
 Command Centers.
 
-Turrets
------------------
+### Turrets
 
-<div class=''>
-**Best of Three Rule of Thumb:** With Turrets, build three of your best, disband the rest.
+<div class='bs-callout bs-callout-info'>
+<h4>Best of Three Rule of Thumb:</h4>
+<p> With Turrets, build three of your best, disband the rest.</p>
 </div>
 
 This guide groups Turrets together. They do not benefit from Command
@@ -263,12 +257,12 @@ Ion Turrets have value in their shield penetrability, able to place 510
 power against shielded units.
 
 
-Shields
----------
+### Shields
 
-<div class=''>
-Shields raise the "price of admission" for an attacker, but not the
-"price of conquest." Build shields to support planetary rings&mdash;only.
+<div class='bs-callout bs-callout-warning'>
+<h4>Price of Admission Warning:</h4>
+<p>Shields raise the "price of admission" for an attacker, but not the
+"price of conquest." Build shields to support planetary rings&mdash;only.</p>
 </div>
 
 Planetary Shields, and the lesser cousin the Deflection Shields, provide
@@ -283,8 +277,7 @@ armour present at the end of the battle divided by the sum of the
 full-strength armor.
 
 
-Planetary Rings
----------------
+### Planetary Rings
 
 Planetary Rings are the first true deterrent to capital ships. A bank of
 Prings delivers 15,360 points of Photonic trouble to any
@@ -304,25 +297,28 @@ Or, more accurately, you can get those lazy bums into the attack. With
 Pringles-2, you can usually drop your defenses down to about 4000 FT and
 2 BB.
 
-<div class=''>
-I have information on the optimal defensive fleet configurations below, which supersedes the above reference to fighters and BBs.
+<div class='bs-callout bs-callout-info'>
+<h4>Hint:</h4>
+<p>
+I have information on the optimal defensive fleet configurations below, which supersedes the above reference to fighters and BBs.</p>
 </div>
 
-Trade Pring Effect
-------------------
+### Trade Pring Effect
 
 When efficiently defending a base, the first pring is actually dedicated to supporting the base defense fleet. Merovech calls this the Trade Pring Effect. When the base has long-distance trades and Dreads defending them, the value of the base, trades and derbs exceeds a single pring's ability to defend them. Therefore, you need to discount the first pring in your base defenses.
 
-Practical Example
------------------
+### Practical Example
 
-<div class=''>
-Merovech attained prings in the following timeframes:
-* First pring in Epsilon + 69 in a E7 cluster galaxy.
-* First pring in Fenix + 51 in a F1 cluster galaxy.
-* First pring in Gamma + 49 in a G1 cluster galaxy.
-* First pring in Helion + 46 in a H0 cluster galaxy.
-* First pring in Ixion + 45 days in a I0 cluster galaxy.
+<div class='bs-callout bs-callout-info'>
+<h4>Hint:</h4>
+<p>Merovech attained prings in the following timeframes:</p>
+<ul>
+<li>First pring in Epsilon + 69 in a E7 cluster galaxy.</li>
+<li>First pring in Fenix + 51 in a F1 cluster galaxy.</li>
+<li>First pring in Gamma + 49 in a G1 cluster galaxy.</li>
+<li>First pring in Helion + 46 in a H0 cluster galaxy.</li>
+<li>First pring in Ixion + 45 days in a I0 cluster galaxy.</li>
+</ul>
 </div>
 
 How does Merovech reach prings quickly? When in scenarios where there
@@ -338,8 +334,9 @@ the defense standards below.
 To remain below Level-30 your combined economy (times 100), fleet and
 technology must be less than 810,000.
 
-<div class=''>
-810,000 > (econ * 100) + Fleet + Technology
+<div class='bs-callout bs-callout-info'>
+<h4>Formula for Staying Below Level-30:</h4>
+810,000> (econ * 100) + Fleet + Technology
 </div>
 
 With all technology required for Planetary Rings, Merovech usually has
@@ -367,16 +364,14 @@ Cybernetics. It normally takes Merovech 10 days to build prings on a
 Moon. Merovech never settles on a Planet.
 
 
-Standards
-=========
+## Standards
 
 This section offers a suggested set of personal standards the player
 should strive to. The fundamental goal is to ensure you have enough
 defenses to deter a profit-seeker, and enough fleet to protect the trade
 routes.
 
-Command Centers
----------------
+### Command Centers
 
 The table below offers standards for Command Centers based on economy;
 though Merovech argues more than 10 is a waste of space after prings.
@@ -387,17 +382,17 @@ Metal Refinery column is for those who like to balance their structure
 builds. The cost of that level of Refinery is approximate to the level
 of Command Center.
 
-<table class='table'><tr><>ellspacing=0 class='structure'</></tr>
+<table class='table'>
 <tr>
 <th>Econ</th>
 <th>Count</th>
 <th>Metal Refineries</th></tr>
 <tr>
-<td>%3c 50</td>
+<td> &lt; 50</td>
 <td>5</td>
 <td>12</td></tr>
 <tr>
-<td>%3c 100</td>
+<td> &lt; 100</td>
 <td>10</td>
 <td>17</td></tr>
 <tr>
@@ -405,15 +400,14 @@ of Command Center.
 <td>10</td>
 <td>17</td></tr>
 <tr>
-<td>%3c 150</td>
+<td> &lt; 150</td>
 <td>15</td>
 <td>22</td></tr>
 <tr>
 <td>> 150</td>
 <td>20</td></tr></table>
 
-Turrets and Prings
----------------
+### Turrets and Prings
 
 The table below illustrates the relative value of structures and the
 economy they may be able to protect, based on the power delivered and
@@ -423,106 +417,121 @@ When considering these defenses, you must
 remain aware of the efficiency of larger units (e.g. Battleships)
 against defenses and adjust accordingly.
 
-<div class=''>
-Build the highest turret you have researched to the quantity necessary
+<div class='bs-callout bs-callout-warning'>
+<h4>Keep Only the Highest Turret</h4>
+<p>Build the highest turret you have researched to the quantity necessary
 to satisfy your economic defense needs, but at least 2.  Disband all
-lesser turrets.
+lesser turrets.</p>
 </div>
 
 
-<table class='table'><tr><>ellspacing=0 class='structure'</></tr>
+<table class='table table-bordered'>
 <tr>
 <th>Defense</th>
-<th> Power (@10)</th>
-<th> Econ</th>
-<th> Power (@15)</th>
-<th> Econ</th></tr>
+<th class='col-sm-2 text-right'>Power (@10)</th>
+<th class='col-sm-1 text-right'>Econ</th>
+<th class='col-sm-2 text-right'>Power (@15)</th>
+<th class='col-sm-1 text-right'>Econ</th></tr>
 <tr>
 <td>Barracks</td>
-<td> 77</td>
-<td> %3c 12</td>
-<td> 115</td>
-<td> %3c 15</td></tr>
+<td class='text-right'> 77</td>
+<td class='text-right'>  &lt; 12</td>
+<td class='text-right'> 115</td>
+<td class='text-right'>  &lt; 15</td></tr>
 <tr>
 <td>Laser Turrets</td>
-<td> 150</td>
-<td> %3c 16</td>
-<td> 225</td>
-<td> %3c 20</td></tr>
+<td class='text-right'> 150</td>
+<td class='text-right'>  &lt; 16</td>
+<td class='text-right'> 225</td>
+<td class='text-right'>  &lt; 20</td></tr>
 <tr>
 <td>Missile Turrets</td>
-<td> 220</td>
-<td> %3c 20</td>
-<td> 330</td>
-<td> %3c 25</td></tr>
+<td class='text-right'> 220</td>
+<td class='text-right'>  &lt; 20</td>
+<td class='text-right'> 330</td>
+<td class='text-right'>  &lt; 25</td></tr>
 <tr>
 <td>Plasma Turrets</td>
-<td> 400</td>
-<td> %3c 27</td>
-<td> 600</td>
-<td> %3c 33</td></tr>
+<td class='text-right'> 400</td>
+<td class='text-right'>  &lt; 27</td>
+<td class='text-right'> 600</td>
+<td class='text-right'>  &lt; 33</td></tr>
 <tr>
 <td>Ion Turrets</td>
-<td> 465</td>
-<td> %3c 30</td>
-<td> 690</td>
-<td> %3c 35</td></tr>
+<td class='text-right'> 465</td>
+<td class='text-right'>  &lt; 30</td>
+<td class='text-right'> 690</td>
+<td class='text-right'>  &lt; 35</td></tr>
 <tr>
 <td>Photon Turrets</td>
-<td> 965</td>
-<td> %3c 42</td>
-<td> 1440</td>
-<td> %3c 50</td></tr>
+<td class='text-right'> 965</td>
+<td class='text-right'>  &lt; 42</td>
+<td class='text-right'> 1440</td>
+<td class='text-right'>  &lt; 50</td></tr>
 <tr>
 <td>Disruptor Turrets-5</td>
-<td colspan='3'> 1,344</td>
-<td > %3c 50</td></tr>
+<td class='text-right'> 1,344</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 50</td></tr>
 <tr>
 <td>Disruptor Turrets-10</td>
-<td colspan='3'> 2,688</td>
-<td > %3c 70</td></tr>
+<td class='text-right'> 2,688</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 70</td></tr>
 <tr>
 <td>Disruptor Turrets-15</td>
-<td colspan='3'> 4,032</td>
-<td > %3c 86</td></tr>
+<td class='text-right'> 4,032</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 86</td></tr>
 <tr>
 <td>Prings-5</td>
-<td colspan='3'> 15,360</td>
-<td > %3c 168</td></tr>
+<td class='text-right'> 15,360</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 168</td></tr>
 <tr>
 <td>Prings-10</td>
-<td colspan='3'> 30,720</td>
-<td > %3c 238</td></tr>
+<td class='text-right'> 30,720</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 238</td></tr>
 <tr>
 <td>Prings-15</td>
-<td colspan='3'> 46,090</td>
-<td > %3c 290</td></tr>
+<td class='text-right'> 46,090</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 290</td></tr>
 <tr>
 <td>Prings-20</td>
-<td colspan='3'> 61,440</td>
-<td > %3c 337</td></tr></table>
+<td class='text-right'> 61,440</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class='text-right'>  &lt; 337</td></tr></table>
 
 * Power@10 means two turret structures of that type (e.g. Laser Turret-10)
 * Power@15 means three turret structures of that type (e.g. Ion Turret-10)
+* Prings & D-Turrets are listed separately due to the power differential.
 
-<div class=''>
+<div class='bs-callout bs-callout-danger'>
+<h4>Weak Turret Syndrome:</h4>
 Do not group turrets. Weaker turrets provide substantially less
 protection as the base economy increases.
 </div>
 
-Shields
----------------
+### Shields
 
 The rule for shields is easy. When you have researched enough for
 Deflection shields, build one level. When you have researched Planetary
 Shields, you build two. Disband the Deflection Shields when the first
 Planetary Shield is built. The net result is Pring-15, Pshield-10.
 
-Fleet
-------
+### Fleet
 
 Defense fleets protect the trade routes. Before you have prings,
-constrain yourself to self-trades or short-distance (%3c1000 paces)
+constrain yourself to self-trades or short-distance ( &lt;1000 paces)
 trades. This reduces profits made by the attacker. Once you have prings,
 you can start moving toward long-distance trades (LD trades). You should
 also push for Dread tech to protect your LD trades. As Dreads use the
@@ -534,15 +543,15 @@ inefficient against Cruisers, Heavy Cruisers and Battleships, the base
 prings will kill any of those units not killed by the Dreads&mdash;leveling
 the playing field.
 
-<div class=''>
-When relying on base prings to cover Dreads, do _not_ use that pring in
+<div class='bs-callout bs-callout-info'>
+<h4>Dread Pring Coverage Rule:</h4>
+<p>When relying on base prings to cover Dreads, do <em>not</em> use that pring in
 calculating the base defense coverage! It either supports the base or
 the trades. Otherwise, an attacker can hit the base, the trades and
-collect the derbs for a modest profit.
+collect the derbs for a modest profit.</p>
 </div>
 
-Conclusion
-==========
+## Conclusion
 
 To have adequate defenses, the player needs to ensure they have a
 balance of fleet, command centers and base defenses. The fleet protects
@@ -555,7 +564,3 @@ expects the player to adjust to his specific needs. This guide further
 seeks to show the player that Astro Empires is a bean-counting endeavor,
 and that taking time to look at the underlying structure helps find
 efficient ways to play the game.
-
- 
-
-
