@@ -403,3 +403,35 @@ task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
 end
+task :archive do
+   puts "## Archival Branch to Repositories!"
+     system "git add -A ."
+     puts "\n## Commiting: Site updated at #{Time.now.utc}"
+     message = "Project updated at #{Time.now.utc}"
+     system "git commit -m \"#{message}\""
+     ["github"].each do |remote|
+         puts "\n## Pushing to **#{remote}** website"
+         system "git push #{remote} master"
+     end
+     puts "\n## Archival complete"
+end
+desc "Publish to Heroku"
+task :publish do
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(     source_dir)
+
+  puts "## Updating Writing Statistics"
+  system "/Users/bwilson/uwg"
+
+  puts "## Generating Site with Jekyll"
+  system "compass compile --css-dir #{source_dir}/stylesheets"
+  system "jekyll build"
+
+  puts "## Deploying Branch to Heroku!"
+  system "git add -A ."
+  puts "\n## Commiting: Site updated at #{Time.now.utc}"
+  message = "Site updated at #{Time.now.utc}"
+  system "git commit -m \"#{message}\""
+  puts "\n## Pushing generated  website"
+  system "git push heroku master"
+  puts "\n## Heroku deploy complete"
+end

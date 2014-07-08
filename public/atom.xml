@@ -4,7 +4,7 @@
   <title><![CDATA[EspaceSociety]]></title>
   <link href="http://espacesociety.org/atom.xml" rel="self"/>
   <link href="http://espacesociety.org/"/>
-  <updated>2014-07-08T10:57:15-04:00</updated>
+  <updated>2014-07-08T12:04:01-04:00</updated>
   <id>http://espacesociety.org/</id>
   <author>
     <name><![CDATA[Ben Wilson]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Two Years in the Making]]></title>
+    <link href="http://espacesociety.org/articles/two-years-in-the-making/"/>
+    <updated>2014-07-08T11:40:52-04:00</updated>
+    <id>http://espacesociety.org/articles/two-years-in-the-making</id>
+    <content type="html"><![CDATA[<p>I promised in 2012 to update the site. Life got in the way, but here it is.</p>
+
+<!--more-->
+
+
+<p>Espace Society started in Summer 2004 as an idea for a lexicon game. In 2007, I started adding content for the game <a href="http://www.astroempires.com">AstroEmpires</a>. That section continues to be the largest viewership. In 2011, I started adding content for <a href="http://www.eveonline.com">Eve Online</a></p>
+
+<p>The site started as a <a href="http://pmwiki.org">PmWiki</a> site, because wiki technology is the most effective at asynchronous collaboration. But, that game wrapped up in 2009. Around that time, I got turned onto Markdown, and have searched in vain for a good Markdown-based wiki. However, the need to have multiple authors updating the site is not important any more. If it were, then the I&rsquo;m sure working via Github would be the solution.</p>
+
+<p>In 2012, I promised to update the site. Yes, I said that already. But over the past few weeks I&rsquo;ve finally done my best to make good on that promise. I just delivered a new theme, reformatting, and some corrections (largely in the Astro Empires section). There are 555 pages on this site, so there are likely to be several typographical errors or errors in the batch-translation of the site from PmWiki markup to Markdown. So, the site is now in Octopress.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress And Eve Online]]></title>
