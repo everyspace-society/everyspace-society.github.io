@@ -4,7 +4,6 @@ layout: default
 
 <div class="row">
   <div class="page-content {% unless page.sidebar == false or site.page_asides == empty and site.default_asides == empty %}col-md-8{% else %}col-md-12{% endunless %}">
-    {% include migration.html %}
     <article role="article">
       {% unless page.no_header %}
         <header class="page-header">
@@ -23,6 +22,7 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
+      {% include migration.html %}
       <div class="entry-content">
         {{ content }}
       </div>
