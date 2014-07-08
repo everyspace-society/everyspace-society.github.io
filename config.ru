@@ -16,6 +16,7 @@ use Rack::Rewrite do
    r307 %r{([[:upper:]][\w]*(?:-\w+)*[\.\/][[:upper:]][[:alnum:]]*(?:[[:upper:]][[:lower:]0-9]|[[:lower:]0-9][[:upper:]])[[:alnum:]]*)}, lambda {|match, rack_env|
       answer = match[1].split(/[\.\/]/).map{|b| b.decamelize}.join('/').prepend('/')
    }
+   r307 %{AstroEmpires\/(astro-empires\/base-defense-guide)}, "/astro-empires/base-defense-guide"
 end
 
 # The project root directory
