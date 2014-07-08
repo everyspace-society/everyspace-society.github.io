@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[EspaceSociety]]></title>
+  <link href="http://espacesociety.org/atom.xml" rel="self"/>
+  <link href="http://espacesociety.org/"/>
+  <updated>2014-07-07T14:45:10-04:00</updated>
+  <id>http://espacesociety.org/</id>
+  <author>
+    <name><![CDATA[Ben Wilson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress And Eve Online]]></title>
+    <link href="http://espacesociety.org/articles/octopress-and-eve-online/"/>
+    <updated>2012-02-29T06:35:55-05:00</updated>
+    <id>http://espacesociety.org/articles/octopress-and-eve-online</id>
+    <content type="html"><![CDATA[<hr />
+
+<p><a name='teaser'></a>
+As you can tell, I don&rsquo;t blog on Espace much these days. Most of the visitors head over to the <a href="http://espacesociety.org/astro-empires/">Astro Empires/</a> guides and pick up a few tips. This site has more than that, and it&rsquo;s about to change.</p>
+
+<p><a name='body'></a>
+Since this site started it has been managed with PmWiki. A great tool. Easy to modify. Easy to manage. I&rsquo;ve been using PmWiki for nearly a decade. I&rsquo;ll be converting this site to Octopress. That&rsquo;s another way of saying the site will be statically generated. Octopress lets me manage the site pretty much the way I always do. But, static generation gives me a few capabilities I&rsquo;m looking for at this point.</p>
+
+<p>Over the past year I&rsquo;ve been tinkering with Eve Online. You see the section on the top bar. It&rsquo;s a fun game, though a bit of a time hog. One has to have the interest.</p>
+
+<p>Last Fall I published <em>Scintilla</em>. I started on <em>Luctation</em>, but failed to focus on milieu development. That produced artistic debt that ground the draft to a halt. My son&rsquo;s waxing interest in tabletop role-playing led me to look into Traveller. Traveller and Eve are similar, and both have helped me to develop the Pax Terradoma which is paying down that debt. I hope to resume writing <em>Luctation</em> soon.</p>
+
+<p>That&rsquo;s a quick update. I&rsquo;m always looking for ways to improve the site for the many of you who visit. What are you hoping to find here that you&rsquo;re not?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About The Imperium Series]]></title>
+    <link href="http://espacesociety.org/articles/about-the-imperium-series/"/>
+    <updated>2011-07-19T01:05:56-04:00</updated>
+    <id>http://espacesociety.org/articles/about-the-imperium-series</id>
+    <content type="html"><![CDATA[<hr />
+
+<p><a name='teaser'></a>
+It took me a while to regain my momentum, but my novel <em><a href="http://dausha.net/Books/Scintilla">Scintilla</a></em> has gone through its revision. Scintilla is a Sci-Fi novel about three cultures in collision. On one hand, you have the <em>mighty</em> Imperium. You also have the backwater world of Copa, with its aristocrats and peasants. Its fundamental question is about freedom.</p>
+
+<p><a name='body'></a>The Imperium was the result of the Everyspace effort. Myself and two others tried to think of a really creative milieu to write in. We ended up creating a Lexicon game, which is a lot like pretending to be opinionated Wikipedia authors. It took us several months to weave together the narrative&ndash;to know how check out the Everyspace site which gives away the details. Afterward, I set about editing the results and packaged. I&rsquo;m still working on the Kindle and 6&#8221;x9&#8221; versions.</p>
+
+<p>I also slapped together quite a bit about the mechanics of hyperspatial travel through the Soup. You see a bit of that in Scintilla, though most of the action is planetside. If you want more action and space, you&rsquo;ll have to wait for Imbroglio or Bookmaker; both of which are in the works. Some of the terms and behaviors solidified while I played the MMORPG AstroEmpires. If you&rsquo;re a fan of that game, then you may see some influences.</p>
+
+<p>Please stay tuned. I hope to finish up Scintilla soon and make it available to you. You can check back here, or fill out the form on the other side of the Contact Me tab to your left.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What'S With The #@$& Questionnaire?]]></title>
+    <link href="http://espacesociety.org/articles/what-s-with-the-questionnaire/"/>
+    <updated>2011-02-04T12:02:52-05:00</updated>
+    <id>http://espacesociety.org/articles/what-s-with-the-questionnaire</id>
+    <content type="html"><![CDATA[<hr />
+
+<p><a name='teaser'></a>
+Okay, so if you&rsquo;re coming to this site, odds are you&rsquo;re coming to look at one of the handle AE guides I&rsquo;ve published. Simply put, I&rsquo;m trying to figure out whether I&rsquo;m doing right by you in my guides, or what more should I be doing?</p>
+
+<p>Additionally, my overall goal is to try to entice you into Science Fiction. The Lexicon RPG was a fun way to play with Sci-Fi, and I&rsquo;m looking for more contributors. And, of course, I&rsquo;m writing novels, so I&rsquo;m hoping you&rsquo;ll be interested in reading them when finished.</p>
+
+<p>Simple.</p>
+
+<p>If you completed the questionnaire, thank you. If not, I still thank you for coming to the site.
+<a name='body'></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Skin]]></title>
+    <link href="http://espacesociety.org/articles/new-skin/"/>
+    <updated>2010-03-28T14:05:34-04:00</updated>
+    <id>http://espacesociety.org/articles/new-skin</id>
+    <content type="html"><![CDATA[<p><strong>March 23, 2010.</strong>
+<a name='teaser'></a>If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.</p>
+
+<p><a name='body'></a>
+I&rsquo;ve also been thinking about how to make the site more useful; so stay tuned for updates.</p>
+
+<p>On other news, for the past three years, I&rsquo;ve been creating a series of <a href="http://espacesociety.org/events/astro-empires">Astro Empires guides</a> that provide a view into how the game functions. Through they years, I&rsquo;ve received scores of comments; usually thanking me for helping light the way.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Retooling The Timeline]]></title>
+    <link href="http://espacesociety.org/articles/retooling-the-timeline/"/>
+    <updated>2007-03-26T12:06:56-04:00</updated>
+    <id>http://espacesociety.org/articles/retooling-the-timeline</id>
+    <content type="html"><![CDATA[<p><strong>March 24, 2007.</strong>
+<a name='teaser'></a>
+After nearly a year hiatus, E-space Society is considering reforming to re-write the timeline. After the timeline is revised, we will likely move on to another lexicon game.
+<a name='body'></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lexicon Progressing Smoothly]]></title>
+    <link href="http://espacesociety.org/articles/lexicon-progressing-smoothly/"/>
+    <updated>2007-03-24T20:31:51-04:00</updated>
+    <id>http://espacesociety.org/articles/lexicon-progressing-smoothly</id>
+    <content type="html"><![CDATA[<p><a name='teaser'></a>
+On June 30, 2005, we finished our first run through the Lexicon. We wrote over 100 entries during that time. Since then, we have begun to go back through the various letters to complete the phantom entries that we created and were not able to write under the rules of the game.
+<a name='body'></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Story So Far]]></title>
+    <link href="http://espacesociety.org/articles/launching-the-lexicon/"/>
+    <updated>2007-03-24T20:31:26-04:00</updated>
+    <id>http://espacesociety.org/articles/launching-the-lexicon</id>
+    <content type="html"><![CDATA[<p><a name='teaser'></a>
+Our effort started in February, 2004 and we took a pause in July 2004. In December 2004, we resumed and this site was built. In January 2005, we began tinkering with a Lexicon called the <a href="http://espacesociety.org/macropedia/macropedia">Macropedia/Macropedia</a>. We weren&rsquo;t sure what to expect, but in the first five months we produced over one-hundred articles detailing the period known as the Imperium. The structure of the Lexicon has helped us keep going.
+<a name='body'></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ten Shy Of Completion]]></title>
+    <link href="http://espacesociety.org/articles/ten-shy-of-completion/"/>
+    <updated>2007-03-24T20:31:06-04:00</updated>
+    <id>http://espacesociety.org/articles/ten-shy-of-completion</id>
+    <content type="html"><![CDATA[<p><a name='teaser'></a>
+On <strong>October 1, 2005</strong>, We were still ten entries from completing our first Lexicon game.
+<a name='body'></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Starting The Imperium Equipment Lexicon]]></title>
+    <link href="http://espacesociety.org/articles/starting-the-imperium-equipment-lexicon/"/>
+    <updated>2007-03-24T20:30:44-04:00</updated>
+    <id>http://espacesociety.org/articles/starting-the-imperium-equipment-lexicon</id>
+    <content type="html"><![CDATA[<p><strong>February 16, 2006</strong>
+<a name='teaser'></a>
+We have resumed lexicon building with the <a href="http://espacesociety.org/macropedia/imperium-equipment">Macropedia/Imperium Equipment</a> annex. This lexicon focuses on exceptional equipment availible during the Imperium.
+<a name='body'></a></p>
+]]></content>
+  </entry>
+  
+</feed>

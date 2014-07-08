@@ -1,0 +1,520 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Ben Wilson">
+
+    
+    
+    <link rel="icon" href="/assets/favicon.ico">
+
+    <title>Planetary Ring Construction Guide - EspaceSociety</title>
+
+    
+      <link rel="canonical" href="http://espacesociety.org/astro-empires/planetary-ring-construction-guide">
+      <link href="/favicon.png" type="image/png" rel="icon">
+      <link href="/atom.xml" rel="alternate" title="EspaceSociety" type="application/atom+xml">
+
+    <!-- Bootstrap core CSS -->
+    <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <!-- Bootstrap theme -->
+    <link href="/assets/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="/assets/bootstrap/css/doc.min.css" rel="stylesheet">
+    <link href="/assets/css/screen.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="theme.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/assets/bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type='text/javascript'> 
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-575283-3']); _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+      $(document).ready(function() {  makeHighlightable() });
+    </script>
+  </head>
+  <body role='document'>
+  <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+    <div id="wrap">
+      <header role="banner">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">EverySpace Society<span>A Collaborative Science Fiction Milieu</span></a>
+            </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                 <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class='dropdown-menu'>
+                 <li><a href='/main/contributors'>Contributors</a></li>
+                 <li><a target='_blank' href='http://groups.google.com/group/espacesociety'>Google Group</a></li>
+                 <li><a href='/main/bookmarks'>Bookmarks</a></li>
+                 <li><a href='/main/contributors'>Contributors</a></li>
+                 <li><a href='/main/mailinglists'>Mailing Lists</a></li>
+                 <li><a href='/main/dictionary'>Dictionary</a></li>
+               </ul>
+            </li>
+            <li><a href='/events/events'>Events </a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Astro Empires <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href='/astro-empires/astro-empires'>Astro Empires</a></li>
+                <li><a href='/astro-empires/base-defense-guide'>Base Defense Guide</a></li>
+                <li><a href='/astro-empires/the-ten-seven-guide'>Ten-Seven Guide</a></li>
+                <li><a href='/astro-empires/advanced-base-guide'>Advanced Base Guide</a></li>
+                <li><a href='/astro-empires/articles'>Articles</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Eve Online <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href='/eve-online/eve-online'>Eve Online</a></li>
+                <li><a href='/eve-online/recommended-skills'>Recommended Skills</a></li>
+                <li><a href='/eve-online/tycoon'>Tycoon</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Macropedia Terradoma <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href='/macropedia/imperium-edition'>Imperium Edition</a></li>
+              </ul>
+            </li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div>
+        </div>
+      </header>
+      <div id="main" class="container">
+        <div id="content">
+          <div class="row">
+  <div class="page-content col-md-8">
+    <div class="bs-callout bs-callout-danger">
+	<p><strong>Notice:</strong> Espace Society is being migrated from its legacy PmWiki to Octopress. If you see any formatting errors, please be so kind as to make a comment on the page at the bottom. I will make the change promptly.</p>
+	<p>All past discussions have been lost due to the page name migration. Sorry for the inconvenience.</p>
+	<p>Thank you, and thanks for visiting EspaceSociety.</p>
+</div>
+    <article role="article">
+      
+        <header class="page-header">
+          
+            <p class="meta text-muted text-uppercase">
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="glyphicon glyphicon-calendar"></span> <time datetime="2011-02-01T21:02:15-05:00" pubdate data-updated="true">01 February 2011</time></p>
+          
+          
+            <h1 class="entry-title">
+              Planetary Ring Construction Guide
+              
+            </h1>
+          
+        </header>
+      
+      <div class="entry-content">
+        <p>A <a href="/astro-empires/2011-01-03-build-prings-in-six-weeks">short while ago</a>, I mentioned a challenge of building Planetary Rings in six weeks. That is 42 days. I should have said seven weeks, which based on my successes in the past is more manageable.</p>
+
+<ul>
+<li>First pring in Epsilon + 69 in a E7 cluster galaxy.</li>
+<li>First pring in Fenix + 51 in a F1 cluster galaxy.</li>
+<li>First pring in Gamma + 49 in a G1 cluster galaxy.</li>
+<li>First pring in Helion + 46 in a H0 cluster galaxy.</li>
+<li>First pring in Ixion + 45 days in a I0 cluster galaxy.</li>
+</ul>
+
+
+<p>As you see, I&rsquo;ve managed this a few times before. I started on Ceti, played slightly on Delta before I took a break. I started Epsilon in November, almost six months after its server start. So, E7 cluster was fairly mature, and I was in a hostile galaxy. In the other galaxy, I was at server start. So, it is a little easier when you&rsquo;re among peers.</p>
+
+<h1>Research</h1>
+
+<p>I start this article with the most important aspect: research. As I show below, you will spend over 200,000 &cent; to complete the Pring research alone. As with other things in AE, that requires a well-tuned economy and time. You will spend five of the seven weeks pushing the research. Why only five weeks? The first week you should spend <a href="/astro-empires/the-ten-seven-guide">building your empire</a>.</p>
+
+<p>&ldquo;How many Research bases do you need?&rdquo; To complete the research, you need only two bases. However, I always start with three Research bases during this phase of empire building. On Helion, I ranked in the top 20 for research for a while, with three-quarters of my bases as labs.</p>
+
+<p>Why only two bases? Take a look at the table below. Please note that I am tracking only the last 12 levels of Armour, instead of all 22. You can see at the bottom the final cost of research for all levels of each technology. The grand total is 209,309 &cent;. Photon research is 55.6 percent of the total research investment. This means you can research both Armour and Shielding on one base at the same time you research Photon on the other. I build three bases because I&rsquo;d like to continue to research other technologies, such as Laser, Plasma, etc. Having a third research base also lets me research Armour and Shielding in parallel in case somehow I&rsquo;ve fallen behind.</p>
+
+<table class='table'><tr>
+</tr>
+<tr>
+  <th>&nbsp;</th>
+  <th>Photon</th>
+  <th>Shielding</th>
+  <th>Armour</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>1028</td>
+  <td>128</td>
+  <td>231 (level 11)</td>
+  <td></td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>1542</td>
+  <td>192</td>
+  <td>346</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>2313</td>
+  <td>288</td>
+  <td>519</td>
+  <td></td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>3470</td>
+  <td>432</td>
+  <td>778</td>
+  <td></td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>5204</td>
+  <td>648</td>
+  <td>1168</td>
+  <td></td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>7806</td>
+  <td>972</td>
+  <td>1752</td>
+  <td></td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>11710</td>
+  <td>1458</td>
+  <td>2627</td>
+  <td></td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>17564</td>
+  <td>2187</td>
+  <td>3941</td>
+  <td></td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>26347</td>
+  <td>3281</td>
+  <td>5912</td>
+  <td></td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>39520</td>
+  <td>4921</td>
+  <td>8867</td>
+  <td></td>
+</tr>
+<tr>
+  <td>11</td>
+  <td></td>
+  <td>7381</td>
+  <td>13301</td>
+  <td></td>
+</tr>
+<tr>
+  <td>12</td>
+  <td></td>
+  <td>11072</td>
+  <td>19847</td>
+</tr>
+<tr>
+  <td>Total:</td>
+  <td>116503</td>
+  <td>32959</td>
+  <td>59847</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td>93806</td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+
+
+<p><strong>Commanders.</strong> I typically start a research commander as soon as I can afford one; usually after the first week. I push him to level 6 or 7, depending on circumstances. I assign him to the Photon base, but I tend to also have a second Research commander assigned to the Armour/Shield research base.</p>
+
+<p><strong>Research Labs.</strong> I push Research Labs on the Photon base to 22, and at least 20 on the other base. The third base may be between Lab-18 to Lab-20, depending on circumstances. It is important you push the Lab construction as early as you can.</p>
+
+<p><strong>Artificial Intelligence.</strong> Remember that Artificial Intelligence increases your Research rate by five percent; and I typically get to AI-2 while I am researching Photon 8. This is important because&hellip;</p>
+
+<p><strong>The Halfway Point.</strong> When you finish Photon-8, you are at the halfway point. It costs about 50,637 &cent; to get Photon-1 to Photon-8. It costs 65,866 &cent; to get Photon-9 and Photon-10. If you researched Armour and Shielding on two separate bases, you could already be finished with them by Photon-8. I typically finish both of them around the time I finish Photon-9.</p>
+
+<p>The halfway point for Armour is Armour-20. The halfway point for Shielding is Shielding-10. See the pattern? The last two levels of each technology takes as much time to research as the previous levels. So, don&rsquo;t get cocky when you&rsquo;re two-thirds of the way done and you&rsquo;re only on week four.</p>
+
+<p><strong>Daily Rates.</strong> Assuming you get to Research Commander-6 or -7 without AI, your &ldquo;Daily&rdquo; number is 4610. If you get to AI-2, then your Daily number is about 4360. That is, divide your Photon research base&rsquo;s Research rate into that number to see how many days it should take you to complete that research path.</p>
+
+<h1>Astros &amp; Structures</h1>
+
+<p>The evil secret is I made these dates by playing almost exclusively on Asteroids. I always keep my starting Astro, which is <em>always</em> a Metal-3, Slot-2 moon&mdash;restart if you have anything less.</p>
+
+<p>Consider the cost of Prings: 50,000 on a Planet, 25,000 on a Moon and 12,500 on a Roid. Divide that number by 24, and you&rsquo;ll get the following &ldquo;Daily&rdquo; value:</p>
+
+<table class='table'><tr>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <th>Planet</th>
+  <th>Moon</th>
+  <th>Roid</th>
+</tr>
+<tr>
+  <td>Cost</td>
+  <td>50,000</td>
+  <td>25,000</td>
+  <td>12,500</td>
+</tr>
+<tr>
+  <td>Daily</td>
+  <td>2,084</td>
+  <td>1,042</td>
+  <td>521</td>
+</tr>
+</table>
+
+
+<p>What do I mean by daily? Remember that your bases&#8217; Construction rating is based on the number of credits they can build in an hour. If you divided the cost of the Pring by that rate, you would know how many hours it would take. That&rsquo;s no fun, because Prings will take days.</p>
+
+<p>It&rsquo;s much easier to think in days than hours because you&rsquo;re talking a handful of days verses over 100 hours. Much easier to conceptualize. So, divide the &ldquo;Daily&rdquo; value by your base Construction rate to determine how many days it will take to build a set of Prings.</p>
+
+<p>With a Metal-3 moon, it is <a href="/astro-empires/production-structures">not hard to have a base that constructs 100 per hour</a>. By the end of the first week, many of your bases will have around Metal Refineries-14, Robotic Factories-10. In the span of a few weeks NF-3 is possible. That gives a Roid base a construction rate high enough to complete prings in one week. Add three more of each structure, and you can build prings on that Roid in five days.</p>
+
+<p><strong>Goal.</strong> Your goal should be to have enough Construction rate to complete the prings in one week from when you start construction. In the case of Planets, that&rsquo;s essentially impossible to obtain in the first seven weeks&mdash;so just do your best. My <a href="/astro-empires/production-structures">production structures chart</a> should help guide you to your target.</p>
+
+<p><strong>Base Count.</strong> As a rule, I try to get to 10 bases in the first week. Regardless, I will always build to 10 bases, then stop until I have prings. I&rsquo;ve found that once all bases have prings, I can disband the turrets and the cost recovery is enough to pick up a free Base-11.</p>
+
+<p>After prings, I go for one base per month of server time. As it is already seven weeks in, I end up with Base-12 by the end of the second month. It gets to be a challenge by Base-15.</p>
+
+<h1>Defenses</h1>
+
+<p>The <a href="/astro-empires/base-defense-guide">Base Defense Guide</a> provides a detailed discussion of what your defenses should be. You&rsquo;ll notice your bases tend to be slightly more profitable during this period. I&rsquo;ve gotten to Prings without Disruptor Turrets, and I&rsquo;ve gotten to Prings with them. I&rsquo;ve played and never research Disruptor tech (almost, once it got to where I had linked bases and could research Disruptor-1 in less than an hour, I went ahead and researched). Your call.</p>
+
+<h1>Finances</h1>
+
+<p>I consider second only to Research are your finances. First, as a rule you should not be trading outside your galaxy until you have prings. If you read my <a href="/astro-empires/base-defense-guide">Base Defense Guide</a>, you should get an idea why. To summarize, however, the value of your trade route and the debris (derbs) from the base defense fleet will always be profitable when trading outside a galaxy until you have prings and Dreads.</p>
+
+<p>Instead, you should either be trading with your neighbors or self-trading. I&rsquo;ve managed to have a decent economy by self-trading&mdash;it is sufficient enough to get you through the first few weeks. By self-trading, the only one who suffers is yourself&mdash;because to build prings in seven weeks means you cut corners on defense early.</p>
+
+<p>At this stage, you can still afford a few base hits. I typically have a handful, though generally there are more profitable neighbors and I am overlooked. There are other tricks to avoid being a target that I&rsquo;ll save for later.</p>
+
+<p>Naturally, the second way to finance your efforts is by attacking other players. That takes time and effort and involves enough variables I won&rsquo;t include them in my conversation now.</p>
+
+<h1>Putting It Together</h1>
+
+<p>Okay, so you should focus on getting to ten bases as soon as possible. During the first week you might be able to inch toward the necessary prerequisite technologies for Photon (Energy &amp; Plasma). As soon as you have the prerequisites and a base with Lab-16, start the Photon. The clock starts on Day-0; but once you get to Photon research you can start tracking your completion date.</p>
+
+<p>Get all your bases to where they can Construction about 100 &cent; per hour&hellip;And pick your best base to get the Construction as high as possible. On a Roid that means you can build the prings in under six days, ten days for Moons, three weeks for Planets.</p>
+
+<p>Once you start Photon-10, time to stop Constructing or Researching or Producing. Time to use your Production queues to build Goods (to cycle cash). Use your Construction queues to bank your credits. I typically try to save up enough to start half my bases building prings as soon as the technology is researched and enough to start the other half the next 24 hours after (or 2 days). I once managed to start all bases within two hours of Photon-10 finishing.</p>
+
+<p>I typically use a spreadsheet and update whenever I finish a technology level. I&rsquo;m able to target within three days my actual completion.</p>
+
+<h1>Conclusion</h1>
+
+<p>There you have it. There&rsquo;s nothing magical to completing prings. Just a little planning and prior knowledge.</p>
+
+<p>Once you&rsquo;ve got your prings, disband the turrets. If you want more defenses, build more prings or build pshields. Buy your next base. Next, work to Dreadnaught tech and structures, put a Dread on each of your bases, and then replace your self- and short-distance trades for long-distance trades.</p>
+
+<p>Happy Hunting!</p>
+
+<p>What do you think? What questions do you still have?</p>
+
+      </div>
+      
+        <footer>
+          <p class="meta text-muted">
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="glyphicon glyphicon-calendar"></span> <time datetime="2011-02-01T21:02:15-05:00" pubdate data-updated="true">01 February 2011</time>
+            
+          </p>
+          
+            <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://espacesociety.org/astro-empires/planetary-ring-construction-guide/index.html" data-via="" data-counturl="http://espacesociety.org/astro-empires/planetary-ring-construction-guide/index.html" >Tweet</a>
+  
+  
+  
+</div>
+
+          
+        </footer>
+      
+    </article>
+    
+      <section>
+        <h1>Comments</h1>
+        <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+      </section>
+    
+  </div>
+
+
+<aside class="sidebar col-md-4">
+	<section class="panel panel-default">
+	  <div class="panel-heading"><h3 class="panel-title">Buy the Latest Book</h3></div>
+		<p class='text-center'>
+			<img src='http://dausha.s3-website-us-east-1.amazonaws.com/images/covers/Scintilla-Neu-flat.png' alt='Scintilla' class='book'/>
+			<br />
+			<a class='btn btn-danger' href='https://www.amazon.com/dp/B005JQBIWY'>Only $0.99 &ndash; Buy Scintilla Now</a>
+		</p>
+	</section>
+
+
+	<!-- Begin MailChimp Signup Form -->
+	<section class="panel panel-default">
+	  <div class="panel-heading"><h3 class="panel-title">Become a Friend of Ben</h3></div>
+		<p>So you can hear from me when there&#8217;s something worth hearing.</p>
+		<div><form action='//dausha.us2.list-manage.com/subscribe/post?u=958ff43d5b0de49bac9ad4e21&amp;id=72de3b22a5' method='post' id='mc-embedded-subscribe-form' name='mc-embedded-subscribe-form' target='_blank'>
+			<input type='text' placeholder='Your Email Here' autocomplete='off' name='EMAIL' id='mce-EMAIL'>
+			<input type='submit' value='Subscribe' name='subscribe' id='mc-embedded-subscribe' class='btn'>
+			<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		    <div style='position: absolute; left: -5000px;'><input type='text' name='b_958ff43d5b0de49bac9ad4e21_72de3b22a5' tabindex='-1' value=''></div>
+		</form></div>
+	</section>
+
+  <section class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Recent Posts</h3>
+  </div>
+  <div id="recent_posts" class="list-group">
+    
+    <a class="list-group-item " href="/articles/octopress-and-eve-online/">Octopress and Eve Online</a>
+    
+    <a class="list-group-item " href="/articles/about-the-imperium-series/">About the Imperium Series</a>
+    
+    <a class="list-group-item " href="/articles/what-s-with-the-questionnaire/">What'S With the #@$& Questionnaire?</a>
+    
+    <a class="list-group-item " href="/articles/new-skin/">New Skin</a>
+    
+    <a class="list-group-item " href="/articles/retooling-the-timeline/">Retooling the Timeline</a>
+    
+  </div>
+</section>
+
+
+
+
+
+
+
+</aside>
+
+</div>
+
+        </div>
+      </div>
+    </div>
+    <footer role="contentinfo"><div class="container">
+    <p class="text-muted credits">
+  © E-Space Society 2004–2014 · Rights Reserved.
+  <small>
+      <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  </small>
+</p>
+
+</div>
+</footer>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/bootstrap/js/modernizr-2.8.3.js"></script>
+    
+
+<script type="text/javascript">
+      var disqus_shortname = 'espace';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://espacesociety.org/astro-empires/planetary-ring-construction-guide/index.html';
+        var disqus_url = 'http://espacesociety.org/astro-empires/planetary-ring-construction-guide/index.html';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+    
+
+    
+
+    
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+  </body>
+</html>
