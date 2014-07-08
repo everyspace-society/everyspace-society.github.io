@@ -1,0 +1,7 @@
+  <div class='row'>
+    <p>
+      {% if paginator.next_page %}<a class='basic-alignment pull-left btn btn-default' href='{{paginator.next_page}}'>&laquo; Older</a>{% endif %}
+
+      {% if paginator.previous_page %}<a class='basic-alignment pull-right btn btn-default' href='{{paginator.previous_page}}'>Newer &raquo;</a>{% endif %}
+    </p>
+  </div>

@@ -1,6 +1,12 @@
-{% capture category %}{{ post.categories | size }}{% endcapture %}
-<h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
-<p class="meta text-muted">
-  {% include post/date.html %}{{ time }}
-  {% include post/categories.html %}
-</p>
+      <!-- Blog Post -->
+      <div class='post row'>{% assign content = post.content %}
+        <div class='col-xs-3 col-sm-2 col-md-2'>
+            <a href='{{ root_url }}{{ post.url }}'>
+              <img src='{{ site.cdn_url }}/images/articles/{{post.image}}' alt="Article: {{ post.title | titlecase }}" class='img-thumbnail' />
+            </a>
+        </div>
+        <div class='col-xs-9 col-sm-10 col-md-10'>
+          <h3><a href='{{ root_url }}{{ post.url }}' alt="Article: {{ post.title | titlecase }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h3>
+          {{ content | excerpt |truncatewords: 30 }} <a href='{{ root_url }}{{ post.url }}' class='btn btn-default'  role='button'>Read more &raquo;</a></p>
+        </div>
+      </div>

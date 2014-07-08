@@ -1,10 +1,12 @@
 ---
+sidebar: true
 layout: post
 title: "The Story So Far"
 date: 2007-03-25T00:31:26+00:00
 comments: true
 sharing: true
 footer: true
+image: dp-logo.png
 group: Events
 ---
 

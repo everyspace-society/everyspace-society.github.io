@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "Octopress And Eve Online"
 date: 2012-02-29T11:35:55+00:00

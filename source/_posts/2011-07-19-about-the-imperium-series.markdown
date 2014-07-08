@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "About The Imperium Series"
 date: 2011-07-19T05:05:56+00:00

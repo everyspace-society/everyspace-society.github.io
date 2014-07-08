@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "Lexicon Progressing Smoothly"
 date: 2007-03-25T00:31:51+00:00

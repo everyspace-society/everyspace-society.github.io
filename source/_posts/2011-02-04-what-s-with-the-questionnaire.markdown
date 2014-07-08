@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: ae-logo-sq.png
 layout: post
 title: "What'S With The #@$& Questionnaire?"
 date: 2011-02-04T17:02:52+00:00

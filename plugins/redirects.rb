@@ -103,6 +103,7 @@ module Jekyll
     end
 
     def generate_aliases(destination_path, aliases)
+      return
       alias_paths ||= Array.new
       alias_paths << aliases
       alias_paths.compact!
@@ -122,6 +123,7 @@ module Jekyll
         fs_path_to_dir   = File.join(@site.dest, alias_dir)
         alias_index_path = File.join(alias_dir, alias_file)
 
+# puts "Here: #{fs_path_to_dir}"
         FileUtils.mkdir_p(fs_path_to_dir)
 
         File.open(File.join(fs_path_to_dir, alias_file), 'w') do |file|

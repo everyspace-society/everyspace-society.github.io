@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "Retooling The Timeline"
 date: 2007-03-26T16:06:56+00:00

@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "Event-2004-10-01"
 date: 2007-03-25T00:31:26+00:00

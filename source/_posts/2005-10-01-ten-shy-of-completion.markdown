@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "Ten Shy Of Completion"
 date: 2007-03-25T00:31:06+00:00

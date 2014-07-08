@@ -1,29 +1,25 @@
 require 'bundler/setup'
 require 'sinatra/base'
 
-# class String
-#    def decamelize!
-#       self.gsub!(/(.)([A-Z])/, '\1-\2').downcase!
-#    end
-#    def decamelize
-#       self.clone.decamelize!
-#    end
-# end
-# 
-# use Rack::Rewrite do
-# 
-#    # r301 %r{.*}, "http://#{ENV['SITE_URL']}$&", :if => Proc.new {|rack_env|
-#    # # ENV['RACK_ENV'] == 'production' && rack_env['SERVER_NAME'] != ENV['SITE_URL']
-#    # }    
-#    r301 $r{/([A-Z])}
-#    r301 %r{^(.+)/$}, '$1'
-# end
+class String
+   def decamelize!
+      self.gsub!(/(.)([A-Z])/, '\1-\2').downcase!
+   end
+   def decamelize
+      self.gsub(/(.)([A-Z])/, '\1-\2').downcase
+   end
+end
+gem 'rack-rewrite', '~> 1.5.0'
+require 'rack/rewrite'
+
+use Rack::Rewrite do
+   rewrite %r{([[:upper:]][\w]*(?:-\w+)*[\.\/][[:upper:]][[:alnum:]]*(?:[[:upper:]][[:lower:]0-9]|[[:lower:]0-9][[:upper:]])[[:alnum:]]*)}, lambda {|match, rack_env|
+      answer = match[1].split(/[\.\/]/).map{|b| b.decamelize}.join('/')
+   }
+end
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
-
-
-
 
 class SinatraStaticServer < Sinatra::Base
 

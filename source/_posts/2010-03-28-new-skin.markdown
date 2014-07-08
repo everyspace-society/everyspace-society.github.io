@@ -1,4 +1,6 @@
 ---
+sidebar: true
+image: dp-logo.png
 layout: post
 title: "New Skin"
 date: 2010-03-28T18:05:34+00:00
