@@ -201,7 +201,7 @@ and Astrometric Acquisition to level 3 each. You are not looking for the ability
 just scan, you need to be able to scan quickly too.  There is more to be said 
 about these skills in the "Scanning Your Ass Off" section.
 
-[See Guide -> http://fiercewebs.com/arcdragon/EverythingWormhole109.pdf](See Guide -> http://fiercewebs.com/arcdragon/EverythingWormhole109.pdf)
+[See Guide](http://fiercewebs.com/arcdragon/EverythingWormhole109.pdf)
 
 There are only 4 scanning skills in the game.  To  evaluate a character's ability to scan use a simple rule of thumb. 
 * Weak: Skills @ III

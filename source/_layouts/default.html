@@ -45,7 +45,15 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    {% include google_analytics.html %}
+    <script type='text/javascript'> 
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-575283-3']); _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+      $(document).ready(function() {  makeHighlightable() });
+    </script>
   </head>
   <body role='document'{% if page.body_id %} id="{{ page.body_id }}"{% endif %}{% if page.sidebar == false %} class="no-sidebar" {% endif %}{% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
   <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -70,6 +78,9 @@
     {% include facebook_like.html %}
     {% include google_plus_one.html %}
     {% include twitter_sharing.html %}
-
+<a style='display:none;' title="Web Statistics" href="http://clicky.com/100752142"><img alt="Web Statistics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100752142); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100752142ns.gif" /></p></noscript>
   </body>
 </html>
