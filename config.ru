@@ -13,8 +13,8 @@ gem 'rack-rewrite', '~> 1.5.0'
 require 'rack/rewrite'
 
 use Rack::Rewrite do
-   r301 %r{([[:upper:]][\w]*(?:-\w+)*[\.\/][[:upper:]][[:alnum:]]*(?:[[:upper:]][[:lower:]0-9]|[[:lower:]0-9][[:upper:]])[[:alnum:]]*)}, lambda {|match, rack_env|
-      answer = match[1].split(/[\.\/]/).map{|b| b.decamelize}.join('/')
+   r307 %r{([[:upper:]][\w]*(?:-\w+)*[\.\/][[:upper:]][[:alnum:]]*(?:[[:upper:]][[:lower:]0-9]|[[:lower:]0-9][[:upper:]])[[:alnum:]]*)}, lambda {|match, rack_env|
+      answer = match[1].split(/[\.\/]/).map{|b| b.decamelize}.join('/').prepend('/')
    }
 end
 
