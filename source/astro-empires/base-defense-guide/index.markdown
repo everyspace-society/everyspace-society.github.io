@@ -18,7 +18,7 @@ needs. Remember, any base defense may be taken by a motivated rival.
 The objective is to reduce the benefit the rival gains by taking the
 base.
 
-<div class='bs-callout-warning'>
+<div class='bs-callout bs-callout-warning'>
 "Fixed fortifications are a monument to the stupidity of man." --- Geo.
 S. Patton
 </div>

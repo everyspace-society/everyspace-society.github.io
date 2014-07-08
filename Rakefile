@@ -419,11 +419,8 @@ desc "Publish to Heroku"
 task :publish do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(     source_dir)
 
-  puts "## Updating Writing Statistics"
-  system "/Users/bwilson/uwg"
-
   puts "## Generating Site with Jekyll"
-  system "compass compile --css-dir #{source_dir}/stylesheets"
+   system "compass compile --css-dir #{asset_dir}/css" unless File.exist?("#{asset_dir}/css/screen.css")
   system "jekyll build"
 
   puts "## Deploying Branch to Heroku!"
