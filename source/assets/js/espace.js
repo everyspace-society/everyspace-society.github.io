@@ -90,7 +90,7 @@ function initEveSkills() {
     $('#attributes').keyup(function(event){ calcEveSkills(); }); calcEveSkills();
 }
 function tweakEveSkill(n, c) {
-    var r = parseFloat( $("input[name^='"+n+"']").parseNumber());
+    var r = getVal(n);
     if (r < 17 || isNaN(r)) {r = 17}
     $.cookie(c, r);
     return r;
