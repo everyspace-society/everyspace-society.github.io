@@ -31,41 +31,41 @@ Production Calculator
 </tr>
 <tr>
   <td >Metal Refinery</td>
-  <td ><div class="costcounter" id="counter-MR"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-MR"></div></td>
   <td >Cybernetics</td>
-  <td ><div class="costcounter" id="counter-CY"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-CY"></div></td>
 </tr>
 <tr>
   <td >Robotic Factory</td>
-  <td ><div class="costcounter" id="counter-RF"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-RF"></div></td>
   <td >Construction Metal-2</td>
-  <td ><div class="costcounter" id="counter-CM2"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-CM2"></div></td>
 </tr>
 <tr>
   <td >Nanite Factory</td>
-  <td ><div class="costcounter" id="counter-NF"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-NF"></div></td>
   <td >Construction Metal-3</td>
-  <td ><div class="costcounter" id="counter-CM3"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-CM3"></div></td>
 </tr>
 <tr>
   <td >Android Factory</td>
-  <td ><div class="costcounter" id="counter-AF"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-AF"></div></td>
   <td >Production Metal-2</td>
-  <td ><div class="costcounter" id="counter-PM2"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-PM2"></div></td>
 </tr>
 <tr>
   <td >Shipyard</td>
-  <td ><div class="costcounter" id="counter-SY"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-SY"></div></td>
   <td >Production Metal-3</td>
-  <td ><div class="costcounter" id="counter-PM3"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-PM3"></div></td>
 </tr>
 <tr>
   <td >Orbital Shipyard</td>
-  <td ><div class="costcounter" id="counter-OSY"></div></td>
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-OSY"></div></td>
 </tr>
 <tr>
   <td >Balanced Structures</td>
-  <td ><div class="costcounter" id="counter-balanced"></div></td> 
+  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-balanced"></div></td> 
  
 <table class='table'>
 
