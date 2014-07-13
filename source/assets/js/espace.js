@@ -20,7 +20,7 @@ function tweakProd(n) {
     var r = getVal(n)
     if (isNaN(r)) { r = 0 };
     var c = 'astro-' + n;
-    // $.cookie(c, r);
+    $.cookie(c, r);
     return r;
 }
 function getVal(key) { return parseFloat( $("input[id^='"+key+"']").val()); }
@@ -77,7 +77,7 @@ function initCalcProd() {
 
 function spHour(p,s) { return ((p + (s/2)) * 60); }
 function initEveSkills() { 
-    return;
+    // return;
     if (!$("input[name^='Perc']")) { return; }
     if ($.cookie('eve-perception')) {
         $("input[name^='Int']").val( $.cookie('eve-intelligence') );
