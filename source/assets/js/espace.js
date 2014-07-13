@@ -17,13 +17,14 @@ function scrollarea(target) {
     $(target).style.height = (document.viewport.getHeight() - 150) + 'px'; $(target).style.overflow = 'auto';
 }
 function tweakProd(n) {
-    $("input[name^='"+n+"']").prop('class','span2');
-    var r = parseFloat( $("input[name^='"+n+"']").parseNumber());
+    var r = getVal(n)
     if (isNaN(r)) { r = 0 };
     var c = 'astro-' + n;
-    $.cookie(c, r);
+    // $.cookie(c, r);
     return r;
 }
+function getVal(key) { return parseFloat( $("input[id^='"+key+"']").val()); }
+function setVal(key,value) { $("input[id="+key+"]").val(value); }
 function costProd() {
     pCost('MF'); pCost('RF'); pCost('NF'); pCost('AF'); pCost('SY'); pCost('OSY'); pCost('balanced');
     pCost('CM2'); pCost('CM3'); pCost('PM2'); pCost('PM3');pCost('CY');
@@ -58,9 +59,13 @@ function calcProd() {
     var af = tweakProd('AF') * 6; var sy = tweakProd('SY') * 2; var osy = tweakProd('OSY') * 8; var cy = tweakProd('CY');
 
     var cyber = 1 + (0.05 * cy); var shipyards = sy + osy; var fixed = rf + nf + af; var m2 = mr * 2; var m3 = mr * 3;
-    $("input[name^='CM2']").val( parseInt((fixed + m2) * cyber) ); $("input[name^='CM3']").val( parseInt((fixed + m3) * cyber) );
-    $("input[name^='PM2']").val( parseInt((fixed + m2 + shipyards) * cyber) );
-    $("input[name^='PM3']").val( parseInt((fixed + m3 + shipyards) * cyber) );
+    setVal('CM2', parseInt((fixed + m2) * cyber));
+    setVal('CM3', parseInt((fixed + m3) * cyber));
+    setVal('PM2', parseInt((fixed + m2 + shipyards) * cyber))
+    setVal('PM3', parseInt((fixed + m3 + shipyards) * cyber))
+    // $("input[name^='CM2']").val( parseInt((fixed + m2) * cyber) ); $("input[name^='CM3']").val( parseInt((fixed + m3) * cyber) );
+    // $("input[name^='PM2']").val( parseInt((fixed + m2 + shipyards) * cyber) );
+    // $("input[name^='PM3']").val( parseInt((fixed + m3 + shipyards) * cyber) );
     costProd();
 }
 function initCalcProd() {
@@ -72,6 +77,7 @@ function initCalcProd() {
 
 function spHour(p,s) { return ((p + (s/2)) * 60); }
 function initEveSkills() { 
+    return;
     if (!$("input[name^='Perc']")) { return; }
     if ($.cookie('eve-perception')) {
         $("input[name^='Int']").val( $.cookie('eve-intelligence') );

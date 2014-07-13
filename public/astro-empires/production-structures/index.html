@@ -154,71 +154,95 @@ advice of others. This page provides the players with an at-a-glance
 view of the relative cost (and value) of manufacturing structures at
 that tier.</p>
 
+
+
+
 <p>The following production calculator shows you what structures you need
 for balance, and what the relative construction and production values
 are of Metal-2 and Metal-3 bases. Adjustments for Cybernetics is
 included.</p>
 
-<h1>Production Calculator</h1>
 
-<p><table class='table' id='production-structures'></p>
 
-<p></tr>
-<tr>
-  <td >Metal Refinery</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-MR"></div></td>
-  <td >Cybernetics</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-CY"></div></td>
+
+<div class="toc">
+  <a name="toc" id="toc"></a><b>On this page&#8230;</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)<ul class="toc" id="tocid"><li><a href="#toc1">Production Calculator</a></li><li><a href="#toc2">Balanced Structure Table</a></li><li><a href="#toc3">Cost/Time Scale</a></li><li><a href="#toc4">Comments</a></li></ul></div>
+
+
+
+
+<h2><a name="toc1" id="toc1"></a>Production SSS Calculator</h2>
+
+
+<p><form id="prod" method="post"></p>
+
+<table class="table table-condensed"><tr>
+  <td> Metal Refinery </td>
+  <td> <input type="text" name="MF" value="19" id="MF" class="form-control col-xs-2" size="3" /> </td>
+  <td> Cybernetics </td>
+  <td> <input type="text" name="CY" value="0" id="CY" class="form-control col-xs-2" size="3" /> </td>
 </tr>
 <tr>
-  <td >Robotic Factory</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-RF"></div></td>
-  <td >Construction Metal-2</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-CM2"></div></td>
+  <td> Robotic Factory </td>
+  <td> <input type="text" name="RF" value="15" id="RF" class="form-control col-xs-2" size="3" /> </td>
+  <td> Construction Metal-2 </td>
+  <td> <input type="text" name="CM2" value="19" id="CM2" class="form-control col-xs-2" size="3" /> </td>
 </tr>
 <tr>
-  <td >Nanite Factory</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-NF"></div></td>
-  <td >Construction Metal-3</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-CM3"></div></td>
+  <td> Nanite Factory </td>
+  <td> <input type="text" name="NF" value="8" id="NF" class="form-control col-xs-2" size="3" /> </td>
+  <td> Construction Metal-3 </td>
+  <td> <input type="text" name="CM3" value="19" id="CM3" class="form-control col-xs-2" size="3" /> </td>
 </tr>
 <tr>
-  <td >Android Factory</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-AF"></div></td>
-  <td >Production Metal-2</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-PM2"></div></td>
+  <td> Android Factory </td>
+  <td> <input type="text" name="AF" value="2" id="AF" class="form-control col-xs-2" size="3" /> </td>
+  <td> Production Metal-2 </td>
+  <td> <input type="text" name="PM2" value="19" id="PM2" class="form-control col-xs-2" size="3" /> </td>
 </tr>
 <tr>
-  <td >Shipyard</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-SY"></div></td>
-  <td >Production Metal-3</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-PM3"></div></td>
+  <td> Shipyard </td>
+  <td> <input type="text" name="SY" value="20" id="SY" class="form-control col-xs-2" size="3" /> </td>
+  <td> Production Metal-3 </td>
+  <td> <input type="text" name="PM3" value="19" id="PM3" class="form-control col-xs-2" size="3" /> </td>
 </tr>
 <tr>
-  <td >Orbital Shipyard</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-OSY"></div></td>
+  <td> Orbital Shipyard </td>
+  <td> <input type="text" name="OSY" value="1" id="OSY" class="form-control col-xs-2" size="3" /> </td>
 </tr>
 <tr>
-  <td >Balanced Structures</td>
-  <td ><input class='col-sm-1' /><div class="costcounter" id="counter-balanced"></div></td></p>
+  <td> Balanced Structures </td>
+  <td>
+    <select name="BAL" id="balanced" class="form-control col-xs-2">
+      <option value="1" selected="selected">YES</option>
+      <option value="0">NO</option>
+    </select>
+  </td>
+</tr>
+</table>
 
-<p><table class='table'></p>
 
-<h1>Balanced Structure Table</h1>
+<p></form></p>
 
-<p>The following table lists the six key manufacturing structures: Metal
-Refineries, Robotic Factories, Nanite Factories, Android Factories,
-Shipyards and Orbital Shipyards.
-They are organized on tiers of their
-relative cost, with the cost column baselined on the price of Metal
-Refineries at that tier. The other structure costs are relatively the
-same.</p>
+<h2><a name="toc2" id="toc2"></a>Balanced Structure Table</h2>
 
-<p><div class='bs-callout bs-callout-info'>
+
+
+
+<p>The following table lists the six key manufacturing structures: Metal Refineries, Robotic Factories, Nanite Factories, Android Factories, Shipyards and Orbital Shipyards. They are organized on tiers of their relative cost, with the cost column baselined on the price of Metal Refineries at that tier. The other structure costs are relatively the same.</p>
+
+
+
+
+<div class="note">
+
 The parenthetical value represents the construction value of that tier,
-<strong>based on a Metal-2 astro</strong>. Add an additional 1 per level of Metal
+**based on a Metal-2 astro**. Add an additional 1 per level of Metal
 Refinery at that tier to get the construction value of that tier.
-</div></p>
+</div>
+
+
+
 
 <p>The italicized value represents the ten percent increase in production
 created by having Cybernetics-2, which is the minimum technology
@@ -228,438 +252,372 @@ is also the case if you have a Construction or Production commander
 assigned to that base. So, remember to adjust these numbers according to
 your specific situation.</p>
 
-<p><table class='table'></p>
 
-<p></tr>
-<tr>
-  <td class=header>Cost</td>
-  <td class=header>MR</td>
-  <td class=header>RF</td>
-  <td class=header>NF</td>
-  <td class=header>AF</td>
-  <td class=header>SY</td>
-  <td class=header>OY</td>
-  <td class='header'>CV-2</td>
-  <td class='header'>CV-3</td>
-  <td class='header'>PV</td>
-</tr>
-<tr>
-  <td >1</td>
-  <td class='MR'>1</td>
-  <td class='RF'>&ndash;</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>&ndash;</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>2</td>
-  <td class='CV'>3</td>
-  <td class='PV'>2</td>
-</tr>
-<tr>
-  <td >2</td>
-  <td class='MR'>2</td>
-  <td class='RF'>&ndash;</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>&ndash;</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>4</td>
-  <td class='CV'>6</td>
-  <td class='PV'>4</td>
-</tr>
-<tr>
-  <td >3</td>
-  <td class='MR'>3</td>
-  <td class='RF'>&ndash;</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>&ndash;</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>6</td>
-  <td class='CV'>9</td>
-  <td class='PV'>6</td>
-</tr>
-<tr>
-  <td >4</td>
-  <td class='MR'>4</td>
-  <td class='RF'>&ndash;</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>&ndash;</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>8</td>
-  <td class='CV'>12</td>
-  <td class='PV'>8</td>
-</tr>
-<tr>
-  <td >5</td>
-  <td class='MR'>5</td>
-  <td class='RF'>1</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>1</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>12</td>
-  <td class='CV'>15</td>
-  <td class='PV'>14</td>
-</tr>
-<tr>
-  <td >8</td>
-  <td class='MR'>6</td>
-  <td class='RF'>2</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>2</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>16</td>
-  <td class='CV'>21</td>
-  <td class='PV'>18</td>
-</tr>
-<tr>
-  <td >12</td>
-  <td class='MR'>7</td>
-  <td class='RF'>3</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>3</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>20</td>
-  <td class='CV'>27</td>
-  <td class='PV'>22</td>
-</tr>
-<tr>
-  <td >18</td>
-  <td class='MR'>8</td>
-  <td class='RF'>4</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>4</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>24</td>
-  <td class='CV'>32</td>
-  <td class='PV'>32</td>
-</tr>
-<tr>
-  <td >26</td>
-  <td class='MR'>9</td>
-  <td class='RF'>5</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>5</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>28</td>
-  <td class='CV'>37</td>
-  <td class='PV'>38</td>
-</tr>
-<tr>
-  <td >39 (32)</td>
-  <td class='MR'>10</td>
-  <td class='RF'>6</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>6</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>32</td>
-  <td class='CV'>42</td>
-  <td class='PV'>44</td>
-</tr>
-<tr>
-  <td class=header>Cost</td>
-  <td class=header>MR</td>
-  <td class=header>RF</td>
-  <td class=header>NF</td>
-  <td class=header>AF</td>
-  <td class=header>SY</td>
-  <td class=header>OY</td>
-  <td class='header'>CV-2</td>
-  <td class='header'>CV-3</td>
-  <td class='header'>PV</td>
-</tr>
-<tr>
-  <td >58</td>
-  <td class='MR'>11</td>
-  <td class='RF'>7</td>
-  <td class='NF'>&ndash;</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>7</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>36</td>
-  <td class='CV'>47</td>
-  <td class='PV'>50</td>
-</tr>
-<tr>
-  <td >87</td>
-  <td class='MR'>12</td>
-  <td class='RF'>8</td>
-  <td class='NF'>1</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>8</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>44</td>
-  <td class='CV'>58</td>
-  <td class='PV'>60</td>
-</tr>
-<tr>
-  <td >130</td>
-  <td class='MR'>13</td>
-  <td class='RF'>9</td>
-  <td class='NF'>2</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>9</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>52</td>
-  <td class='CV'>65</td>
-  <td class='PV'>70</td>
-</tr>
-<tr>
-  <td >195</td>
-  <td class='MR'>14</td>
-  <td class='RF'>10</td>
-  <td class='NF'>3</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>10</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>60</td>
-  <td class='CV'>74</td>
-  <td class='PV'>80</td>
-</tr>
-<tr>
-  <td >292</td>
-  <td class='MR'>15</td>
-  <td class='RF'>11</td>
-  <td class='NF'>4</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>11</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>68</td>
-  <td class='CV'>83</td>
-  <td class='PV'>90</td>
-</tr>
-<tr>
-  <td >438</td>
-  <td class='MR'>16</td>
-  <td class='RF'>12</td>
-  <td class='NF'>5</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>12</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>76</td>
-  <td class='CV'>92</td>
-  <td class='PV'>100</td>
-</tr>
-<tr>
-  <td >657</td>
-  <td class='MR'>17</td>
-  <td class='RF'>13</td>
-  <td class='NF'>6</td>
-  <td class='AF'>&ndash;</td>
-  <td class='SY'>13</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>84</td>
-  <td class='CV'>101</td>
-  <td class='PV'>110</td>
-</tr>
-<tr>
-  <td >986</td>
-  <td class='MR'>18</td>
-  <td class='RF'>14</td>
-  <td class='NF'>7</td>
-  <td class='AF'>1</td>
-  <td class='SY'>14</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>98</td>
-  <td class='CV'>116</td>
-  <td class='PV'>126</td>
-</tr>
-<tr>
-  <td >1478</td>
-  <td class='MR'>19</td>
-  <td class='RF'>15</td>
-  <td class='NF'>8</td>
-  <td class='AF'>2</td>
-  <td class='SY'>15</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>112</td>
-  <td class='CV'>131</td>
-  <td class='PV'>142</td>
-</tr>
-<tr>
-  <td >2217</td>
-  <td class='MR'>20</td>
-  <td class='RF'>16</td>
-  <td class='NF'>9</td>
-  <td class='AF'>3</td>
-  <td class='SY'>16</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>126</td>
-  <td class='CV'>146</td>
-  <td class='PV'>158</td>
-</tr>
-<tr>
-  <td class=header></td>
-  <td class=header>MR</td>
-  <td class=header>RF</td>
-  <td class=header>NF</td>
-  <td class=header>AF</td>
-  <td class=header>SY</td>
-  <td class=header>OY</td>
-  <td class='header'>CV-2</td>
-  <td class='header'>CV-3</td>
-  <td class='header'>PV</td>
-</tr>
-<tr>
-  <td >3326 (140)</td>
-  <td class='MR'>21</td>
-  <td class='RF'>17</td>
-  <td class='NF'>10</td>
-  <td class='AF'>4</td>
-  <td class='SY'>17</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>140</td>
-  <td class='CV'>161</td>
-  <td class='PV'>178</td>
-</tr>
-<tr>
-  <td >4988</td>
-  <td class='MR'>22</td>
-  <td class='RF'>18</td>
-  <td class='NF'>11</td>
-  <td class='AF'>5</td>
-  <td class='SY'>18</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>154</td>
-  <td class='CV'>176</td>
-  <td class='PV'>190</td>
-</tr>
-<tr>
-  <td >7482</td>
-  <td class='MR'>23</td>
-  <td class='RF'>19</td>
-  <td class='NF'>12</td>
-  <td class='AF'>6</td>
-  <td class='SY'>19</td>
-  <td class='OY'>&ndash;</td>
-  <td class='CV'>168</td>
-  <td class='CV'>191</td>
-  <td class='PV'>206</td>
-</tr>
-<tr>
-  <td >11085</td>
-  <td class='MR'>24</td>
-  <td class='RF'>20</td>
-  <td class='NF'>13</td>
-  <td class='AF'>7</td>
-  <td class='SY'>20</td>
-  <td class='OY'>1</td>
-  <td class='CV'>182</td>
-  <td class='CV'>206</td>
-  <td class='PV'>232 <em>255</em></td><table class='table'></p>
 
-<h1>Cost/Time Scale</h1>
 
-<p><table class='table'><tr>
+<table class="table table-condensed table-hover"><tr>
+  <th valign="top">Cost </th>
+  <th valign="top">MR </th>
+  <th valign="top">RF </th>
+  <th valign="top">NF </th>
+  <th valign="top">AF </th>
+  <th valign="top">SY </th>
+  <th valign="top">OY </th>
+  <th valign="top">CV-2 </th>
+  <th valign="top">CV-3 </th>
+  <th valign="top">PV </th>
 </tr>
 <tr>
-  <td>0</td>
-  <td>1.0</td>
-  <td>1.0</td>
+  <td>1 </td>
+  <td class="MR" valign="top">1 </td>
+  <td class="RF" valign="top">- </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">- </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">2 </td>
+  <td class="CV" valign="top">3 </td>
+  <td class="PV" valign="top">2 </td>
 </tr>
 <tr>
-  <td>1</td>
-  <td>1.5</td>
-  <td>2.5</td>
+  <td>2 </td>
+  <td class="MR" valign="top">2 </td>
+  <td class="RF" valign="top">- </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">- </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">4 </td>
+  <td class="CV" valign="top">6 </td>
+  <td class="PV" valign="top">4 </td>
 </tr>
 <tr>
-  <td>2</td>
-  <td>2.2</td>
-  <td>4.8</td>
+  <td>3 </td>
+  <td class="MR" valign="top">3 </td>
+  <td class="RF" valign="top">- </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">- </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">6 </td>
+  <td class="CV" valign="top">9 </td>
+  <td class="PV" valign="top">6 </td>
 </tr>
 <tr>
-  <td>3</td>
-  <td>3.4</td>
-  <td>8.1</td>
+  <td>4 </td>
+  <td class="MR" valign="top">4 </td>
+  <td class="RF" valign="top">- </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">- </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">8 </td>
+  <td class="CV" valign="top">12 </td>
+  <td class="PV" valign="top">8 </td>
 </tr>
 <tr>
-  <td>4</td>
-  <td>5.1</td>
-  <td>13.2</td>
+  <td>5 </td>
+  <td class="MR" valign="top">5 </td>
+  <td class="RF" valign="top">1 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">1 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">12 </td>
+  <td class="CV" valign="top">15 </td>
+  <td class="PV" valign="top">14 </td>
 </tr>
 <tr>
-  <td>5</td>
-  <td>7.6</td>
-  <td>20.8</td>
+  <td>8 </td>
+  <td class="MR" valign="top">6 </td>
+  <td class="RF" valign="top">2 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">2 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">16 </td>
+  <td class="CV" valign="top">21 </td>
+  <td class="PV" valign="top">18 </td>
 </tr>
 <tr>
-  <td>6</td>
-  <td>11.4</td>
-  <td>32.2</td>
+  <td>12 </td>
+  <td class="MR" valign="top">7 </td>
+  <td class="RF" valign="top">3 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">3 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">20 </td>
+  <td class="CV" valign="top">27 </td>
+  <td class="PV" valign="top">22 </td>
 </tr>
 <tr>
-  <td>7</td>
-  <td>17.1</td>
-  <td>49.3</td>
+  <td>18 </td>
+  <td class="MR" valign="top">8 </td>
+  <td class="RF" valign="top">4 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">4 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">24 </td>
+  <td class="CV" valign="top">32 </td>
+  <td class="PV" valign="top">32 </td>
 </tr>
 <tr>
-  <td>8</td>
-  <td>25.6</td>
-  <td>74.9</td>
+  <td>26 </td>
+  <td class="MR" valign="top">9 </td>
+  <td class="RF" valign="top">5 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">5 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">28 </td>
+  <td class="CV" valign="top">37 </td>
+  <td class="PV" valign="top">38 </td>
 </tr>
 <tr>
-  <td>9</td>
-  <td>38.4</td>
-  <td>113.3</td>
+  <td>39 (32) </td>
+  <td class="MR" valign="top">10 </td>
+  <td class="RF" valign="top">6 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">6 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">32 </td>
+  <td class="CV" valign="top">42 </td>
+  <td class="PV" valign="top">44 </td>
 </tr>
 <tr>
-  <td>10</td>
-  <td>57.7</td>
-  <td>171.0</td>
+  <th valign="top">Cost </th>
+  <th valign="top">MR </th>
+  <th valign="top">RF </th>
+  <th valign="top">NF </th>
+  <th valign="top">AF </th>
+  <th valign="top">SY </th>
+  <th valign="top">OY </th>
+  <th valign="top">CV-2 </th>
+  <th valign="top">CV-3 </th>
+  <th valign="top">PV </th>
 </tr>
 <tr>
-  <td>11</td>
-  <td>86.5</td>
-  <td>257.5</td>
+  <td>58 </td>
+  <td class="MR" valign="top">11 </td>
+  <td class="RF" valign="top">7 </td>
+  <td class="NF" valign="top">- </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">7 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">36 </td>
+  <td class="CV" valign="top">47 </td>
+  <td class="PV" valign="top">50 </td>
 </tr>
 <tr>
-  <td>12</td>
-  <td>129.7</td>
-  <td>387.2</td>
+  <td>87 </td>
+  <td class="MR" valign="top">12 </td>
+  <td class="RF" valign="top">8 </td>
+  <td class="NF" valign="top">1 </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">8 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">44 </td>
+  <td class="CV" valign="top">58 </td>
+  <td class="PV" valign="top">60 </td>
 </tr>
 <tr>
-  <td>13</td>
-  <td>194.6</td>
-  <td>581.9</td>
+  <td>130 </td>
+  <td class="MR" valign="top">13 </td>
+  <td class="RF" valign="top">9 </td>
+  <td class="NF" valign="top">2 </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">9 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">52 </td>
+  <td class="CV" valign="top">65 </td>
+  <td class="PV" valign="top">70 </td>
 </tr>
 <tr>
-  <td>14</td>
-  <td>291.9</td>
-  <td>873.8</td>
+  <td>195 </td>
+  <td class="MR" valign="top">14 </td>
+  <td class="RF" valign="top">10 </td>
+  <td class="NF" valign="top">3 </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">10 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">60 </td>
+  <td class="CV" valign="top">74<sup><a href="#fn-1">1</a></sup> </td>
+  <td class="PV" valign="top">80 </td>
 </tr>
 <tr>
-  <td>15</td>
-  <td>437.9</td>
-  <td>1311.7</td>
+  <td>292 </td>
+  <td class="MR" valign="top">15 </td>
+  <td class="RF" valign="top">11 </td>
+  <td class="NF" valign="top">4 </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">11 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">68 </td>
+  <td class="CV" valign="top">83 </td>
+  <td class="PV" valign="top">90 </td>
 </tr>
 <tr>
-  <td>16</td>
-  <td>656.8</td>
-  <td>1968.5</td>
+  <td>438 </td>
+  <td class="MR" valign="top">16 </td>
+  <td class="RF" valign="top">12 </td>
+  <td class="NF" valign="top">5 </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">12 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">76 </td>
+  <td class="CV" valign="top">92 </td>
+  <td class="PV" valign="top">100 </td>
 </tr>
 <tr>
-  <td>17</td>
-  <td>985.3</td>
-  <td>2953.8</td>
+  <td>657 </td>
+  <td class="MR" valign="top">17 </td>
+  <td class="RF" valign="top">13 </td>
+  <td class="NF" valign="top">6 </td>
+  <td class="AF" valign="top">- </td>
+  <td class="SY" valign="top">13 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">84 </td>
+  <td class="CV" valign="top">101 </td>
+  <td class="PV" valign="top">110 </td>
 </tr>
 <tr>
-  <td>18</td>
-  <td>1477.9</td>
-  <td>4431.7</td>
+  <td>986 </td>
+  <td class="MR" valign="top">18 </td>
+  <td class="RF" valign="top">14 </td>
+  <td class="NF" valign="top">7 </td>
+  <td class="AF" valign="top">1 </td>
+  <td class="SY" valign="top">14 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">98 </td>
+  <td class="CV" valign="top">116 </td>
+  <td class="PV" valign="top">126 </td>
 </tr>
 <tr>
-  <td>19</td>
-  <td>2216.8</td>
-  <td>6648.5</td>
+  <td>1478 </td>
+  <td class="MR" valign="top">19 </td>
+  <td class="RF" valign="top">15 </td>
+  <td class="NF" valign="top">8 </td>
+  <td class="AF" valign="top">2 </td>
+  <td class="SY" valign="top">15 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">112 </td>
+  <td class="CV" valign="top">131 </td>
+  <td class="PV" valign="top">142 </td>
 </tr>
-</table></p>
+<tr>
+  <td>2217 </td>
+  <td class="MR" valign="top">20 </td>
+  <td class="RF" valign="top">16 </td>
+  <td class="NF" valign="top">9 </td>
+  <td class="AF" valign="top">3 </td>
+  <td class="SY" valign="top">16 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">126 </td>
+  <td class="CV" valign="top">146<sup><a href="#fn-2">2</a></sup> </td>
+  <td class="PV" valign="top">158 </td>
+</tr>
+<tr>
+  <th valign="top">Cost</th>
+  <th valign="top">MR </th>
+  <th valign="top">RF </th>
+  <th valign="top">NF </th>
+  <th valign="top">AF </th>
+  <th valign="top">SY </th>
+  <th valign="top">OY </th>
+  <th valign="top">CV-2 </th>
+  <th valign="top">CV-3 </th>
+  <th valign="top">PV </th>
+</tr>
+<tr>
+  <td>3326 (140) </td>
+  <td class="MR" valign="top">21 </td>
+  <td class="RF" valign="top">17 </td>
+  <td class="NF" valign="top">10 </td>
+  <td class="AF" valign="top">4 </td>
+  <td class="SY" valign="top">17 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">140 </td>
+  <td class="CV" valign="top">161 </td>
+  <td class="PV" valign="top">178 </td>
+</tr>
+<tr>
+  <td>4988 </td>
+  <td class="MR" valign="top">22 </td>
+  <td class="RF" valign="top">18 </td>
+  <td class="NF" valign="top">11 </td>
+  <td class="AF" valign="top">5 </td>
+  <td class="SY" valign="top">18 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">154 </td>
+  <td class="CV" valign="top">176 </td>
+  <td class="PV" valign="top">190 </td>
+</tr>
+<tr>
+  <td>7482 </td>
+  <td class="MR" valign="top">23 </td>
+  <td class="RF" valign="top">19 </td>
+  <td class="NF" valign="top">12 </td>
+  <td class="AF" valign="top">6 </td>
+  <td class="SY" valign="top">19 </td>
+  <td class="OY" valign="top">- </td>
+  <td class="CV" valign="top">168 </td>
+  <td class="CV" valign="top">191 </td>
+  <td class="PV" valign="top">206 </td>
+</tr>
+<tr>
+  <td>11085 </td>
+  <td class="MR" valign="top">24 </td>
+  <td class="RF" valign="top">20 </td>
+  <td class="NF" valign="top">13 </td>
+  <td class="AF" valign="top">7 </td>
+  <td class="SY" valign="top">20 </td>
+  <td class="OY" valign="top">1 </td>
+  <td class="CV" valign="top">182 </td>
+  <td class="CV" valign="top">206 </td>
+  <td class="PV" valign="top">232 <em>255</em> </td>
+</tr>
+</table>
+
+
+
+
+<h2><a name="toc3" id="toc3"></a>Cost/Time Scale</h2>
+
+
+<table class="table table-condensed table-hover">
+  <tr><td>0</td><td align="right">1.0</td><td align="right">1.0</td></tr>
+  <tr><td>1</td><td align="right">1.5</td><td align="right">2.5</td></tr>
+  <tr><td>2</td><td align="right">2.2</td><td align="right">4.8</td></tr>
+  <tr><td>3</td><td align="right">3.4</td><td align="right">8.1</td></tr>
+  <tr><td>4</td><td align="right">5.1</td><td align="right">13.2</td></tr>
+  <tr><td>5</td><td align="right">7.6</td><td align="right">20.8</td></tr>
+  <tr><td>6</td><td align="right">11.4</td><td align="right">32.2</td></tr>
+  <tr><td>7</td><td align="right">17.1</td><td align="right">49.3</td></tr>
+  <tr><td>8</td><td align="right">25.6</td><td align="right">74.9</td></tr>
+  <tr><td>9</td><td align="right">38.4</td><td align="right">113.3</td></tr>
+  <tr><td>10</td><td align="right">57.7</td><td align="right">171.0</td></tr>
+  <tr><td>11</td><td align="right">86.5</td><td align="right">257.5</td></tr>
+  <tr><td>12</td><td align="right">129.7</td><td align="right">387.2</td></tr>
+  <tr><td>13</td><td align="right">194.6</td><td align="right">581.9</td></tr>
+  <tr><td>14</td><td align="right">291.9</td><td align="right">873.8</td></tr>
+  <tr><td>15</td><td align="right">437.9</td><td align="right">1311.7</td></tr>
+  <tr><td>16</td><td align="right">656.8</td><td align="right">1968.5</td></tr>
+  <tr><td>17</td><td align="right">985.3</td><td align="right">2953.8</td></tr>
+  <tr><td>18</td><td align="right">1477.9</td><td align="right">4431.7</td></tr>
+  <tr><td>19</td><td align="right">2216.8</td><td align="right">6648.5</td></tr>
+</table>
+
+
+
+
+<div id="footnotes">
+<ol><li><a name="fn-1" id="fn-1"></a>  Pring in a week for an asteroid
+</li><li><a name="fn-2" id="fn-2"></a>  Pring in a week for a moon
+</li></ol></div>
+
 
       </div>
       
