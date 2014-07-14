@@ -159,9 +159,9 @@ If you want to fit armor buffer tanks or active armor tanks you'll want to train
 
 To fit T2 modules, train Mechanic and Hull Upgrades to level V. This is the Armor Tanking Certification-Improved.
 
-**Amarr.** Because most Amarr ships favor an armor tanking approach, Amarr pilots must become proficient at armor taking skills. Specifically, Amarr pilots should train as quickly as possible to fit Tech II armor tanking modules. A Tech II tank is more than 40%25 more effective than a Tech I tank  a huge competitive advantage.
+**Amarr.** Because most Amarr ships favor an armor tanking approach, Amarr pilots must become proficient at armor taking skills. Specifically, Amarr pilots should train as quickly as possible to fit Tech II armor tanking modules. A Tech II tank is more than 40% more effective than a Tech I tank  a huge competitive advantage.
 
-**Gallente.** Because most Gallente ships favor an armor tanking approach, Gallente pilots must become proficient at armor taking skills. Specifically, Gallente pilots should train as quickly as possible to fit Tech II armor tanking modules. A Tech II tank is more than 40%25 more effective than a Tech I tank  a huge competitive advantage.
+**Gallente.** Because most Gallente ships favor an armor tanking approach, Gallente pilots must become proficient at armor taking skills. Specifically, Gallente pilots should train as quickly as possible to fit Tech II armor tanking modules. A Tech II tank is more than 40% more effective than a Tech I tank  a huge competitive advantage.
 
 Uses **Intelligence** and **Memory**. 
 
@@ -175,11 +175,11 @@ Uses **Intelligence** and **Memory**.
 <td><input type='text' name='IM' value='256' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Hull Upgrades (V)</td>
-<td>+5%25 armor hit points; fit Active Armor Hardeners and Plates.</td>
+<td>+5% armor hit points; fit Active Armor Hardeners and Plates.</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Repair Systems (IV for T2 or V)</td>
-<td> -5%25 repair systems duration; fit effective Armor Repairers</td>
+<td> -5% repair systems duration; fit effective Armor Repairers</td>
 <td><input type='text' name='IM' value='45' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 Train these skills to Level III as required.
@@ -190,19 +190,19 @@ Train these skills to Level III as required.
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>EM Armor Compensation (III)</td>
-<td> +3%25 Active Module; +5%25 Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
+<td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
 <td><input type='text' name='IM' value='16' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Explosive Armor Compensation (III)</td>
-<td> +3%25 Active Module; +5%25 Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
+<td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
 <td><input type='text' name='IM' value='16' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Kinetic Armor Compensation (III)</td>
-<td> +3%25 Active Module; +5%25 Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
+<td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
 <td><input type='text' name='IM' value='16' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Thermic Armor Compensation (III)</td>
-<td> +3%25 Active Module; +5%25 Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
+<td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
 <td><input type='text' name='IM' value='16' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
@@ -232,15 +232,15 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 <td><input type='text' name='IM' value='135' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Astrometrics Acquisition (III)</td>
-<td> -10%25 Scan Time</td>
+<td> -10% Scan Time</td>
 <td><input type='text' name='IM' value='40' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Astrometrics Rangefinding (III)</td>
-<td> +10%25 Scan Distance</td>
+<td> +10% Scan Distance</td>
 <td><input type='text' name='IM' value='64' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Astrometrics Pinpointing (III)</td>
-<td> -10%25 Deviation</td>
+<td> -10% Deviation</td>
 <td><input type='text' name='IM' value='40' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td> Racial Frigate (V)</td>
@@ -266,19 +266,19 @@ These are all the skills you need to optimize the size, recharge rate and effici
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>Energy Systems Operation (V)</td>
-<td> -5%25 capacitor recharge time; fit Capacitor Boosters.</td>
+<td> -5% capacitor recharge time; fit Capacitor Boosters.</td>
 <td><input type='text' name='IM' value='256' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Energy Management (IV+)</td>
-<td>5%25 capacitor capacity</td>
+<td>5% capacitor capacity</td>
 <td><input type='text' name='IM' value='768' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Energy Grid Upgrades (IV)</td>
-<td> -5%25 some components; fit Cap Rechargers and Power Diagnostic Systems.</td>
+<td> -5% some components; fit Cap Rechargers and Power Diagnostic Systems.</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Energy Emission Systems</td>
-<td> -5%25 capacitor need of energy emission weapons; fit Nosferatu energy weapons.</td>
+<td> -5% capacitor need of energy emission weapons; fit Nosferatu energy weapons.</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
@@ -305,19 +305,19 @@ Uses **Perception** and **Memory**.
 <td><input type='text' name='PM' value='256' id='PM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Combat Drone Operation (IV)</td>
-<td>+5%25 dmg for small/medium drones</td>
+<td>+5% dmg for small/medium drones</td>
 <td><input type='text' name='IM' value='90.5' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Drone Durability (IV)</td>
-<td>+5%25 shield, armor, hull</td>
+<td>+5% shield, armor, hull</td>
 <td><input type='text' name='PM' value='90.5' id='PM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Drone Interfacing (IV)</td>
-<td>+20%25 drone damage/mining yield; every level is like another drone</td>
+<td>+20% drone damage/mining yield; every level is like another drone</td>
 <td><input type='text' name='PM' value='226' id='PM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Drone Navigation (IV)</td>
-<td>+5%25 Microdrive</td>
+<td>+5% Microdrive</td>
 <td><input type='text' name='PM' value='226' id='PM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Drone Sharpshooting (IV)</td>
@@ -329,7 +329,7 @@ Uses **Perception** and **Memory**.
 <td><input type='text' name='PM' value='1.25' id='PM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Electronic Warfare (IV)</td>
-<td> -5%25 ECM needs</td>
+<td> -5% ECM needs</td>
 <td><input type='text' name='PM' value='226' id='PM' class='col-md-2' size='3' /></td></tr></table>
 
 To get Tech 2 drones, youll need some of the four racial 'Drone Specialization' skills. Minmatar and Gallente are the most important (Small, Medium, Heavy):
@@ -388,19 +388,19 @@ Uses **Intelligence** and **Memory**.
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td> Weapon Disruption (IV)</td>
-<td> - 5%25 capacitor need for tracking disruptors per level, and allows you to fit different TD's.</td>
+<td> - 5% capacitor need for tracking disruptors per level, and allows you to fit different TD's.</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td> Long Distance Jamming (IV)</td>
-<td> - 10%25 bonus to optimal range of TD's.</td>
+<td> - 10% bonus to optimal range of TD's.</td>
 <td><input type='text' name='IM' value='1024' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td> Turret Destabilization (IV)</td>
-<td> - 5%25 to strength of TD's per skill level.</td>
+<td> - 5% to strength of TD's per skill level.</td>
 <td><input type='text' name='IM' value='1024' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td> Frequency Modulation (IV)</td>
-<td> - 10%25 to falloff range for TDs per skill level.</td>
+<td> - 10% to falloff range for TDs per skill level.</td>
 <td><input type='text' name='IM' value='768' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td> Electronics Upgrades (III)</td>
@@ -417,19 +417,19 @@ Uses **Intelligence** and **Memory**.
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>Engineering</td>
-<td>5%25 powergrid output</td>
+<td>5% powergrid output</td>
 <td><input type='text' name='IM' value='256' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Electronics</td>
-<td>+5%25 CPU output</td>
+<td>+5% CPU output</td>
 <td><input type='text' name='IM' value='256' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Weapon Upgrades</td>
-<td> -5%25 CPU needs of weapon turrets and launchers. Also gets you T2 gyrostabilizers.</td>
+<td> -5% CPU needs of weapon turrets and launchers. Also gets you T2 gyrostabilizers.</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Advanced Weapon Upgrades (to level III)</td>
-<td> -2%25 powergrid needs of weapon turrets and launchers.</td>
+<td> -2% powergrid needs of weapon turrets and launchers.</td>
 <td><input type='text' name='IM' value='1536' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 ## Gunnery Skills
@@ -449,43 +449,43 @@ To maximize your the effectiveness from your guns, train the following to Level 
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>Gunnery</td>
-<td>+2%25 ROF (required for T2)</td>
+<td>+2% ROF (required for T2)</td>
 <td><input type='text' name='PW' value='256' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Small Turret [-(Hybrid/Projectile/Energy)-] </td>
-<td>+5%25 Small Turret damage</td>
+<td>+5% Small Turret damage</td>
 <td><input type='text' name='PW' value='256' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Medium Turret [-(Hybrid/Projectile/Energy)-] </td>
-<td>+5%25 Medium Turret damage</td>
+<td>+5% Medium Turret damage</td>
 <td><input type='text' name='PW' value='768' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Large Turret [-(Hybrid/Projectile/Energy)-] </td>
-<td>+5%25 Large Turret damage</td>
+<td>+5% Large Turret damage</td>
 <td><input type='text' name='PW' value='1280' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Motion Prediction</td>
-<td>+5%25 Turret Tracking Speed</td>
+<td>+5% Turret Tracking Speed</td>
 <td><input type='text' name='PW' value='512' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Rapid Firing</td>
-<td>+4%25 Rate of Fire</td>
+<td>+4% Rate of Fire</td>
 <td><input type='text' name='PW' value='512' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Sharpshooter</td>
-<td>+5%25 Optimal Range</td>
+<td>+5% Optimal Range</td>
 <td><input type='text' name='PW' value='512' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Surgical Strike</td>
-<td>+3%25 Damage</td>
+<td>+3% Damage</td>
 <td><input type='text' name='PW' value='1024' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Trajectory Analysis</td>
-<td>+5%25 Accuracy Falloff</td>
+<td>+5% Accuracy Falloff</td>
 <td><input type='text' name='PW' value='1280' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Controlled Bursts'^*^'</td>
-<td> -5%25 Capacitor Requirement</td>
+<td> -5% Capacitor Requirement</td>
 <td><input type='text' name='PW' value='1280' id='PW' class='col-md-2' size='3' /></td></tr></table>
 
 '^*^' Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.
@@ -493,7 +493,6 @@ To maximize your the effectiveness from your guns, train the following to Level 
 In the medium term pilots should look towards training T2 guns for more DPS. In the case of the Minmatar autocannon, an extra tactical option with T2 Barrage ammo.
 
 ## Missile Skills
-
 
 Missiles are probably the signature Caldari weapon.
 
@@ -508,36 +507,31 @@ Uses **Perception** and **Willpower**.
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>Missile Launcher Operation (MLO)</td>
-<td> +2%25 ROF; makes other skills available</td>
+<td> +2% ROF; makes other skills available</td>
 <td><input type='text' name='PW' value='256' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Missile Bombardment</td>
-<td>+10%25 flight time for all missiles (range).</td>
+<td>+10% flight time for all missiles (range).</td>
 <td><input type='text' name='PW' value='90.5' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
-<td>Rapid Launch \\</td>
-<>needs MLO II)</>
-<td> -3%25 re-fire time (DPS increase).  </td>
+<td>Rapid Launch  (needs MLO II)</td>
+<td> -3% re-fire time (DPS increase).  </td>
 <td><input type='text' name='PW' value='90.5' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
-<td>Target Navigation Prediction\\</td>
-<>needs MLO II)</>
-<td> -10%25 influence of target's velocity on damage, for all missiles (guided and unguided). Also great for hurting smaller ships.</td>
+<td>Target Navigation Prediction (needs MLO II)</td>
+<td> -10% influence of target's velocity on damage, for all missiles (guided and unguided). Also great for hurting smaller ships.</td>
 <td><input type='text' name='PW' value='90.5' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
-<td>Missile Projection\\</td>
-<>needs MLO III)</>
-<td>+10%25 missile speed (range)</td>
+<td>Missile Projection (needs MLO III)</td>
+<td>+10% missile speed (range)</td>
 <td><input type='text' name='PW' value='181' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
-<td>Warhead Upgrades\\</td>
-<>needs MLO IV) </>
-<td>+2%25 more damage per level. Another useful DPS increase. </td>
+<td>Warhead Upgrades (needs MLO IV) </td>
+<td>+2% more damage per level. Another useful DPS increase. </td>
 <td><input type='text' name='PW' value='226' id='PW' class='col-md-2' size='3' /></td></tr>
 <tr>
-<td>Guided Missile Precision Target\\</td>
-<>needs MLO V) </>
-<td> -5%25 less Sig radius influence damage of guided (light, heavy and cruise) missiles per level. Great when you want to hurt smaller ships. </td>
+<td>Guided Missile Precision Target (needs MLO V) </td>
+<td> -5% less Sig radius influence damage of guided (light, heavy and cruise) missiles per level. Great when you want to hurt smaller ships. </td>
 <td><input type='text' name='PW' value='226' id='PW' class='col-md-2' size='3' /></td></tr></table>
 
 Given the long range of most Caldari PvE missile fits, missile users also benefit from training Long Range Targeting
@@ -561,7 +555,7 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 <tr>
 <td>Light Missile</td>
 <td>Standard Missile Launcher or </td>
-<>ssault Missile Launcher</>
+<>ssault Missile Launcher</td>
 <td>Sabretooth	</td>
 <td>Piranha</td>
 <td>Bloodclaw</td>
@@ -647,11 +641,11 @@ Uses **Intelligence** and **Perception**.
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>Navigation</td>
-<td>+5%25 sub-warp ship velocity</td>
+<td>+5% sub-warp ship velocity</td>
 <td><input type='text' name='IP' value='256' id='IP' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Acceleration Control</td>
-<td>+5%25 Afterburner and `MicroWarpdrive speed boost; key to skirmish/kiting tactics in PvP</td>
+<td>+5% Afterburner and `MicroWarpdrive speed boost; key to skirmish/kiting tactics in PvP</td>
 <td><input type='text' name='IP' value='1024' id='IP' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Afterburner</td>
@@ -659,19 +653,19 @@ Uses **Intelligence** and **Perception**.
 <td><input type='text' name='IP' value='256' id='IP' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Fuel Conservation</td>
-<td> -10%25 Afterburner Capacitor usage: PvP combat frigate fits & deadspace mission fits</td>
+<td> -10% Afterburner Capacitor usage: PvP combat frigate fits & deadspace mission fits</td>
 <td><input type='text' name='IP' value='512' id='IP' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>High Speed Maneuvering</td>
-<td> -5%25 MWD capacitor usage; key to skirmish/kiting tactics in PvP</td>
+<td> -5% MWD capacitor usage; key to skirmish/kiting tactics in PvP</td>
 <td><input type='text' name='IP' value='1248' id='IP' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Evasive Maneuvering</td>
-<td>+5%25 Agility</td>
+<td>+5% Agility</td>
 <td><input type='text' name='IP' value='512' id='IP' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Spaceship Command</td>
-<td>+2%25 Agility</td>
+<td>+2% Agility</td>
 <td><input type='text' name='IP' value='256' id='IP' class='col-md-2' size='3' /></td></tr></table>
 
 
@@ -688,19 +682,19 @@ Uses **Intelligence** and **Memory**.
 <th colspan=2>Burn Rate</th></tr>
 <tr>
 <td>Shield Operation (V)</td>
-<td> -5%25 shield recharge; helps passive tanks; biggest T2 shield boosters</td>
+<td> -5% shield recharge; helps passive tanks; biggest T2 shield boosters</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Shield Upgrades (IV)</td>
-<td> -5%25 powergrid need for some shield modules; easier fitting; for T2 Large Shield Extenders</td>
+<td> -5% powergrid need for some shield modules; easier fitting; for T2 Large Shield Extenders</td>
 <td><input type='text' name='IM' value='90.5' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Tactical Shield Manipulation (IV)</td>
-<td> -5%25 pass-through damage when shields %3c25%25; T2 shield hardeners</td>
+<td> -5% pass-through damage when shields %3c25%; T2 shield hardeners</td>
 <td><input type='text' name='IM' value='182' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Shield Management (IV+)</td>
-<td> +5%25 shield HP; V for T2 Shield Boost Amplifiers, but level V may be a long-term rather than a short-term goal.</td>
+<td> +5% shield HP; V for T2 Shield Boost Amplifiers, but level V may be a long-term rather than a short-term goal.</td>
 <td><input type='text' name='IM' value='136' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Energy Grid Upgrades (IV)</td>
@@ -708,7 +702,7 @@ Uses **Intelligence** and **Memory**.
 <td><input type='text' name='IM' value='90.5' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td>Shield Compensation (IV+)</td>
-<td> -2%25 capacitor use by shield boosters; a must for active shield tanking</td>
+<td> -2% capacitor use by shield boosters; a must for active shield tanking</td>
 <td><input type='text' name='IM' value='90.5' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 
@@ -727,7 +721,7 @@ All PvP combat pilots need to train up on tackling skills. These are the skills 
 <td><input type='text' name='IM' value='512' id='IM' class='col-md-2' size='3' /></td></tr>
 <tr>
 <td> Propulsion Jamming (IV+)</td>
-<td> -5%25 capacitor needs for Warp Scrambler and Stasis Web. Needed to fit effective scramblers, disruptors and webbers</td>
+<td> -5% capacitor needs for Warp Scrambler and Stasis Web. Needed to fit effective scramblers, disruptors and webbers</td>
 <td><input type='text' name='IM' value='768' id='IM' class='col-md-2' size='3' /></td></tr></table>
 
 If you ever plan to venture into 0.0 space, you might also consider training Anchoring to Level II or more. This skill is used to deploy various items in space, including mobile warp disruptors  youll need this to set up warp disruption bubbles in null-sec space. By the way, Anchoring is also useful for setting storage containers in space, which is helpful if you plan to make some ISK as a miner.
