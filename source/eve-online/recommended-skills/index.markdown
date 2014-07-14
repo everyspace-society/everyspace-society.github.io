@@ -43,9 +43,9 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='45%'>General Attributes</th>
-<th>SP/Hour15urn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='55%'>Benefit/Why</th>
+<th class='text-center' width='15%'>Burn Rate</th></tr>
 <tr>
 <td><a name='gun'>Gunnery Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>.</td>
@@ -76,9 +76,9 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='45%'>General Attributes</th>
-<th>SP/Hour15urn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='55%'>Benefit/Why</th>
+<th class='text-center' width='15%'>Burn Rate</th></tr>
 <tr>
 <td> <a name='fit'>Fitting Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
@@ -123,9 +123,9 @@ Charisma is often considered a less important skill. In combat, nobody cares if 
 
 <table class='table'>
 <tr>
-<th>Skill</th>
-<th>Attributes</th>
-<th>SP/Hour Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='55%'>Benefit/Why</th>
+<th class='text-center' width='15%'>Burn Rate</th></tr>
 <tr>
 <td>Corporation Management</td>
 <td> <span class=''>Memory</span> / <span class=''>Charisma</span></td>
