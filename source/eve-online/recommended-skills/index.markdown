@@ -8,7 +8,9 @@ footer: true
 group: EveOnline
 ---
 
+
 ## Attributes Calculator
+
 
 <table  id='attributes' style='width: 150px'>
 <tr><td  valign='top'>Intelligence
@@ -32,14 +34,17 @@ group: EveOnline
 </p>
 
 
+
 New characters tend to do well with high Perception and Intelligence scores. This is because Perception and Intelligence are primary skills for the essential combat and piloting skills. When starting a trade-focused character, then there is value in starting with high Charisma and medium Willpower and Memory.
+
 
 ## Perception-Related Core Skills
 
+
 <table class='table'>
 <tr>
-<th>Skill</th>
-<th>General Attributes</th>
+<th width='30%'>Skill</th>
+<th width='40%'>General Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td><a name='gun'>Gunnery Skills</a></td>
@@ -61,15 +66,18 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 <td>Uses <strong>Intelligence</strong> and <strong>Perception</strong>. </td>
 <td><input type='text' name='IP' value='135' id='IP' class='col-xs-2 form-control' size='3' /></td>
 
+
 </tr>
 </table>
 
+
 ## Intelligence/Memory-Related Core Skills
+
 
 <table class='table'>
 <tr>
-<th>Skill</th>
-<th>General Attributes</th>
+<th width='30%'>Skill</th>
+<th width='40%'>General Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td> <a name='fit'>Fitting Skills</a></td>
@@ -101,13 +109,17 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
 <td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
 
+
 </tr>
 </table>
+
 
 ## Other Skill/Attributes Mapped
 
 
+
 Charisma is often considered a less important skill. In combat nobody cares if you're polite or well-groomed. In interactions between players, its your own Charisma that matters. When you hover over <span class=''>Charisma</span> in the table below, it will show the other skill group areas that involve Charisma.
+
 
 <table class='table'>
 <tr>
@@ -184,25 +196,35 @@ Charisma is often considered a less important skill. In combat nobody cares if y
 <td> <span class=''>Charisma</span>/ <span class=''>Memory</span></td>
 <td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
 
+
 </tr>
 </table>
 
+
 ## Accelerating Skill Learning
+
 
 You can compress the time required train these skills by investing in implants for Intelligence, Memory, Perception and Willpower. The minimum level if implants you should install are +3 . This will keep skill training times reasonable. You need only a bit of Cybernetics to be able to use these. If you plan in going to low-sec or nullsec, then better go cheap. For this reason, some players advise waiting six months before going to those areas...so you have some skills under your belt and are better able to afford losing your implant.s
 
+
 ## Armor Tanking Skills
+
 
 <a name='arm'></a>
 If you want to fit armor buffer tanks or active armor tanks you'll want to train armor support skills and be able to fit T2 armor tanking modules. Armor tanking is popular for PvP.
 
+
 To fit T2 modules, train Mechanic and Hull Upgrades to level V. This is the Armor Tanking Certification-Improved.
+
 
 **Amarr.** Because most Amarr ships favor an armor tanking approach, Amarr pilots must become proficient at armor taking skills. Specifically, Amarr pilots should train as quickly as possible to fit Tech II armor tanking modules. A Tech II tank is more than 40% more effective than a Tech I tank  a huge competitive advantage.
 
+
 **Gallente.** Because most Gallente ships favor an armor tanking approach, Gallente pilots must become proficient at armor taking skills. Specifically, Gallente pilots should train as quickly as possible to fit Tech II armor tanking modules. A Tech II tank is more than 40% more effective than a Tech I tank  a huge competitive advantage.
 
+
 Uses **Intelligence** and **Memory**. 
+
 
 <table class='table'>
 <tr>
@@ -224,7 +246,9 @@ Uses **Intelligence** and **Memory**.
 </tr>
 </table>
 
+
 Train these skills to Level III as required.
+
 
 <table class='table'>
 <tr>
@@ -251,7 +275,9 @@ Train these skills to Level III as required.
 </table>
 
 
+
 ## Astrometrics
+
 
 
 Have Astrometrics to level 4 and all of the other three scanning support skills to
@@ -260,12 +286,17 @@ and Astrometric Acquisition to level 3 each. You are not looking for the ability
 just scan, you need to be able to scan quickly too.  There is more to be said 
 about these skills in the "Scanning Your Ass Off" section.
 
+
 [See Guide](http://fiercewebs.com/arcdragon/EverythingWormhole109.pdf)
 
-There are only 4 scanning skills in the game.  To  evaluate a character's ability to scan use a simple rule of thumb. 
+
+There are only 4 scanning skills in the game.  To  evaluate a character's ability to scan use a simple rule of thumb.
+
+
 * Weak: Skills @ III
 * Average: Skills @ IV
 * Good: @ V
+
 
 <table class='table'>
 <tr>
@@ -296,17 +327,23 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 </table>
 
 
+
 ## Capacitor Skills
+
 
 
 <a name='cap'></a>
 **Caldari and Minmatar.** These pilots don't depend on capacitor power as much as other races do, but it's still very important, especially for active tanks, for running propulsion modules and for capacitor warfare. You'll want Energy Systems Operation at level V and Energy Management to level IV at least. Cap Boosters are useful in some PvP fits, so you'll want to be able to fit the best with Energy Grid Upgrades IV.
 
+
 **Amarr and Gallente.** Capacitor is life  without energy in your capacitor, you cant run active modules, your defenses degrade, and you end up stripped of your ship, floating in space in a pod. Amarr pilots depend on capacitor energy to run active armor tanks and to fire lasers, and as a result, they must develop several capacitor management skills. You'll want Energy Systems Operation at level 5 and Energy Management to level 4 at least. Cap Rechargers or Cap Boosters are prevalent in most PvP fittings, so you'll want to be able to fit the best with good Energy Grid Upgrade skills, 4.
+
 
 Uses **Intelligence** and **Memory**. 
 
+
 These are all the skills you need to optimize the size, recharge rate and efficiency of your capacitor:
+
 
 <table class='table'>
 <tr>
@@ -333,14 +370,18 @@ These are all the skills you need to optimize the size, recharge rate and effici
 </table>
 
 
+
 ## Drone Skills
+
 
 <a name='dro'></a>
 If you fly any ship bigger than a frigate you will want [drone skills](http://wiki.eveonline.com/en/wiki/Drones). To be most effective, you will need to get Tech II drones, which means investing even more time and effort in drone skill development. T2 light drones are a great help in Level 4 missions, where they make short work of frigates which scramble your valuable battleship, stopping you from warping out if the mission goes wrong.
 
+
 If you plan to fly the skill-intensive Typhoon you will want T1 heavy drones, and good drone support skills&mdash;and T2 heavy drones in the long term.
 
-Uses **Perception** and **Memory**.  
+
+Uses **Perception** and **Memory**.
 
 <table class='table'>
 <tr>
@@ -386,12 +427,15 @@ Uses **Perception** and **Memory**.
 </tr>
 </table>
 
+
 To get Tech 2 drones, youll need some of the four racial 'Drone Specialization' skills. Minmatar and Gallente are the most important (Small, Medium, Heavy):
 * Minmatar drones (Warrior, Valkyrie and Berserker) are very fast, and so are popular in PvP; they also do well against the Angels which you fight in many missions from Minmatar agents
 * Gallente drones (Hobgoblin, Hammerhead and Ogre) do tons of damage, and so are also popular in PvP; they also do well against most types of NPC rat
 * ECM drones can be a useful tool if you're flying solo or in a small gang with no dedicated ECM ship.
 
+
 Try to use small (S) drones against frigates, medium (M) against cruisers and heavy (H) or sentry (L) drones against battleships.
+
 
 <table class='table'>
 <tr>
@@ -429,15 +473,21 @@ Try to use small (S) drones against frigates, medium (M) against cruisers and he
 
 
 
+
+
 ## EWAR Skills
+
 
 <a name='ewa'></a>
 
+
 Electronic Warfare is a major part of fleet and small gang combat operations, especially in the UNI. Because most of our opponents have higher skill levels than the typical Eve University pilot, we must neutralize their natural advantage  and EWAR is an effective way to do this. An experienced pilot, even with tens of millions of skill points and a host of powerful faction ship modules, can do nothing if they cant target anything. With the right combination of EWAR, you can practically turn off an opponent's ship. Combined tackling and Electronic Warfare can render even the sturdiest tank and most ominous firepower absolutely useless.
+
 
 The Crucifier and Arbitrator are the two Tech 1 ewar ships in the Amarr lineup. Both rely on tracking disruption, which shuts down turret-based targets rather effectively, but are useless against missile-wielding enemies (i.e. most Caldari Pilots)
 
-Uses **Intelligence** and **Memory**.  
+
+Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
@@ -468,7 +518,9 @@ Uses **Intelligence** and **Memory**.
 </table>
 
 
+
 ## Fitting Skills
+
 
 <a name='fit'></a>
 <table class='table'>
@@ -495,16 +547,22 @@ Uses **Intelligence** and **Memory**.
 </tr>
 </table>
 
+
 ## Gunnery Skills
+
 
 
 <a name='gun'></a>
 
+
 There are several skills key for using your weapons effectively. Minmatar should master projectile. Gallente should master hybrid turrets. Amarr should master energy turrets.  Caldari players should improve their turret (hybrid) skills, just to be safe, as they are primarily missileers.
+
 
 Uses **Perception** and **Willpower**. 
 
+
 To maximize your the effectiveness from your guns, train the following to Level IV or V:
+
 
 <table class='table'>
 <tr>
@@ -554,18 +612,25 @@ To maximize your the effectiveness from your guns, train the following to Level 
 </tr>
 </table>
 
+
 '^*^' Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.
+
 
 In the medium term pilots should look towards training T2 guns for more DPS. In the case of the Minmatar autocannon, an extra tactical option with T2 Barrage ammo.
 
+
 ## Missile Skills
+
 
 Missiles are probably the signature Caldari weapon.
 
+
 Besides the skills which let you use missiles and their launchers themselves, Eve has a number of support skills which make your missiles more effective. Any pilot serious about using missiles should train these skills to IV in the long run.
+
 
 <a name='mis'></a>
 Uses **Perception** and **Willpower**. 
+
 
 <table class='table'>
 <tr>
@@ -603,7 +668,9 @@ Uses **Perception** and **Willpower**.
 </tr>
 </table>
 
+
 Given the long range of most Caldari PvE missile fits, missile users also benefit from training Long Range Targeting
+
 
 <table class='table'>
 <tr>
@@ -696,13 +763,18 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 </tr>
 </table>
 
+
 ## Navigation Skills
+
 
 **Caldari.** These are essential skills, even though Caldari ships aren't the nimblest around. Even if you stick to the bigger ships, having a more agile/quicker than expected battleship can save your life.
 
+
 **Amarr.** Amarr pilots neglect navigation skills since armor buffer tanks tend to hurt mobility, they are rather important, particularly if you want to fly any tech 2 frigates. Even if you stick to the bigger ships, having a more agile/quicker than expected battleship can save your life.
 
+
 Uses **Intelligence** and **Perception**. 
+
 
 <a name='nav'></a>
 <table class='table'>
@@ -742,12 +814,16 @@ Uses **Intelligence** and **Perception**.
 </table>
 
 
+
 ## Shield Tanking Skills
+
 
 <a name='shi'></a>
 If you want to fit shield tanks&mdash;either buffer tanks, passive regen tanks or active tanks&mdash;you'll want to train good shield support skills and be able to fit T2 shield tanking modules. The 'X Shield Compensation' (Explosive Shield Compensation, Thermic Shield Compensation &c) skills aren't as useful as their armor counterparts and you can leave them.
 
+
 Uses **Intelligence** and **Memory**.
+
 
 <table class='table'>
 <tr>
@@ -782,10 +858,13 @@ Uses **Intelligence** and **Memory**.
 </table>
 
 
+
 ## Tackling Skills
+
 
 <a name='tac'></a>
 All PvP combat pilots need to train up on tackling skills. These are the skills you need to prevent a target from escaping. These are usually the first combat skills learned by new pilots, because they are easy to master, and because they are highly valued, especially in fleet.
+
 
 <table class='table'>
 <tr>
@@ -802,5 +881,6 @@ All PvP combat pilots need to train up on tackling skills. These are the skills 
 <td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td>
 </tr>
 </table>
+
 
 If you ever plan to venture into 0.0 space, you might also consider training Anchoring to Level II or more. This skill is used to deploy various items in space, including mobile warp disruptors  youll need this to set up warp disruption bubbles in null-sec space. By the way, Anchoring is also useful for setting storage containers in space, which is helpful if you plan to make some ISK as a miner.
