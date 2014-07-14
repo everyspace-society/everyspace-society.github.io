@@ -569,15 +569,15 @@ To maximize your the effectiveness from your guns, train the following to Level 
 <td>+2% ROF (required for T2)</td>
 <td><input type='text' name='PW' value='256' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
-<td>Small Turret [-(Hybrid/Projectile/Energy)-] </td>
+<td>Small Turret <span class='small'>(Hybrid/Projectile/Energy)</span> </td>
 <td>+5% Small Turret damage</td>
 <td><input type='text' name='PW' value='256' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
-<td>Medium Turret [-(Hybrid/Projectile/Energy)-] </td>
+<td>Medium Turret <span class='small'>(Hybrid/Projectile/Energy)</span> </td>
 <td>+5% Medium Turret damage</td>
 <td><input type='text' name='PW' value='768' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
-<td>Large Turret [-(Hybrid/Projectile/Energy)-] </td>
+<td>Large Turret <span class='small'>(Hybrid/Projectile/Energy)</span> </td>
 <td>+5% Large Turret damage</td>
 <td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
@@ -608,7 +608,7 @@ To maximize your the effectiveness from your guns, train the following to Level 
 </table>
 
 
-<sup>*</sup> Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.
+<p><sup>*</sup> Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.</p>
 
 
 In the medium term pilots should look towards training T2 guns for more DPS. In the case of the Minmatar autocannon, an extra tactical option with T2 Barrage ammo.
