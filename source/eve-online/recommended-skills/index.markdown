@@ -14,19 +14,19 @@ group: EveOnline
 
 <table  id='attributes' style='width: 150px'>
 <tr><td  valign='top'>Intelligence
-</td><td  valign='top'><input type='text' name='Int' value='20' id='Int' class='col-xs-2 form-control' size='3' />
+</td><td  valign='top'><input type='text' name='Int' value='20' id='Int' class='form-control' size='3' />
 </td></tr>
 <tr><td  valign='top'>Perception
-</td><td  valign='top'><input type='text' name='Perc' value='20' id='Perc' class='col-xs-2 form-control' size='3' />
+</td><td  valign='top'><input type='text' name='Perc' value='20' id='Perc' class='form-control' size='3' />
 </td></tr>
 <tr><td  valign='top'>Charisma
-</td><td  valign='top'><input type='text' name='Char' value='19' id='Char' class='col-xs-2 form-control' size='3' />
+</td><td  valign='top'><input type='text' name='Char' value='19' id='Char' class='form-control' size='3' />
 </td></tr>
 <tr><td  valign='top'>Willpower
-</td><td  valign='top'><input type='text' name='Will' value='20' id='Will' class='col-xs-2 form-control' size='3' />
+</td><td  valign='top'><input type='text' name='Will' value='20' id='Will' class='form-control' size='3' />
 </td></tr>
 <tr><td  valign='top'>Memory
-</td><td  valign='top'><input type='text' name='Mem' value='20' id='Mem' class='col-xs-2 form-control' size='3' />
+</td><td  valign='top'><input type='text' name='Mem' value='20' id='Mem' class='form-control' size='3' />
 </td>
 </tr>
 </table>
@@ -43,28 +43,28 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
+<th class='col-sm-4'>Skill</th>
 <th width='40%'>General Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td><a name='gun'>Gunnery Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>.</td>
-<td><input type='text' name='PW' value='135' id='PW' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PW' value='135' id='PW' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='mis'>Missile Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>. </td>
-<td><input type='text' name='PW' value='135' id='PW' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PW' value='135' id='PW' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='dro'>Drone Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Memory</strong>. </td>
-<td><input type='text' name='PM' value='135' id='PM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PM' value='135' id='PM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='nav'>Navigation Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Perception</strong>. </td>
-<td><input type='text' name='IP' value='135' id='IP' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IP' value='135' id='IP' class='form-control' size='3' /></td>
 
 
 </tr>
@@ -76,38 +76,38 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
+<th class='col-sm-4'>Skill</th>
 <th width='40%'>General Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td> <a name='fit'>Fitting Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='cap'>Capacitor Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='arm'>Armor Tanking Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.  </td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='shi'>Shield Tanking Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.  </td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='tac'>Tackling Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.  </td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='ewar'>EWAR Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 
 
 </tr>
@@ -129,72 +129,72 @@ Charisma is often considered a less important skill. In combat, nobody cares if 
 <tr>
 <td>Corporation Management</td>
 <td> <span class=''>Memory</span> / <span class=''>Charisma</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Drones</td>
 <td><span class=''>Memory</span> / <span class=''>Perception</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Electronics</td>
 <td> <span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Engineering</td>
 <td><span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Gunnery</td>
 <td><span class=''>Perception</span> / <span class=''>Willpower</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Industry</td>
 <td><span class=''>Memory</span> / <span class=''>Intelligence</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Leadership</td>
 <td><span class=''>Charisma</span> / <span class=''>Willpower</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Mechanic</td>
 <td><span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Missile Launcher Operation</td>
 <td><span class=''>Perception</span> / <span class=''>Willpower</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Navigation</td>
 <td><span class=''>Intelligence</span> / <span class=''>Perception</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Science</td>
 <td><span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Social</td>
 <td> <span class=''>Charisma</span> / <span class=''>Intelligence</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Spaceship Command</td>
 <td><span class=''>Perception</span> / <span class=''>Willpower</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 </tr>
 <tr>
 <td>Trade</td>
 <td> <span class=''>Charisma</span>/ <span class=''>Memory</span></td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td>
 
 
 </tr>
@@ -228,21 +228,21 @@ Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Mechanic (V)</td>
 <td>Fit Armor Repairers.</td>
-<td><input type='text' name='IM' value='256' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='256' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Hull Upgrades (V)</td>
 <td>+5% armor hit points; fit Active Armor Hardeners and Plates.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Repair Systems (IV for T2 or V)</td>
 <td> -5% repair systems duration; fit effective Armor Repairers</td>
-<td><input type='text' name='IM' value='45' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='45' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -252,25 +252,25 @@ Train these skills to Level III as required.
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>EM Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
-<td><input type='text' name='IM' value='16' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='16' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Explosive Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
-<td><input type='text' name='IM' value='16' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='16' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Kinetic Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
-<td><input type='text' name='IM' value='16' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='16' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Thermic Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
-<td><input type='text' name='IM' value='16' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='16' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -300,29 +300,29 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Astrometrics (IV)</td>
 <td> 1x probe per level</td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Astrometrics Acquisition (III)</td>
 <td> -10% Scan Time</td>
-<td><input type='text' name='IM' value='40' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='40' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Astrometrics Rangefinding (III)</td>
 <td> +10% Scan Distance</td>
-<td><input type='text' name='IM' value='64' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='64' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Astrometrics Pinpointing (III)</td>
 <td> -10% Deviation</td>
-<td><input type='text' name='IM' value='40' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='40' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td> Racial Frigate (V)</td>
 <td> Access T2 scanning ships</td>
-<td> <input type='text' name='PW' value='512' id='PW' class='col-xs-2 form-control' size='3' /></td>
+<td> <input type='text' name='PW' value='512' id='PW' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -347,25 +347,25 @@ These are all the skills you need to optimize the size, recharge rate and effici
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='50%'>Benefit</th>
-<th width='20%'>Burn Rate</th></tr>
+<th class='col-sm-4'>Skill</th>
+<th class='col-sm-6'>Benefit</th>
+<th class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Energy Systems Operation (V)</td>
 <td> -5% capacitor recharge time; fit Capacitor Boosters.</td>
-<td><input type='text' name='IM' value='256' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='256' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Energy Management (IV+)</td>
 <td>5% capacitor capacity</td>
-<td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='768' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Energy Grid Upgrades (IV)</td>
 <td> -5% some components; fit Cap Rechargers and Power Diagnostic Systems.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Energy Emission Systems</td>
 <td> -5% capacitor need of energy emission weapons; fit Nosferatu energy weapons.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -385,45 +385,45 @@ Uses **Perception** and **Memory**.
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Drone (V)</td>
 <td>number of drones you can operate;  Key for almost all pilots that want to fly a cruiser or larger. Gateway skill for other neat drone skills. No excuses!</td>
-<td><input type='text' name='PM' value='256' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='256' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Scout Drone Operation (V)</td>
 <td>+5km range</td>
-<td><input type='text' name='PM' value='256' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='256' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Combat Drone Operation (IV)</td>
 <td>+5% dmg for small/medium drones</td>
-<td><input type='text' name='IM' value='90.5' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='90.5' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Drone Durability (IV)</td>
 <td>+5% shield, armor, hull</td>
-<td><input type='text' name='PM' value='90.5' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='90.5' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Drone Interfacing (IV)</td>
 <td>+20% drone damage/mining yield; every level is like another drone</td>
-<td><input type='text' name='PM' value='226' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='226' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Drone Navigation (IV)</td>
 <td>+5% Microdrive</td>
-<td><input type='text' name='PM' value='226' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='226' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Drone Sharpshooting (IV)</td>
 <td>Drone Optimal Range</td>
-<td><input type='text' name='PM' value='226' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='226' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>EW Drone Interfacing (I+)</td>
 <td>Increases range of all drones</td>
-<td><input type='text' name='PM' value='1.25' id='PM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PM' value='1.25' id='PM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Electronic Warfare (IV)</td>
 <td> -5% ECM needs</td>
-<td><input type='text' name='PM' value='226' id='PM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PM' value='226' id='PM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -487,29 +487,29 @@ Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td> Weapon Disruption (IV)</td>
 <td> -5% capacitor need for tracking disruptors per level, and allows you to fit different TD's.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td> Long Distance Jamming (IV)</td>
 <td> -10% bonus to optimal range of TD's.</td>
-<td><input type='text' name='IM' value='1024' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='1024' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td> Turret Destabilization (IV)</td>
 <td> -5% to strength of TD's per skill level.</td>
-<td><input type='text' name='IM' value='1024' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='1024' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td> Frequency Modulation (IV)</td>
 <td> -10% to falloff range for TDs per skill level.</td>
-<td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='768' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td> Electronics Upgrades (III)</td>
 <td> Fit Signal Amplifier module; increases the range at which they can target and damp enemy ships.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -521,25 +521,25 @@ Uses **Intelligence** and **Memory**.
 <a name='fit'></a>
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='50%'>Benefit</th>
-<th width='20%'>Burn Rate</th></tr>
+<th class='col-sm-4'>Skill</th>
+<th class='col-sm-6'>Benefit</th>
+<th class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Engineering</td>
 <td>5% powergrid output</td>
-<td><input type='text' name='IM' value='256' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='256' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Electronics</td>
 <td>+5% CPU output</td>
-<td><input type='text' name='IM' value='256' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='256' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Weapon Upgrades</td>
 <td> -5% CPU needs of weapon turrets and launchers. Also gets you T2 gyrostabilizers.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Advanced Weapon Upgrades (to level III)</td>
 <td> -2% powergrid needs of weapon turrets and launchers.</td>
-<td><input type='text' name='IM' value='1536' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='1536' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -562,49 +562,49 @@ To maximize your the effectiveness from your guns, train the following to Level 
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Gunnery</td>
 <td>+2% ROF (required for T2)</td>
-<td><input type='text' name='PW' value='256' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='256' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Small Turret <span class='small'>(Hybrid/Projectile/Energy)</span> </td>
 <td>+5% Small Turret damage</td>
-<td><input type='text' name='PW' value='256' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='256' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Medium Turret <span class='small'>(Hybrid/Projectile/Energy)</span> </td>
 <td>+5% Medium Turret damage</td>
-<td><input type='text' name='PW' value='768' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='768' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Large Turret <span class='small'>(Hybrid/Projectile/Energy)</span> </td>
 <td>+5% Large Turret damage</td>
-<td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='1280' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Motion Prediction</td>
 <td>+5% Turret Tracking Speed</td>
-<td><input type='text' name='PW' value='512' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='512' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Rapid Firing</td>
 <td>+4% Rate of Fire</td>
-<td><input type='text' name='PW' value='512' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='512' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Sharpshooter</td>
 <td>+5% Optimal Range</td>
-<td><input type='text' name='PW' value='512' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='512' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Surgical Strike</td>
 <td>+3% Damage</td>
-<td><input type='text' name='PW' value='1024' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='1024' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Trajectory Analysis</td>
 <td>+5% Accuracy Falloff</td>
-<td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='1280' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Controlled Bursts<sup>*</sup></td>
 <td> -5% Capacitor Requirement</td>
-<td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PW' value='1280' id='PW' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -630,37 +630,37 @@ Uses **Perception** and **Willpower**.
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Missile Launcher Operation (MLO)</td>
 <td> +2% ROF; makes other skills available</td>
-<td><input type='text' name='PW' value='256' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='256' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Missile Bombardment</td>
 <td>+10% flight time for all missiles (range).</td>
-<td><input type='text' name='PW' value='90.5' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='90.5' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Rapid Launch  (needs MLO II)</td>
 <td> -3% re-fire time (DPS increase).  </td>
-<td><input type='text' name='PW' value='90.5' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='90.5' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Target Navigation Prediction (needs MLO II)</td>
 <td> -10% influence of target's velocity on damage, for all missiles (guided and unguided). Also great for hurting smaller ships.</td>
-<td><input type='text' name='PW' value='90.5' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='90.5' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Missile Projection (needs MLO III)</td>
 <td>+10% missile speed (range)</td>
-<td><input type='text' name='PW' value='181' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='181' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Warhead Upgrades (needs MLO IV) </td>
 <td>+2% more damage per level. Another useful DPS increase. </td>
-<td><input type='text' name='PW' value='226' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='PW' value='226' id='PW' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Guided Missile Precision Target (needs MLO V) </td>
 <td> -5% less Sig radius influence damage of guided (light, heavy and cruise) missiles per level. Great when you want to hurt smaller ships. </td>
-<td><input type='text' name='PW' value='226' id='PW' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PW' value='226' id='PW' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -774,37 +774,37 @@ Uses **Intelligence** and **Perception**.
 <a name='nav'></a>
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Navigation</td>
 <td>+5% sub-warp ship velocity</td>
-<td><input type='text' name='IP' value='256' id='IP' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IP' value='256' id='IP' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Acceleration Control</td>
 <td>+5% Afterburner and MicroWarpdrive speed boost; key to skirmish/kiting tactics in PvP</td>
-<td><input type='text' name='IP' value='1024' id='IP' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IP' value='1024' id='IP' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Afterburner</td>
 <td>key for T2 afterburners's</td>
-<td><input type='text' name='IP' value='256' id='IP' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IP' value='256' id='IP' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Fuel Conservation</td>
 <td> -10% Afterburner Capacitor usage: PvP combat frigate fits & deadspace mission fits</td>
-<td><input type='text' name='IP' value='512' id='IP' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IP' value='512' id='IP' class='form-control' size='3' /></td></tr>
 <tr>
 <td>High Speed Maneuvering</td>
 <td> -5% MWD capacitor usage; key to skirmish/kiting tactics in PvP</td>
-<td><input type='text' name='IP' value='1248' id='IP' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IP' value='1248' id='IP' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Evasive Maneuvering</td>
 <td>+5% Agility</td>
-<td><input type='text' name='IP' value='512' id='IP' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IP' value='512' id='IP' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Spaceship Command</td>
 <td>+2% Agility</td>
-<td><input type='text' name='IP' value='256' id='IP' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IP' value='256' id='IP' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -822,33 +822,33 @@ Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td>Shield Operation (V)</td>
 <td> -5% shield recharge; helps passive tanks; biggest T2 shield boosters</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Shield Upgrades (IV)</td>
 <td> -5% powergrid need for some shield modules; easier fitting; for T2 Large Shield Extenders</td>
-<td><input type='text' name='IM' value='90.5' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='90.5' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Tactical Shield Manipulation (IV)</td>
 <td> -5% pass-through damage when shields &lt;25%; T2 shield hardeners</td>
-<td><input type='text' name='IM' value='182' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='182' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Shield Management (IV+)</td>
 <td> +5% shield HP; V for T2 Shield Boost Amplifiers, but level V may be a long-term rather than a short-term goal.</td>
-<td><input type='text' name='IM' value='136' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='136' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Energy Grid Upgrades (IV)</td>
 <td>for passive regen tanks; lets you use T2 Shield Power Relays</td>
-<td><input type='text' name='IM' value='90.5' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='90.5' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td>Shield Compensation (IV+)</td>
 <td> -2% capacitor use by shield boosters; a must for active shield tanking</td>
-<td><input type='text' name='IM' value='90.5' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='90.5' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
@@ -863,17 +863,17 @@ All PvP combat pilots need to train up on tackling skills. These are the skills 
 
 <table class='table'>
 <tr>
-<th class='text-center' width='30%'>Skill</th>
-<th class='text-center' width='50%'>Benefit/Why</th>
-<th class='text-center' width='20%'>Burn Rate</th></tr>
+<th class='text-center' class='col-sm-4'>Skill</th>
+<th class='text-center' class='col-sm-6'>Benefit/Why</th>
+<th class='text-center' class='col-sm-2'>Burn Rate</th></tr>
 <tr>
 <td> Energy Emission Systems(IV+)</td>
 <td> Fit energy neutralizers. This is particularly valuable for Amarr pilots looking at the T2 Curse, Pilgrim, and Sentinel. (Also in Capacitor and Shield Tanking, above.)</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
+<td><input type='text' name='IM' value='512' id='IM' class='form-control' size='3' /></td></tr>
 <tr>
 <td> Propulsion Jamming (IV+)</td>
 <td> -5% capacitor needs for Warp Scrambler and Stasis Web. Needed to fit effective scramblers, disruptors and webbers</td>
-<td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IM' value='768' id='IM' class='form-control' size='3' /></td>
 </tr>
 </table>
 
