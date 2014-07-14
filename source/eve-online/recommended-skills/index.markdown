@@ -10,17 +10,24 @@ group: EveOnline
 
 ## Attributes Calculator
 
-<table  id='attributes' style='width: 150px'><tr><td  valign='top'>Intelligence
-</td><td  valign='top'><input type='text' name='Int' value='20' id='Int' class='span2' size='3' />
-</td></tr><tr><td  valign='top'>Perception
-</td><td  valign='top'><input type='text' name='Perc' value='20' id='Perc' class='span2' size='3' />
-</td></tr><tr><td  valign='top'>Charisma
-</td><td  valign='top'><input type='text' name='Char' value='19' id='Char' class='span2' size='3' />
-</td></tr><tr><td  valign='top'>Willpower
-</td><td  valign='top'><input type='text' name='Will' value='20' id='Will' class='span2' size='3' />
-</td></tr><tr><td  valign='top'>Memory
-</td><td  valign='top'><input type='text' name='Mem' value='20' id='Mem' class='span2' size='3' />
-</td></tr></table>
+<table  id='attributes' style='width: 150px'>
+<tr><td  valign='top'>Intelligence
+</td><td  valign='top'><input type='text' name='Int' value='20' id='Int' class='col-xs-2 form-control' size='3' />
+</td></tr>
+<tr><td  valign='top'>Perception
+</td><td  valign='top'><input type='text' name='Perc' value='20' id='Perc' class='col-xs-2 form-control' size='3' />
+</td></tr>
+<tr><td  valign='top'>Charisma
+</td><td  valign='top'><input type='text' name='Char' value='19' id='Char' class='col-xs-2 form-control' size='3' />
+</td></tr>
+<tr><td  valign='top'>Willpower
+</td><td  valign='top'><input type='text' name='Will' value='20' id='Will' class='col-xs-2 form-control' size='3' />
+</td></tr>
+<tr><td  valign='top'>Memory
+</td><td  valign='top'><input type='text' name='Mem' value='20' id='Mem' class='col-xs-2 form-control' size='3' />
+</td>
+</tr>
+</table>
 <p>Setting these attributes to your character's current attributes sets the skill points per hour in the various skill group tables below, under the Burn Rate column.
 </p>
 
@@ -29,50 +36,61 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 
 ## Perception-Related Core Skills
 
-
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th>Skill</th>
 <th>Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td><a name='gun'>Gunnery Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>.</td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='mis'>Missile Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>. </td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='dro'>Drone Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Memory</strong>. </td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='nav'>Navigation Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Perception</strong>. </td>
-<td></td></tr></table>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+
+</tr>
+</table>
 
 ## Intelligence/Memory-Related Core Skills
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th>Skill</th>
 <th>Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td> <a name='fit'>Fitting Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='cap'>Capacitor Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='arm'>Armor Tanking Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.  </td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='shi'>Shield Tanking Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.  </td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td><a name='tac'>Tackling Skills</a></td>
 
@@ -80,73 +98,93 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 <tr>
 <td><a name='ewar'>EWAR Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.</td>
-<td></td></tr></table>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+
+</tr>
+</table>
 
 ## Other Skill/Attributes Mapped
 
 
 Charisma is often considered a less important skill. In combat nobody cares if you're polite or well-groomed. In interactions between players, its your own Charisma that matters. When you hover over <span class=''>Charisma</span> in the table below, it will show the other skill group areas that involve Charisma.
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th>Skill</th>
 <th>Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td>Corporation Management</td>
 <td> <span class=''>Memory</span> / <span class=''>Charisma</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Drones</td>
 <td><span class=''>Memory</span> / <span class=''>Perception</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Electronics</td>
 <td> <span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Engineering</td>
 <td><span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Gunnery</td>
 <td><span class=''>Perception</span> / <span class=''>Willpower</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Industry</td>
 <td><span class=''>Memory</span> / <span class=''>Intelligence</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Leadership</td>
 <td><span class=''>Charisma</span> / <span class=''>Willpower</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Mechanic</td>
 <td><span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Missile Launcher Operation</td>
 <td><span class=''>Perception</span> / <span class=''>Willpower</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Navigation</td>
 <td><span class=''>Intelligence</span> / <span class=''>Perception</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Science</td>
 <td><span class=''>Intelligence</span> / <span class=''>Memory</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Social</td>
 <td> <span class=''>Charisma</span> / <span class=''>Intelligence</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Spaceship Command</td>
 <td><span class=''>Perception</span> / <span class=''>Willpower</span></td>
-<td></td></tr>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
 <tr>
 <td>Trade</td>
 <td> <span class=''>Charisma</span>/ <span class=''>Memory</span></td>
-<td></td></tr></table>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+
+</tr>
+</table>
 
 ## Accelerating Skill Learning
 
@@ -165,7 +203,8 @@ To fit T2 modules, train Mechanic and Hull Upgrades to level V. This is the Armo
 
 Uses **Intelligence** and **Memory**. 
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -180,11 +219,14 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <td>Repair Systems (IV for T2 or V)</td>
 <td> -5% repair systems duration; fit effective Armor Repairers</td>
-<td><input type='text' name='IM' value='45' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='45' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 Train these skills to Level III as required.
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -203,7 +245,9 @@ Train these skills to Level III as required.
 <tr>
 <td>Thermic Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
-<td><input type='text' name='IM' value='16' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='16' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 
 ## Astrometrics
@@ -222,7 +266,8 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 * Average: Skills @ IV
 * Good: @ V
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -245,7 +290,9 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 <tr>
 <td> Racial Frigate (V)</td>
 <td> Access T2 scanning ships</td>
-<td> <input type='text' name='PW' value='512' id='PW' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td> <input type='text' name='PW' value='512' id='PW' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 
 ## Capacitor Skills
@@ -260,7 +307,8 @@ Uses **Intelligence** and **Memory**.
 
 These are all the skills you need to optimize the size, recharge rate and efficiency of your capacitor:
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -279,7 +327,9 @@ These are all the skills you need to optimize the size, recharge rate and effici
 <tr>
 <td>Energy Emission Systems</td>
 <td> -5% capacitor need of energy emission weapons; fit Nosferatu energy weapons.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 
 ## Drone Skills
@@ -291,7 +341,8 @@ If you plan to fly the skill-intensive Typhoon you will want T1 heavy drones, an
 
 Uses **Perception** and **Memory**.  
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -330,7 +381,9 @@ Uses **Perception** and **Memory**.
 <tr>
 <td>Electronic Warfare (IV)</td>
 <td> -5% ECM needs</td>
-<td><input type='text' name='PM' value='226' id='PM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='PM' value='226' id='PM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 To get Tech 2 drones, youll need some of the four racial 'Drone Specialization' skills. Minmatar and Gallente are the most important (Small, Medium, Heavy):
 * Minmatar drones (Warrior, Valkyrie and Berserker) are very fast, and so are popular in PvP; they also do well against the Angels which you fight in many missions from Minmatar agents
@@ -339,7 +392,8 @@ To get Tech 2 drones, youll need some of the four racial 'Drone Specialization
 
 Try to use small (S) drones against frigates, medium (M) against cruisers and heavy (H) or sentry (L) drones against battleships.
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th> Race</th>
 <th> Dmg Type</th>
 <th> Speed/ Track</th>
@@ -368,7 +422,9 @@ Try to use small (S) drones against frigates, medium (M) against cruisers and he
 <td> Explosive</td>
 <td> 1st (Fastest)</td>
 <td> 3rd (Low)</td>
-<td> Warrior, Valkrie, Beserker, Bouncer</td></tr></table>
+<td> Warrior, Valkrie, Beserker, Bouncer</td>
+</tr>
+</table>
 
 
 
@@ -382,7 +438,8 @@ The Crucifier and Arbitrator are the two Tech 1 ewar ships in the Amarr lineup. 
 
 Uses **Intelligence** and **Memory**.  
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -405,13 +462,16 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <td> Electronics Upgrades (III)</td>
 <td> Fit Signal Amplifier module; increases the range at which they can target and damp enemy ships.</td>
-<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 
 ## Fitting Skills
 
 <a name='fit'></a>
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -430,7 +490,9 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <td>Advanced Weapon Upgrades (to level III)</td>
 <td> -2% powergrid needs of weapon turrets and launchers.</td>
-<td><input type='text' name='IM' value='1536' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='1536' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 ## Gunnery Skills
 
@@ -443,7 +505,8 @@ Uses **Perception** and **Willpower**.
 
 To maximize your the effectiveness from your guns, train the following to Level IV or V:
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -486,7 +549,9 @@ To maximize your the effectiveness from your guns, train the following to Level 
 <tr>
 <td>Controlled Bursts'^*^'</td>
 <td> -5% Capacitor Requirement</td>
-<td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 '^*^' Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.
 
@@ -501,7 +566,8 @@ Besides the skills which let you use missiles and their launchers themselves, Ev
 <a name='mis'></a>
 Uses **Perception** and **Willpower**. 
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -532,11 +598,14 @@ Uses **Perception** and **Willpower**.
 <tr>
 <td>Guided Missile Precision Target (needs MLO V) </td>
 <td> -5% less Sig radius influence damage of guided (light, heavy and cruise) missiles per level. Great when you want to hurt smaller ships. </td>
-<td><input type='text' name='PW' value='226' id='PW' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='PW' value='226' id='PW' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 Given the long range of most Caldari PvE missile fits, missile users also benefit from training Long Range Targeting
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <throwspan=2>Type</th>
 <throwspan=2>Launcher</th>
 <thcolspan=4>Damage</th></tr>
@@ -622,11 +691,11 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 <td>Doom</td>
 <td>Thor</td>
 <td>Rift</td>
-<td>Purgatory</td></tr></table>
-
+<td>Purgatory</td>
+</tr>
+</table>
 
 ## Navigation Skills
-
 
 **Caldari.** These are essential skills, even though Caldari ships aren't the nimblest around. Even if you stick to the bigger ships, having a more agile/quicker than expected battleship can save your life.
 
@@ -635,7 +704,8 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 Uses **Intelligence** and **Perception**. 
 
 <a name='nav'></a>
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -666,7 +736,9 @@ Uses **Intelligence** and **Perception**.
 <tr>
 <td>Spaceship Command</td>
 <td>+2% Agility</td>
-<td><input type='text' name='IP' value='256' id='IP' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IP' value='256' id='IP' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 
 ## Shield Tanking Skills
@@ -674,9 +746,10 @@ Uses **Intelligence** and **Perception**.
 <a name='shi'></a>
 If you want to fit shield tanks&mdash;either buffer tanks, passive regen tanks or active tanks&mdash;you'll want to train good shield support skills and be able to fit T2 shield tanking modules. The 'X Shield Compensation' (Explosive Shield Compensation, Thermic Shield Compensation &c) skills aren't as useful as their armor counterparts and you can leave them.
 
-Uses **Intelligence** and **Memory**.  
+Uses **Intelligence** and **Memory**.
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -703,7 +776,9 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <td>Shield Compensation (IV+)</td>
 <td> -2% capacitor use by shield boosters; a must for active shield tanking</td>
-<td><input type='text' name='IM' value='90.5' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='90.5' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 
 ## Tackling Skills
@@ -711,7 +786,8 @@ Uses **Intelligence** and **Memory**.
 <a name='tac'></a>
 All PvP combat pilots need to train up on tackling skills. These are the skills you need to prevent a target from escaping. These are usually the first combat skills learned by new pilots, because they are easy to master, and because they are highly valued, especially in fleet.
 
-<table class='table'><tr>
+<table class='table'>
+<tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
 <th colspan=2>Burn Rate</th></tr>
@@ -722,6 +798,8 @@ All PvP combat pilots need to train up on tackling skills. These are the skills 
 <tr>
 <td> Propulsion Jamming (IV+)</td>
 <td> -5% capacitor needs for Warp Scrambler and Stasis Web. Needed to fit effective scramblers, disruptors and webbers</td>
-<td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td></tr></table>
+<td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td>
+</tr>
+</table>
 
 If you ever plan to venture into 0.0 space, you might also consider training Anchoring to Level II or more. This skill is used to deploy various items in space, including mobile warp disruptors  youll need this to set up warp disruption bubbles in null-sec space. By the way, Anchoring is also useful for setting storage containers in space, which is helpful if you plan to make some ISK as a miner.
