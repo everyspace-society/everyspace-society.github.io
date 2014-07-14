@@ -118,7 +118,7 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 
 
 
-Charisma is often considered a less important skill. In combat nobody cares if you're polite or well-groomed. In interactions between players, its your own Charisma that matters. When you hover over <span class=''>Charisma</span> in the table below, it will show the other skill group areas that involve Charisma.
+Charisma is often considered a less important skill. In combat, nobody cares if you're polite or well-groomed. In interactions between players, its your own Charisma that matters. When you hover over <span class=''>Charisma</span> in the table below, it will show the other skill group areas that involve Charisma.
 
 
 <table class='table'>
@@ -204,7 +204,7 @@ Charisma is often considered a less important skill. In combat nobody cares if y
 ## Accelerating Skill Learning
 
 
-You can compress the time required train these skills by investing in implants for Intelligence, Memory, Perception and Willpower. The minimum level if implants you should install are +3 . This will keep skill training times reasonable. You need only a bit of Cybernetics to be able to use these. If you plan in going to low-sec or nullsec, then better go cheap. For this reason, some players advise waiting six months before going to those areas...so you have some skills under your belt and are better able to afford losing your implant.s
+You can compress the time required train these skills by investing in implants for Intelligence, Memory, Perception and Willpower. The minimum level if implants you should install are +3 . This will keep skill training times reasonable. You need only a bit of Cybernetics to be able to use these. If you plan in going to low-sec or nullsec, then better go cheap. For this reason, some players advise waiting six months before going to those areas...so you have some skills under your belt and are better able to afford losing your implants.
 
 
 ## Armor Tanking Skills
@@ -429,6 +429,7 @@ Uses **Perception** and **Memory**.
 
 
 To get Tech 2 drones, youll need some of the four racial 'Drone Specialization' skills. Minmatar and Gallente are the most important (Small, Medium, Heavy):
+
 * Minmatar drones (Warrior, Valkyrie and Berserker) are very fast, and so are popular in PvP; they also do well against the Angels which you fight in many missions from Minmatar agents
 * Gallente drones (Hobgoblin, Hammerhead and Ogre) do tons of damage, and so are also popular in PvP; they also do well against most types of NPC rat
 * ECM drones can be a useful tool if you're flying solo or in a small gang with no dedicated ECM ship.
@@ -608,7 +609,7 @@ To maximize your the effectiveness from your guns, train the following to Level 
 </table>
 
 
-<p><sup>*</sup> Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.</p>
+<p><sup>*</sup> Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is <em>critical</em> for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.</p>
 
 
 In the medium term pilots should look towards training T2 guns for more DPS. In the case of the Minmatar autocannon, an extra tactical option with T2 Barrage ammo.
