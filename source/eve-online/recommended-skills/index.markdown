@@ -228,9 +228,9 @@ Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Mechanic (V)</td>
 <td>Fit Armor Repairers.</td>
@@ -252,9 +252,9 @@ Train these skills to Level III as required.
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>EM Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
@@ -300,9 +300,9 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Astrometrics (IV)</td>
 <td> 1x probe per level</td>
@@ -385,9 +385,9 @@ Uses **Perception** and **Memory**.
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Drone (V)</td>
 <td>number of drones you can operate;  Key for almost all pilots that want to fly a cruiser or larger. Gateway skill for other neat drone skills. No excuses!</td>
@@ -487,9 +487,9 @@ Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td> Weapon Disruption (IV)</td>
 <td> -5% capacitor need for tracking disruptors per level, and allows you to fit different TD's.</td>
@@ -562,9 +562,9 @@ To maximize your the effectiveness from your guns, train the following to Level 
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Gunnery</td>
 <td>+2% ROF (required for T2)</td>
@@ -630,9 +630,9 @@ Uses **Perception** and **Willpower**.
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Missile Launcher Operation (MLO)</td>
 <td> +2% ROF; makes other skills available</td>
@@ -672,7 +672,7 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 <tr>
 <th rowspan='2'>Type</th>
 <th rowspan='2'>Launcher</th>
-<th colspan='4'>Damage</th></tr>
+<th colspan='4' class='text-center'>Damage</th></tr>
 <tr>
 <th>EM</th>
 <th>Explosive</th>
@@ -774,9 +774,9 @@ Uses **Intelligence** and **Perception**.
 <a name='nav'></a>
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Navigation</td>
 <td>+5% sub-warp ship velocity</td>
@@ -822,9 +822,9 @@ Uses **Intelligence** and **Memory**.
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Shield Operation (V)</td>
 <td> -5% shield recharge; helps passive tanks; biggest T2 shield boosters</td>
@@ -863,9 +863,9 @@ All PvP combat pilots need to train up on tackling skills. These are the skills 
 
 <table class='table'>
 <tr>
-<th width='30%'>Skill</th>
-<th width='40%'>Benefit/Why</th>
-<th colspan='2'>Burn Rate</th></tr>
+<th class='text-center' width='30%'>Skill</th>
+<th class='text-center' width='40%'>Benefit/Why</th>
+<th class='text-center' colspan='2'>Burn Rate</th></tr>
 <tr>
 <td> Energy Emission Systems(IV+)</td>
 <td> Fit energy neutralizers. This is particularly valuable for Amarr pilots looking at the T2 Curse, Pilgrim, and Sentinel. (Also in Capacitor and Shield Tanking, above.)</td>
