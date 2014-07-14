@@ -230,7 +230,7 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Mechanic (V)</td>
 <td>Fit Armor Repairers.</td>
@@ -254,7 +254,7 @@ Train these skills to Level III as required.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>EM Armor Compensation (III)</td>
 <td> +3% Active Module; +5% Passive Module; Energized Adaptive Nano Membrane effectiveness</td>
@@ -302,7 +302,7 @@ There are only 4 scanning skills in the game.  To  evaluate a character's abilit
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Astrometrics (IV)</td>
 <td> 1x probe per level</td>
@@ -349,7 +349,7 @@ These are all the skills you need to optimize the size, recharge rate and effici
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Energy Systems Operation (V)</td>
 <td> -5% capacitor recharge time; fit Capacitor Boosters.</td>
@@ -387,7 +387,7 @@ Uses **Perception** and **Memory**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Drone (V)</td>
 <td>number of drones you can operate;  Key for almost all pilots that want to fly a cruiser or larger. Gateway skill for other neat drone skills. No excuses!</td>
@@ -471,15 +471,10 @@ Try to use small (S) drones against frigates, medium (M) against cruisers and he
 </tr>
 </table>
 
-
-
-
-
 ## EWAR Skills
 
 
 <a name='ewa'></a>
-
 
 Electronic Warfare is a major part of fleet and small gang combat operations, especially in the UNI. Because most of our opponents have higher skill levels than the typical Eve University pilot, we must neutralize their natural advantage  and EWAR is an effective way to do this. An experienced pilot, even with tens of millions of skill points and a host of powerful faction ship modules, can do nothing if they cant target anything. With the right combination of EWAR, you can practically turn off an opponent's ship. Combined tackling and Electronic Warfare can render even the sturdiest tank and most ominous firepower absolutely useless.
 
@@ -493,22 +488,22 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td> Weapon Disruption (IV)</td>
-<td> - 5% capacitor need for tracking disruptors per level, and allows you to fit different TD's.</td>
+<td> -5% capacitor need for tracking disruptors per level, and allows you to fit different TD's.</td>
 <td><input type='text' name='IM' value='512' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
 <td> Long Distance Jamming (IV)</td>
-<td> - 10% bonus to optimal range of TD's.</td>
+<td> -10% bonus to optimal range of TD's.</td>
 <td><input type='text' name='IM' value='1024' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
 <td> Turret Destabilization (IV)</td>
-<td> - 5% to strength of TD's per skill level.</td>
+<td> -5% to strength of TD's per skill level.</td>
 <td><input type='text' name='IM' value='1024' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
 <td> Frequency Modulation (IV)</td>
-<td> - 10% to falloff range for TDs per skill level.</td>
+<td> -10% to falloff range for TDs per skill level.</td>
 <td><input type='text' name='IM' value='768' id='IM' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
 <td> Electronics Upgrades (III)</td>
@@ -527,7 +522,7 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Engineering</td>
 <td>5% powergrid output</td>
@@ -568,7 +563,7 @@ To maximize your the effectiveness from your guns, train the following to Level 
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Gunnery</td>
 <td>+2% ROF (required for T2)</td>
@@ -606,14 +601,14 @@ To maximize your the effectiveness from your guns, train the following to Level 
 <td>+5% Accuracy Falloff</td>
 <td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td></tr>
 <tr>
-<td>Controlled Bursts'^*^'</td>
+<td>Controlled Bursts<sup>*</sup></td>
 <td> -5% Capacitor Requirement</td>
 <td><input type='text' name='PW' value='1280' id='PW' class='col-xs-2 form-control' size='3' /></td>
 </tr>
 </table>
 
 
-'^*^' Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.
+<sup>*</sup> Minmatar can ignore Controlled Bursts. Projectile turrets have negligible capacitor requirements. Controlled bursts is *critical* for Amarr, who culturally view their energy weapons as a means of keeping units on the front lines longer when fighting inferior races.
 
 
 In the medium term pilots should look towards training T2 guns for more DPS. In the case of the Minmatar autocannon, an extra tactical option with T2 Barrage ammo.
@@ -636,7 +631,7 @@ Uses **Perception** and **Willpower**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Missile Launcher Operation (MLO)</td>
 <td> +2% ROF; makes other skills available</td>
@@ -781,7 +776,7 @@ Uses **Intelligence** and **Perception**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Navigation</td>
 <td>+5% sub-warp ship velocity</td>
@@ -829,7 +824,7 @@ Uses **Intelligence** and **Memory**.
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td>Shield Operation (V)</td>
 <td> -5% shield recharge; helps passive tanks; biggest T2 shield boosters</td>
@@ -870,7 +865,7 @@ All PvP combat pilots need to train up on tackling skills. These are the skills 
 <tr>
 <th width='30%'>Skill</th>
 <th width='40%'>Benefit/Why</th>
-<th colspan=2>Burn Rate</th></tr>
+<th colspan='2'>Burn Rate</th></tr>
 <tr>
 <td> Energy Emission Systems(IV+)</td>
 <td> Fit energy neutralizers. This is particularly valuable for Amarr pilots looking at the T2 Curse, Pilgrim, and Sentinel. (Also in Capacitor and Shield Tanking, above.)</td>
