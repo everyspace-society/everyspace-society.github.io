@@ -39,27 +39,27 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 <table class='table'>
 <tr>
 <th>Skill</th>
-<th>Attributes</th>
+<th>General Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td><a name='gun'>Gunnery Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>.</td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PW' value='135' id='PW' class='col-xs-2 form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='mis'>Missile Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Willpower</strong>. </td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PW' value='135' id='PW' class='col-xs-2 form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='dro'>Drone Skills</a></td>
 <td>Uses <strong>Perception</strong> and <strong>Memory</strong>. </td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='PM' value='135' id='PM' class='col-xs-2 form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='nav'>Navigation Skills</a></td>
 <td>Uses <strong>Intelligence</strong> and <strong>Perception</strong>. </td>
-<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
+<td><input type='text' name='IP' value='135' id='IP' class='col-xs-2 form-control' size='3' /></td>
 
 </tr>
 </table>
@@ -69,7 +69,7 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 <table class='table'>
 <tr>
 <th>Skill</th>
-<th>Attributes</th>
+<th>General Attributes</th>
 <th>SP/Hour Burn Rate</th></tr>
 <tr>
 <td> <a name='fit'>Fitting Skills</a></td>
@@ -93,7 +93,8 @@ New characters tend to do well with high Perception and Intelligence scores. Thi
 </tr>
 <tr>
 <td><a name='tac'>Tackling Skills</a></td>
-
+<td>Uses <strong>Intelligence</strong> and <strong>Memory</strong>.  </td>
+<td><input type='text' name='IM' value='135' id='IM' class='col-xs-2 form-control' size='3' /></td>
 </tr>
 <tr>
 <td><a name='ewar'>EWAR Skills</a></td>
