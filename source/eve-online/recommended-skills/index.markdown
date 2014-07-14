@@ -670,9 +670,9 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 
 <table class='table'>
 <tr>
-<throwspan=2>Type</th>
-<throwspan=2>Launcher</th>
-<thcolspan=4>Damage</th></tr>
+<th rowspan='2'>Type</th>
+<th rowspan='2'>Launcher</th>
+<th colspan='4'>Damage</th></tr>
 <tr>
 <th>EM</th>
 <th>Explosive</th>
@@ -687,8 +687,7 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 <td>Foxfire</td></tr>
 <tr>
 <td>Light Missile</td>
-<td>Standard Missile Launcher or </td>
-<>ssault Missile Launcher</td>
+<td>Standard Missile Launcher or Assault Missile Launcher</td>
 <td>Sabretooth	</td>
 <td>Piranha</td>
 <td>Bloodclaw</td>
@@ -701,8 +700,8 @@ Given the long range of most Caldari PvE missile fits, missile users also benefi
 <td>Serpent</td>
 <td>Firefly</td></tr>
 <tr>
-<td>Heavy Missile	Heavy</td>
-<td>Missile Launcher</td>
+<td>Heavy Missile</td>
+<td>Heavy Missile Launcher</td>
 <td>Thunderbolt</td>
 <td>Havoc</td>
 <td>Scourge</td>
