@@ -285,7 +285,7 @@ These are all the skills you need to optimize the size, recharge rate and effici
 ## Drone Skills
 
 <a name='dro'></a>
-If you fly any ship bigger than a frigate you will want [drone skills -> http://wiki.eveonline.com/en/wiki/Drones](drone skills -> http://wiki.eveonline.com/en/wiki/Drones). To be most effective, you will need to get Tech II drones, which means investing even more time and effort in drone skill development. T2 light drones are a great help in Level 4 missions, where they make short work of frigates which scramble your valuable battleship, stopping you from warping out if the mission goes wrong.
+If you fly any ship bigger than a frigate you will want [drone skills](http://wiki.eveonline.com/en/wiki/Drones). To be most effective, you will need to get Tech II drones, which means investing even more time and effort in drone skill development. T2 light drones are a great help in Level 4 missions, where they make short work of frigates which scramble your valuable battleship, stopping you from warping out if the mission goes wrong.
 
 If you plan to fly the skill-intensive Typhoon you will want T1 heavy drones, and good drone support skills&mdash;and T2 heavy drones in the long term.
 
