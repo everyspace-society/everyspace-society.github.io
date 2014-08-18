@@ -36,8 +36,8 @@ Orbits go from Left to Right, so Left being the closest to the sun.
 **Metallic:** Poor fertility and medium area make these astros unsuitable for bases. Although, at a stretch, in orbits 2 and 3 they'd make good production bases. Best avoided for the most part.
 
 **Oceanic:** A low area and low metal consign these astro types only to the research role; they're redeemed slightly by a good fertility though. A bad choice for anything other than a research base.
-**
-Radioactive:** A poor fertility astro with average stats elsewhere; although has a good area. Really the only place these will make a good base is in orbit 2, with 3 solar/gas and 5 fertility - it'll give a decent base if you need cheap power. Best avoided really though.
+
+**Radioactive:** A poor fertility astro with average stats elsewhere; although has a good area. Really the only place these will make a good base is in orbit 2, with 3 solar/gas and 5 fertility - it'll give a decent base if you need cheap power. Best avoided really though.
 
 **Rocky:** Widely considered to be probably the best astro type in the game, namely because it combines a good metal score with average fertility and area. In orbits 2 & 3 you have fertility 6 - and this is widely considered the best place for them; although in all honesty any orbit is acceptable (orbits 4 & 5 give 3 gas, a reasonable source of power).
 
