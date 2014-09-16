@@ -10,6 +10,7 @@ group: AstroEmpires
 
 * **Updated May 2010.**
 * **Updated July 2013.**
+* **Validating September 2014.**
 
 The Ten-Seven Guide assists novice players with early empire building to enhance their overall Astro Empires playing experience. The goal of this guide is to help players build ten bases in the first week, and educate players in key aspects of early game play. It is important to balance astro selection, structure building, and scouting. For the first three days player bases are immune to attack, but players need to remain focused on building proper defenses. This guide will also lightly touch on combat, which is discussed in greater detail on this site. The one-week goal provides "free" players (those who will not be upgrading) a chance to build one extra base before free account restrictions are applied.
 
@@ -51,6 +52,11 @@ bases being attacked in short order by a dedicated opponent.
 
 The table below lists the cost of each base, the cumulative cost of bases built that day, what econ you should have on that day to ensure you can plant those bases, and what day you should plant that base. Merovech managed to plant an extra base on Day Three on Ixion, which helped ensure he built all the bases in time.
 
+<div class='bs-callout bs-callout-info'>
+ <strong>Note 2014:</strong> I have to say I'm rather pleased. This guide was so consistent for others in allowing 10 bases to be built in seven days (which gave free players an extra base), that AstroEmpires had to increase the cost of the Tenth Base.
+</div>
+
+
 <a name='quota'></a>
 <table class='table table-bordered'><tr>
   <th class='text-center' colspan='10'>Base Establishment Quota</th>
@@ -69,7 +75,6 @@ The table below lists the cost of each base, the cumulative cost of bases built 
 </tr>
 <tr>
   <th>Cost</th>
-  <td class='text-right col-sm-1'>50</td>
   <td class='text-right col-sm-1'>100</td>
   <td class='text-right col-sm-1'>200</td>
   <td class='text-right col-sm-1'>400</td>
@@ -78,6 +83,7 @@ The table below lists the cost of each base, the cumulative cost of bases built 
   <td class='text-right col-sm-1'>3200</td>
   <td class='text-right col-sm-1'>6400</td>
   <td class='text-right col-sm-1'>12800</td>
+  <td class='text-right col-sm-1'>25600</td>
 </tr>
 <tr>
   <th>Total</th>
