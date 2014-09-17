@@ -56,7 +56,6 @@ The table below lists the cost of each base, the cumulative cost of bases built 
  <strong>Note 2014:</strong> I have to say I'm rather pleased. This guide was so consistent for others in allowing 10 bases to be built in seven days (which gave free players an extra base), that AstroEmpires had to increase the cost of the Tenth Base.
 </div>
 
-
 <a name='quota'></a>
 <table class='table table-bordered'><tr>
   <th class='text-center' colspan='10'>Base Establishment Quota</th>
@@ -77,7 +76,7 @@ The table below lists the cost of each base, the cumulative cost of bases built 
   <th>Cost</th>
   <td class='text-right col-sm-1'>100</td>
   <td class='text-right col-sm-1'>200</td>
-  <td class='text-right col-sm-1'>400</td>
+  <td class='text-right col-sm-1'>500</td>
   <td class='text-right col-sm-1'>800</td>
   <td class='text-right col-sm-1'>1600</td>
   <td class='text-right col-sm-1'>3200</td>
