@@ -84,7 +84,7 @@ defenses are strong enough to assist in protecting the value of the
 trade routes.
 
 
-<table class='table'>
+<table class='table table-hover'>
 <tr>
 <th>Base Econ</th>
 <th>Pillage Bonus</th>
@@ -382,7 +382,7 @@ Metal Refinery column is for those who like to balance their structure
 builds. The cost of that level of Refinery is approximate to the level
 of Command Center.
 
-<table class='table'>
+<table class='table table-hover'>
 <tr>
 <th>Econ</th>
 <th>Count</th>
@@ -425,7 +425,7 @@ lesser turrets.</p>
 </div>
 
 
-<table class='table table-bordered'>
+<table class='table table-hover table-bordered'>
 <tr>
 <th>Defense</th>
 <th class='col-sm-2 text-right'>Power (@10)</th>

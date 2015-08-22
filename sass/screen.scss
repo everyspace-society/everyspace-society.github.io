@@ -15,26 +15,41 @@
 	margin-bottom: 0 !important;
 }
 body {
-	background: url(/images/esback-white.jpg) no-repeat top left fixed !important;
+	background: url(/images/esback-black.jpg) no-repeat top left fixed !important;
+	padding-top: 60px !important;
+    padding-bottom: 40px !important;
 }
 .bs-callout {
-    border-left-width: 1em !important;
-	border-right-width: 1px !important;
-	border-top-width: 1px !important;
-	border-bottom-width: 1px !important;
+	padding: 0.5em !important;
+	margin: 0.3em 0 0.5em 0 !important;
+	color: white !important;
+	background: #111;
 }
-.bs-callout-danger{border-color:#d9534f}
-.bs-callout-danger h4 {border-color:#9F2622}
-.bs-callout-warning h4 {color: #C77B10 !important;}
-.bs-callout-warning{border-color:#f0ad4e}
-.bs-callout-info{border-color:#238FAF}
-.bs-callout-info h4 {color: #114959 !important;}
+	.bs-callout-danger{
+		border: 1px solid #E00 !important;
+		border-left: 0.5em solid #E00 !important;
+		h4 {color: #E00 !important;}
+	}
+	.bs-callout-warning {
+		border: 1px solid #cc6d00 !important;
+		border-left: 0.5em solid #cc6d00 !important;
+		h4 {color: #cc6d00 !important;}
+	}
+	.bs-callout-info{
+		border: 1px solid lighten(#7a29a3,30) !important;
+		border-left: 0.5em solid lighten(#7a29a3,30) !important;
+		h4 {color: lighten(#7a29a3,30) !important;}
+	}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #F00;
+}
+
 .navbar-simple .brand {
  	padding-top: 15px !important;
 	padding-bottom: 15px !important;
 }
 .navbar-simple .navbar-inner {
-	background: #fff !important;
+	xbackground: #fff !important;
 	filter: none !important;
 	box-shadow: 0 2px 15px rgba(0,0,0,0.25) !important;
 	-moz-box-shadow: 0 2px 15px rgba(0,0,0,0.25) !important;
