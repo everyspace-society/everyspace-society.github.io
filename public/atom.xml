@@ -4,7 +4,7 @@
   <title><![CDATA[EspaceSociety]]></title>
   <link href="http://espacesociety.org/atom.xml" rel="self"/>
   <link href="http://espacesociety.org/"/>
-  <updated>2015-08-22T10:29:30-04:00</updated>
+  <updated>2016-03-22T06:03:34-07:00</updated>
   <id>http://espacesociety.org/</id>
   <author>
     <name><![CDATA[Ben Wilson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Two Years in the Making]]></title>
     <link href="http://espacesociety.org/articles/two-years-in-the-making/"/>
-    <updated>2014-07-08T11:40:52-04:00</updated>
+    <updated>2014-07-08T08:40:52-07:00</updated>
     <id>http://espacesociety.org/articles/two-years-in-the-making</id>
     <content type="html"><![CDATA[<p>I promised in 2012 to update the site. Life got in the way, but here it is.</p>
 
@@ -34,7 +34,7 @@
   <entry>
     <title type="html"><![CDATA[Octopress And Eve Online]]></title>
     <link href="http://espacesociety.org/articles/octopress-and-eve-online/"/>
-    <updated>2012-02-29T06:35:55-05:00</updated>
+    <updated>2012-02-29T03:35:55-08:00</updated>
     <id>http://espacesociety.org/articles/octopress-and-eve-online</id>
     <content type="html"><![CDATA[<hr />
 
@@ -55,7 +55,7 @@ Since this site started it has been managed with PmWiki. A great tool. Easy to m
   <entry>
     <title type="html"><![CDATA[About The Imperium Series]]></title>
     <link href="http://espacesociety.org/articles/about-the-imperium-series/"/>
-    <updated>2011-07-19T01:05:56-04:00</updated>
+    <updated>2011-07-18T22:05:56-07:00</updated>
     <id>http://espacesociety.org/articles/about-the-imperium-series</id>
     <content type="html"><![CDATA[<hr />
 
@@ -73,7 +73,7 @@ It took me a while to regain my momentum, but my novel <em><a href="http://daush
   <entry>
     <title type="html"><![CDATA[What'S With The #@$& Questionnaire?]]></title>
     <link href="http://espacesociety.org/articles/what-s-with-the-questionnaire/"/>
-    <updated>2011-02-04T12:02:52-05:00</updated>
+    <updated>2011-02-04T09:02:52-08:00</updated>
     <id>http://espacesociety.org/articles/what-s-with-the-questionnaire</id>
     <content type="html"><![CDATA[<hr />
 
@@ -92,7 +92,7 @@ Okay, so if you&rsquo;re coming to this site, odds are you&rsquo;re coming to lo
   <entry>
     <title type="html"><![CDATA[New Skin]]></title>
     <link href="http://espacesociety.org/articles/new-skin/"/>
-    <updated>2010-03-28T14:05:34-04:00</updated>
+    <updated>2010-03-28T11:05:34-07:00</updated>
     <id>http://espacesociety.org/articles/new-skin</id>
     <content type="html"><![CDATA[<p><strong>March 23, 2010.</strong>
 <a name='teaser'></a>If you are a regular, then you may notice a slightly lighter site design than previously used. The previous design served E-Space Society for the past few years. I forget if it was four or five years.</p>
@@ -107,7 +107,7 @@ I&rsquo;ve also been thinking about how to make the site more useful; so stay tu
   <entry>
     <title type="html"><![CDATA[Retooling The Timeline]]></title>
     <link href="http://espacesociety.org/articles/retooling-the-timeline/"/>
-    <updated>2007-03-26T12:06:56-04:00</updated>
+    <updated>2007-03-26T09:06:56-07:00</updated>
     <id>http://espacesociety.org/articles/retooling-the-timeline</id>
     <content type="html"><![CDATA[<p><strong>March 24, 2007.</strong>
 <a name='teaser'></a>
@@ -119,7 +119,7 @@ After nearly a year hiatus, E-space Society is considering reforming to re-write
   <entry>
     <title type="html"><![CDATA[Lexicon Progressing Smoothly]]></title>
     <link href="http://espacesociety.org/articles/lexicon-progressing-smoothly/"/>
-    <updated>2007-03-24T20:31:51-04:00</updated>
+    <updated>2007-03-24T17:31:51-07:00</updated>
     <id>http://espacesociety.org/articles/lexicon-progressing-smoothly</id>
     <content type="html"><![CDATA[<p><a name='teaser'></a>
 On June 30, 2005, we finished our first run through the Lexicon. We wrote over 100 entries during that time. Since then, we have begun to go back through the various letters to complete the phantom entries that we created and were not able to write under the rules of the game.
@@ -130,7 +130,7 @@ On June 30, 2005, we finished our first run through the Lexicon. We wrote over 1
   <entry>
     <title type="html"><![CDATA[The Story So Far]]></title>
     <link href="http://espacesociety.org/articles/launching-the-lexicon/"/>
-    <updated>2007-03-24T20:31:26-04:00</updated>
+    <updated>2007-03-24T17:31:26-07:00</updated>
     <id>http://espacesociety.org/articles/launching-the-lexicon</id>
     <content type="html"><![CDATA[<p><a name='teaser'></a>
 Our effort started in February, 2004 and we took a pause in July 2004. In December 2004, we resumed and this site was built. In January 2005, we began tinkering with a Lexicon called the <a href="http://espacesociety.org/macropedia/macropedia">Macropedia/Macropedia</a>. We weren&rsquo;t sure what to expect, but in the first five months we produced over one-hundred articles detailing the period known as the Imperium. The structure of the Lexicon has helped us keep going.
@@ -141,7 +141,7 @@ Our effort started in February, 2004 and we took a pause in July 2004. In Decemb
   <entry>
     <title type="html"><![CDATA[Ten Shy Of Completion]]></title>
     <link href="http://espacesociety.org/articles/ten-shy-of-completion/"/>
-    <updated>2007-03-24T20:31:06-04:00</updated>
+    <updated>2007-03-24T17:31:06-07:00</updated>
     <id>http://espacesociety.org/articles/ten-shy-of-completion</id>
     <content type="html"><![CDATA[<p><a name='teaser'></a>
 On <strong>October 1, 2005</strong>, We were still ten entries from completing our first Lexicon game.
@@ -152,7 +152,7 @@ On <strong>October 1, 2005</strong>, We were still ten entries from completing o
   <entry>
     <title type="html"><![CDATA[Starting The Imperium Equipment Lexicon]]></title>
     <link href="http://espacesociety.org/articles/starting-the-imperium-equipment-lexicon/"/>
-    <updated>2007-03-24T20:30:44-04:00</updated>
+    <updated>2007-03-24T17:30:44-07:00</updated>
     <id>http://espacesociety.org/articles/starting-the-imperium-equipment-lexicon</id>
     <content type="html"><![CDATA[<p><strong>February 16, 2006</strong>
 <a name='teaser'></a>
