@@ -42,8 +42,7 @@ SF. This is merely one author's attempt to grade Science Fiction, and
 there are others out there. This was the original author's personal
 taste.
 
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Major Categories</th>
   <th >Rating used here</th>
@@ -95,7 +94,7 @@ taste.
 <tr>
   <td >Mushy Soft</td>
   <td >As above but even more unscientific (alien races never before encounted speak perfect English without a translator, animals too large to stand in Earth gravity (Godzilla), weapons that make energy beams without putting energy in, interstellar travel without FTL or centuries long voyage, mutants with super energy powers, etc)</td>
-  <td >Godzilla, Comic Book Superheros, badly written TV Science Fiction, elements of some franchises</td><table class='table'>
+  <td >Godzilla, Comic Book Superheros, badly written TV Science Fiction, elements of some franchises</td></tr></table>
 
 Note that the above scale does not include Science Fantasy or proper fantasy. Also one person's fantasy might be another person's Science Fiction (e.g. Star Wars is considered "Space Fantasy" by it's creator, but Science Fiction by others)
 

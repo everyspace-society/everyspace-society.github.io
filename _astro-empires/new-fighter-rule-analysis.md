@@ -8,8 +8,7 @@ footer: true
 category: "Astro Empires"
 ---
 
-Introduction
-============
+## Introduction
 
 `AstroEmpires recently 
 [ changed the Fighter Rules](http://forum.astroempires.com/viewtopic.php?f=3&t=70020) 
@@ -26,8 +25,7 @@ This is a misguided effort to make capital ships matter.
 
 
 
-Rant
-=========
+## Rant
 
 My complaint is secondarily against the shoddy explanation on their
 part. They use worst-case examples rather than real-life. They imply
@@ -90,19 +88,18 @@ new, just something they decided to change. But, AE is basically
 saying the cost ratio of a unit's armour is the fundamental determinant.
 That allows us to put some real analysis into the impact on the game.
 
-Analysis
-========
+## Analysis
 
 To distill their analysis, divide your unit's armour by its cost (or cost,
 by armour). Let's look at a the cost-ratio of units.
 
 
 
-</tr>
+<table>
 <tr>
-  <td class='heading'>Unit</td>
-  <td class='heading'>Cost Ratio</td>
-  <td class='heading'>New Cost Ratio</td>
+  <th>Unit</th>
+  <th>Cost Ratio</th>
+  <th>New Cost Ratio</th>
 </tr>
 <tr>
   <td class='highlight'>FT</td>
@@ -175,7 +172,9 @@ by armour). Let's look at a the cost-ratio of units.
 </tr>
 <tr>
   <td class='highlight'>Pshield</td>
-  <td colspan='2' class='highlight'>1.72</td><table class='table'>
+  <td colspan='2' class='highlight'>1.72</td>
+</tr>
+</table>
 
 Using the table above, if you want to kill a shielded unit, just make
 sure you use a lot of shield-raped unshielded that have a lower
@@ -186,12 +185,12 @@ Heavy-Bombers, but still greater than all capital units.
 
 
 
-</tr>
+<table>
 <tr>
-  <td class='heading'>Unit</td>
-  <td class='heading'>Fighters Needed</td>
-  <td class='heading'>Fighters Allowed</td>
-  <td class='heading'>Waves Required</td>
+  <th>Unit</th>
+  <th>Fighters Needed</th>
+  <th>Fighters Allowed</th>
+  <th>Waves Required</th>
 </tr>
 <tr>
   <td >BB</td>
@@ -221,11 +220,10 @@ Heavy-Bombers, but still greater than all capital units.
   <td >DS</td>
   <td >705,000</td>
   <td >500,000</td>
-  <td >1.41</td><table class='table'>
+  <td >1.41</td></tr>
+  </table>
 
-
-Corvettes and Destoyers Ascendant
-=================================
+## Corvettes and Destoyers Ascendant
 
 Looking at the table above, you see that Corvettes, Destroyers and
 Bombers are the new most-efficient units *against capitals and planetary defenses*. 
@@ -233,14 +231,11 @@ As Bombers are poor defensive units and require transportation, I omit
 them from this ascendancy.  However, as these units are vulnerable to
 FTs, you must first denude capitals of their FT escort.
 
-<div class=''>
 
 Looking at the FT v TI example they gave, the ratio *was* 5.88 : 1
 (reduced to 1.70 : 1). This suggests that the FT's cost-ratio is reduced
 to 0.29 against Battleships and Capital units. Against a Dreadnought,
 this is still a 2.63:1 ratio.
-
-</div>
 
 Against prings, Corvettes and Destroyers are now the master. To remove
 Pring-1, one must deliver 11,260 Power. Against pringles, one must
@@ -248,66 +243,64 @@ deliver 33,780 Power. The example below compares old Fighters, new
 Fighters, Corvettes, Destroyers and Cruisers.
 
 <table class='table'>
-
+<tr>
+  <th rowspan='2'>Unit</th>
+  <th colspan='3'>v. Prings</th>
+  <th colspan='3'>v. Pringles</th>
 </tr>
 <tr>
-  <td class='heading' rowspan='2'>Unit</td>
-  <td class='heading' colspan='3'>v. Prings</td>
-  <td class='heading' colspan='3'>v. Pringles</td>
-</tr>
-<tr>
-  <td class='heading'>Needed</td>
-  <td class='heading'>Losses</td>
-  <td class='heading'>Conquest Cost</td>
-  <td class='heading'>Needed</td>
-  <td class='heading'>Losses</td>
-  <td class='heading'>Conquest Cost</td>
+  <th>Needed</th>
+  <th>Losses</th>
+  <th>Conquest Cost</th>
+  <th>Needed</th>
+  <th>Losses</th>
+  <th>Conquest Cost</th>
 </tr>
 <tr>
   <td >Old FT</td>
-  <td align='right'>255,909</td>
-  <td align='right'>3,606</td>
-  <td align='right'>18,030</td>
-  <td align='right'>767,840</td>
-  <td align='right'>3,606</td>
-  <td align='right'>18,030</td>
+  <td class='text-right'>255,909</td>
+  <td class='text-right'>3,606</td>
+  <td class='text-right'>18,030</td>
+  <td class='text-right'>767,840</td>
+  <td class='text-right'>3,606</td>
+  <td class='text-right'>18,030</td>
 </tr>
 <tr>
   <td >New FT</td>
-  <td align='right'>275,746</td>
-  <td align='right'>19,837</td>
-  <td align='right'>99,187</td>
-  <td align='right'>767,727</td>
-  <td align='right'>24,706</td>
-  <td align='right'>123,533</td>
+  <td class='text-right'>275,746</td>
+  <td class='text-right'>19,837</td>
+  <td class='text-right'>99,187</td>
+  <td class='text-right'>767,727</td>
+  <td class='text-right'>24,706</td>
+  <td class='text-right'>123,533</td>
 </tr>
 <tr>
   <td >CV</td>
-  <td align='right'>127,952</td>
-  <td align='right'>1,800</td>
-  <td align='right'>36,065</td>
-  <td align='right'>383,863</td>
-  <td align='right'>1,800</td>
-  <td align='right'>36,065</td>
+  <td class='text-right'>127,952</td>
+  <td class='text-right'>1,800</td>
+  <td class='text-right'>36,065</td>
+  <td class='text-right'>383,863</td>
+  <td class='text-right'>1,800</td>
+  <td class='text-right'>36,065</td>
 </tr>
 <tr>
   <td >DD</td>
-  <td align='right'>78,194</td>
-  <td align='right'>900</td>
-  <td align='right'>36,065</td>
-  <td align='right'>234,583</td>
-  <td align='right'>900</td>
-  <td align='right'>36,065</td>
+  <td class='text-right'>78,194</td>
+  <td class='text-right'>900</td>
+  <td class='text-right'>36,065</td>
+  <td class='text-right'>234,583</td>
+  <td class='text-right'>900</td>
+  <td class='text-right'>36,065</td>
 </tr>
 <tr>
   <td >CR</td>
-  <td align='right'>261</td>
-  <td align='right'>300</td>
-  <td align='right'>52,200</td>
-  <td align='right'>785</td>
-  <td align='right'>300</td>
-  <td align='right'>60,000</td><table class='table'>
-
+  <td class='text-right'>261</td>
+  <td class='text-right'>300</td>
+  <td class='text-right'>52,200</td>
+  <td class='text-right'>785</td>
+  <td class='text-right'>300</td>
+  <td class='text-right'>60,000</td>
+  </tr></table>
 
 
 

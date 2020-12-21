@@ -17,9 +17,7 @@ categories: []
 
 
 
-<table class='table'>
-
-</tr>
+<table>
 <tr>
   <td >&nbsp;</td>
 </tr>

@@ -5,7 +5,7 @@ date: 2007-10-18T13:52:48+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Guides"
 ---
 
 * **Updated May 2010.**

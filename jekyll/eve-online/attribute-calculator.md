@@ -32,6 +32,6 @@ Attributes Calculator
 </tr>
 <tr>
   <td >Memory</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 Setting these attributes to your character's current attributes sets the skill points per hour in the various skill group tables below, under the Burn Rate column.

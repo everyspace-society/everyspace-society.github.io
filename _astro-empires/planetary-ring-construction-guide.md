@@ -5,7 +5,7 @@ date: 2011-02-02T02:02:15+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Guides"
 ---
 
 A [short while ago](/astro-empires/2011-01-03-build-prings-in-six-weeks), I mentioned a challenge of building Planetary Rings in six weeks. That is 42 days. I should have said seven weeks, which based on my successes in the past is more manageable.

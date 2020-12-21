@@ -5,7 +5,7 @@ date: 2008-11-22T16:36:54+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Guides"
 ---
 
 This Revised Seven-Ten Guide provides a plan for building your empire in

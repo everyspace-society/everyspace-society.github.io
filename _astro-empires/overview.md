@@ -1,11 +1,12 @@
 ---
 
-title: "Astro Empires"
+title: "Overview"
 date: 2007-09-13T13:28:10+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Overview"
+permalink: "/astro-empires"
 ---
 
 Welcome to Ben Wilson's (a.k.a. Merovech)

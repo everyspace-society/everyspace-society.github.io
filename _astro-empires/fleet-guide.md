@@ -20,8 +20,7 @@ a ratio between the fleet size and the base's economy. To determin the
 quality of a defensive fleet, divide the fleet strength by the base
 economy and consult the table below.
 
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Quality</th>
   <th >Size</th>
@@ -60,7 +59,7 @@ economy and consult the table below.
 <tr>
   <td bgcolor=#FF9999>Terrible</td>
   <td bgcolor=#FF9999>100x</td>
-  <td bgcolor=#FF9999>1x Best Turrets</td><table class='table'>
+  <td bgcolor=#FF9999>1x Best Turrets</td></tr></table>
 
 * **Well Defended.** Great and Superb defenses are considered "well-defended."
 * **Ably Defended.** Mediocre and Fair defenses are considered "able."

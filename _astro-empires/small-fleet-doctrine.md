@@ -5,11 +5,11 @@ date: 2007-11-11T18:13:52+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Guides"
 ---
 
-* **Updated November 2009.**
-* **Updated July 2013.**
+* Updated November 2009.
+* Updated July 2013.
 
 Astro Empires is a game of military economy. This guide advocates
 deploying a more efficient fleet than one's rival under the term 
@@ -45,7 +45,7 @@ Once you have read through this article, we encourage you to read about
 [how to manually plan attacks](/astro-empires/napkin-combat).
 
 
-**All you need to know.** If you do not care to read the entire
+All you need to know. If you do not care to read the entire
 article, then here is all you probably need to know. Build Fighters to
 take out meat (support) ships. Build Heavy Bombers and Cruisers to take
 out escort ships. Ion Frigates, Ion Bombers, Battleships and Heavy Cruisers (in that
@@ -86,322 +86,346 @@ some Destroyers. Escort ships should comprise a balance of Cruisers and
 Heavy Cruisers. In the Small Fleet approach, capital ships are
 generally not built because of their inefficiency.
 
-<a name='chart'></a>
-<table class='table'><tr><td class='head' rowspan='2' style='border-right:2px solid 336'>Att Units
-</td><th colspan='16'>Defenders</td>
+<a name='chart'>
+</a>
+
+<table>
+<thead>
+<tr>
+<th rowspan='2' style='border-right:2px solid 336'>Att Units </th>
+<th colspan='16'>Defenders</th>
 </tr>
-<tr><th>FT</th>
-<th>BO</th>
-<th>HB</th>
-<th>IB</th>
-<th>CV</th>
-<th>DD</th>
-<th>FR</th>
-<th>IF</th>
-<th>CR</th>
-<th>HC</th>
-<th>BB</th>
-<th>DR</th>
-<th>TI</th>
-<th>LV</th>
-<th>DS</th>
-<th>SP</td>
-</tr>
-<tr><td class='success'>FT</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X </td>
-</tr>
-<tr><td class='info'>BO</td>
-<td class='warning'>?</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='success'>HB</td>
-<td class='danger'>-</td>
-<td class='warning'>?</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='warning'>IB</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='info'>CV</td>
-<td class='warning'>?</td>
-<td class='warning'>?</td>
-<td class='danger'>-</td>
-<td class='warning'>?</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='info'>DD</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='danger'>FR</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='danger'>IF</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='success'>CR</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='warning'>HC</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='warning'>BB</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='warning'>DR</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='danger'>TI</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='danger'>LV</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='warning'>?</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='danger'>DS</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='success'>X</td>
-<td class='success'>X</td>
-</tr>
-<tr><td class='type'>SP</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-<td class='danger'>-</td>
-</tr></table>
+    <tr>
+        <th>FT</th>
+        <th>BO</th>
+        <th>HB</th>
+        <th>IB</th>
+        <th>CV</th>
+        <th>DD</th>
+        <th>FR</th>
+        <th>IF</th>
+        <th>CR</th>
+        <th>HC</th>
+        <th>BB</th>
+        <th>DR</th>
+        <th>TI</th>
+        <th>LV</th>
+        <th>DS</th>
+        <th>SP</th>
+    </tr>
+    </thead>
+    <tr>
+        <td class='success'>FT</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X </td>
+    </tr>
+    <tr>
+        <td class='info'>BO</td>
+        <td class='warning'>?</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='success'>HB</td>
+        <td class='danger'>-</td>
+        <td class='warning'>?</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='warning'>IB</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='info'>CV</td>
+        <td class='warning'>?</td>
+        <td class='warning'>?</td>
+        <td class='danger'>-</td>
+        <td class='warning'>?</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='info'>DD</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='danger'>FR</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='danger'>IF</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='success'>CR</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='warning'>HC</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='warning'>BB</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='warning'>DR</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='danger'>TI</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='danger'>LV</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='warning'>?</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='danger'>DS</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='success'>X</td>
+        <td class='success'>X</td>
+    </tr>
+    <tr>
+        <td class='type'>SP</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+        <td class='danger'>-</td>
+    </tr>
+    </table>
 
 * Yellow = Later
 * Red = Avoid
 * Blue = Maybe
 * Green = Definitely
 
-**Reading the chart:** To see which units are efficient against what,
+Reading the chart: To see which units are efficient against what,
 the columns are the defenders, the attackers are the rows.
 
 ### Support Ships
@@ -422,7 +446,7 @@ We now look at the support units in greater detail.
 
 #### Fighters (FT)
 
-<span class='text-success'>**Build this unit.**</span> 
+<span class='text-success'>Build this unit.</span> 
 These are the staple of all fleets in AE&mdash;defense, offense, everything.
 Fighters are the single most efficient ship in Astro Empires. The damage
 they absorb per credit is unparalleled. That makes Fighters your primary
@@ -437,7 +461,7 @@ significantly improve your exchange rate.
 
 #### Bombers (BO)
 
-<span class='text-warning'>**Consider this unit.**</span> 
+<span class='text-warning'>Consider this unit.</span> 
 Bombers have the same armor as Fighters with twice the firepower and
 twice the cost. This makes them slightly less efficient. While less
 efficient, they can still be slightly efficient meat. Their ability to
@@ -448,7 +472,7 @@ counterpart in an _offensive_ role.
 
 #### Heavy Bombers (HB)
 
-<span class=''>**Build this unit.**</span> 
+<span class='text-success'>Build this unit.</span> 
 Heavy Bombers are primarily *offensive units*. They carry enough punch
 to take out escort units&mdash;Cruisers and Heavy Cruisers&mdash;but their
 vulnerability to other support units and cost makes them poor defensive
@@ -464,12 +488,12 @@ proper amount of Command Centers.
 
 #### Ion Bombers (IB)
 
-<span class='text-warning'>**Consider this unit.**</span>
+<span class='text-warning'>Consider this unit.</span>
 Ion Bombers support an anti-capital role but are highly vulnerable to Fighters due to their low shielding. Ion Frigates, below, have a substantially higher ratio against Capital, however.
 
 #### Corvettes (CV)
 
-<span class='text-warning'>**Consider this unit.**</span> 
+<span class='text-warning'>Consider this unit.</span> 
 The Corvette utility lies in its speed. They are not very useful in a
 battle fleet because they are too expensive compared to other support
 units. They are as efficient as Bombers, but their unique ability makes
@@ -485,7 +509,7 @@ fleet with insufficient Fighter support.
 
 #### Destroyers (DD)
 
-<span class='text-success'>**Build this unit.**</span> 
+<span class='text-success'>Build this unit.</span> 
 Because Cruisers and Destroyers share the Plasma weapons system,
 Destroyers are useful. They are very efficient in destroying naked
 Cruisers and Heavy Cruisers. They are inefficient against Battleships
@@ -501,7 +525,7 @@ not leave Destroyers in hostile territory when you have to be offline.
 
 #### Frigates (FR)
 
-<span class='text-warning'>**Consider this unit.**</span> 
+<span class='text-warning'>Consider this unit.</span> 
 Frigates have a mixed reputation. Small Fleet used to discourage Frigate construction. However, the value of Frigates is not that cut-and-dried. Lacking shields, they are highly vulnerable to Fighters. They have a .33 cost/armor ratio to a Fighter's .88 ratio; which shows what you stand to lose when caught off guard. However, diligently used, Frigates are a decent tool, marginally efficient against Cruisers (.33 to .28 cost/armor ratio), and can carry Fighters (raising the overall efficiency). A Frigate/Fighter mix costs 100 credits, requires 10 Recyclers to support, and can be a lethal, quick combination...with diligence.
 
 ### Escort Ships
@@ -520,7 +544,7 @@ We now look at the escort units in greater detail.
 
 #### Ion Frigates (IF)
 
-<span class='text-warning'>**Consider this unit.**</span>
+<span class='text-warning'>Consider this unit.</span>
 Ion Frigates are units of limited utility. With a high-enough Ion level (e.g. over 15), they provide the best ratios (upward of 3.9) against Levis and Death Stars&mdash;all capital ships. Combining them with Ion Bombers (two per IF) packs a stronger punch, but with a lower ratio (2.6); requiring fewer units.
 
 * Against LV: 1200 to 1250 Ion Frigates per LV
@@ -529,7 +553,7 @@ Ion Frigates are units of limited utility. With a high-enough Ion level (e.g. ov
  
 #### Cruisers (CR)
 
-<span class='text-success'>**Build this unit.**</span> In Small Fleet Doctrine, Cruisers serve
+<span class='text-success'>Build this unit.</span> In Small Fleet Doctrine, Cruisers serve
 a critical role. You will want to build these by the hundreds. They are
 the efficient killer of escort units (Heavy Cruisers and Battleships).
 They are less efficient against Fighters than Heavy Cruisers, and should
@@ -545,7 +569,7 @@ fleets.
 
 #### Heavy Cruisers (HC)
 
-<span class='text-success'>**Build this unit.**</span> 
+<span class='text-success'>Build this unit.</span> 
 Heavy Cruisers are the bruiser of Astro Empires. 
 Their shields are high enough to let them nakedly rush Fighters. 
 They are inefficient against Heavy Bombers and Destroyers, and should
@@ -564,7 +588,7 @@ Titans.
 
 #### Battleships (BS/BB)
 
-<span class='text-warning'>**Consider this unit.**</span> 
+<span class='text-warning'>Consider this unit.</span> 
 As ships get larger, they tend to become less efficient. 
 They are significantly efficient against support units, able to destroy
 more than 12 times their value in Fighters and Heavy Bombers.
@@ -678,7 +702,8 @@ with Cruisers, keep using Carriers.
 <li> Keep enough HCs around to deal with the big stuff, with more than that if you want to use them in main fleets.</li>
 <li> Do not build Frigates, Ion Frigates, or Ion Bombers. You are wasting your production time and money.</li>
 <li> Bigger is not always better. The bigger you get, the less efficient you get. Do not build too much of the big stuff.</li>
-</ul></div>
+</ul>
+</div>
 
 ## Small Fleet Doctrine Applied
 
@@ -713,7 +738,7 @@ should be Cruisers and Heavy Cruisers.
 
 ## Updates
 
-**November 2009.** Refined descriptions of Ion Bombers and Frigates to
+November 2009. Refined descriptions of Ion Bombers and Frigates to
 correct errors in anti-capital role. Added use of Corvette in a scout
 role, something Merovech has used for some time but was just lax in
 documenting.

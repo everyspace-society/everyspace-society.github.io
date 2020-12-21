@@ -3,7 +3,8 @@ layout: default
 klass: docs
 ---
 {%- assign categories = "" | split:"|" %}
-{%- for doc in site.astro_empires %}
+
+{%- for doc in site.astro-empires %}
   {%- for category in doc.categories  %}
   {%- assign categories = categories | push: category | uniq %}
   {%- endfor %}

@@ -1,6 +1,6 @@
 <h3>{{include.category}}</h3>
         <ul>
-        {%- for doc in site.docs %}
+        {%- for doc in site.astro-empires %}
             {%- if doc.category == include.category %}
             <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
             {%- endif %}

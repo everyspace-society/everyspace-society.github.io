@@ -335,7 +335,7 @@ category: "Astro Empires"
   <td class='bad'>-</td>
   <td class='bad'>-</td>
   <td class='bad'>-</td>
-  <td class='bad'>-</td><table class='table'>
+  <td class='bad'>-</td></tr></table>
 
 * Yellow = Later
 * Red = Avoid

@@ -15,9 +15,7 @@ categories: []
 </div>
 
 
-<table class='table'>
-
-</tr>
+<table>
 <tr>
   <td >http://espacesociety.org/pub/images/MT_perspective-thumb.gif</td>
   <td >After several years of festering on this site, the first edition of the <em>Macropedia Terradoma---[Imperium Edition](/macropedia/imperium-edition)</em> has been released. [Buy your copy today](http://amzn.to/[Macropedia Terradoma Imperium](/macropedia/macropedia-terradoma-imperium)) for only $11.88!</td>

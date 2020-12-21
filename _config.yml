@@ -59,6 +59,9 @@ collections:
   astro-empires:
     permalink: "/:collection/:path/"
     output: true
+  macropedia:
+    permalink: "/:collection/:path/"
+    output: true
 
 defaults:
   - scope:
@@ -70,7 +73,12 @@ defaults:
       path: ""
       type: "astro-empires"
     values:
-      layout: "docs"
+      layout: "astro-empires"
+  - scope:
+      path: ""
+      type: "macropedia"
+    values:
+      layout: "macropedia"
 # Build settings
 permalink: /posts/:title
 

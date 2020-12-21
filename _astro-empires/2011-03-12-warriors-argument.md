@@ -5,10 +5,10 @@ date: 2011-03-12T16:58:47+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "News"
 ---
 
-****
+
 <a name='teaser'></a>
 Think about the food chain for a moment. Herbivores graze all day long on relatively nutrient-poor plants. They have huge guts (intestinal tracts) to extract as much of the nutrition as possible for their bodies. Day after day they spend nearly all of their time grazing. Then along comes a predator and aggressively pins down and eats one of the herbivores. Bam!
 

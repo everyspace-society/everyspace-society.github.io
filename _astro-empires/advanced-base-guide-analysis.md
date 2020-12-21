@@ -5,7 +5,7 @@ date: 2007-10-29T23:03:59+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Research"
 ---
 
 

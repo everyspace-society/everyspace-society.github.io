@@ -8,8 +8,7 @@ footer: true
 group: EveOnline
 ---
 
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th width=30%25>Group</th>
   <td class='heading'>Attributes</td>

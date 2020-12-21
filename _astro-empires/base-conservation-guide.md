@@ -27,8 +27,7 @@ The first section discusses how to efficiently build a
 Commerce Asteroid. The second section discusses how to build a Research
 base. The final section discusses how to build a Production base.
 
-General Information
-===================
+## General Information
 
 One question you may be asking yourself is why the different types of
 bases need a certain configuration&mdash;and why that configuration is
@@ -43,11 +42,9 @@ If you look at the cost list of each type of Production structure,
 you'll note that Metal Refineries-17 costs about the same as Nanite
 Factories-9 (actually, the cost is within 100 credits).
 
-Value of Structures
-===================
+## Value of Structures
 
-Orbital Structures
-~~~~~~~~~~~~~~~~~~
+### Orbital Structures
 
 Orbital Structures give free players a maximum of fifty population, and
 this is not influenced by Biosphere Modification. The table below shows
@@ -76,16 +73,14 @@ Fertility.
 </tr>
 </table>
 
-Antimatter Plants
-~~~~~~~~~~~~~~~~~
+### Antimatter Plants
 
 Antimatter Plants generates a maximum of 100 energy, allowing free
 players to disband 12 Fusion Plants while still providing four extra
 energy units. The actual slot savings is five.
 
 
-Commerce Asteroid
-=================
+## Commerce Asteroid
 
 The Commerce Asteroid is considered the pessimistic choice. This is
 because you are limited in the number of structures you can build. You
@@ -169,9 +164,7 @@ disband two Metal Refineries for the space). This gives 20 more economy.
 </table>
 
 
-Tundra Research
-===============
+## Tundra Research
 
-Metallic Production
-===================
+## Metallic Production
 

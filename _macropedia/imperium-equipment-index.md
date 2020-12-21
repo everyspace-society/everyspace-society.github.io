@@ -9,7 +9,7 @@ group: Macropedia
 categories: []
 ---
 <div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperium-equipment'>Imperium Equipment</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-equipment-index'>Imperium Equipment Index</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-macropedia-timeline'>Imperium Macropedia Timeline</a></div>
+	<div><a href='/macropedia/imperium-equipment'>Imperium Equipment</a></div>
+	<div><a href='/macropedia/imperium-equipment-index'>Imperium Equipment Index</a></div>
+	<div><a href='/macropedia/imperium-macropedia-timeline'>Imperium Macropedia Timeline</a></div>
 </div>

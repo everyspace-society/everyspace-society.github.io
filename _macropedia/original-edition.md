@@ -30,8 +30,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 <a name='A'></a>
 ### A
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -39,8 +38,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 <a name='B'></a>
 ### B
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -48,8 +46,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 <a name='C'></a>
 ### C
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -57,8 +54,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 <a name='D'></a>
 ### D
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -66,8 +62,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### E
 <a name='E'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -75,8 +70,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### F
 <a name='F'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -84,8 +78,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### G
 <a name='G'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -93,8 +86,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### H
 <a name='H'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -102,8 +94,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### I
 <a name='I'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -111,8 +102,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### J
 <a name='J'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -120,8 +110,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### K
 <a name='K'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -129,8 +118,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### L
 <a name='L'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -138,8 +126,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### M
 <a name='M'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -147,8 +134,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### N
 <a name='N'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -156,8 +142,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### O
 <a name='O'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -165,8 +150,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### P
 <a name='P'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -174,8 +158,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### Q
 <a name='Q'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -183,8 +166,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### R
 <a name='R'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -192,8 +174,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### S
 <a name='S'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -201,8 +182,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### T
 <a name='T'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -210,8 +190,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### U
 <a name='U'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -219,8 +198,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### V
 <a name='V'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -228,18 +206,16 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### W
 <a name='W'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td >[Chang Singh](/scholar/chang-singh)</td></tr></table>
 
 ### X
 <a name='X'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -247,8 +223,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### Y
 <a name='Y'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -256,8 +231,7 @@ Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events
 
 ### Z
 <a name='Z'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>

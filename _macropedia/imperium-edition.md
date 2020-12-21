@@ -9,1227 +9,1251 @@ group: Macropedia
 categories: []
 ---
 <div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition'>Macropedia Imperium</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition-index'>Imperium Edition Index</a></div>
+	<div><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></div>
+	<div><a href='/macropedia/imperium-edition'>Macropedia Imperium</a></div>
+	<div><a href='/macropedia/imperium-edition-index'>Imperium Edition Index</a></div>
 </div>
 
+***<a href='/macropedia/macropedia'>Macropedia/Macropedia</a> Terradoma, Imperium Edition*** began before the end of the Imperium. The Last Emperor hoped the scholars he chose would document the many successes of the Imperium and solidify both his and the dynasty's legacy. However, he passed heirless, and the "death spiral" to the <a href='/chronology/second-decline'>Second Decline</a> began. The scholars chose to write as Scholars and not necessarily as puppets of the last dynasty of the Imperium.
 
+<a href='/macropedia/recent-changes'>Recent Changes</a> (since flagging macropedia for edit/publication).
 
-
-***[Macropedia/Macropedia](/macropedia/macropedia) Terradoma, Imperium Edition*** began before the end of the Imperium. The Last Emperor hoped the scholars he chose would document the many successes of the Imperium and solidify both his and the dynasty's legacy. However, he passed heirless, and the "death spiral" to the [Second Decline](/chronology/second-decline) began. The scholars chose to write as Scholars and not necessarily as puppets of the last dynasty of the Imperium.
-
-[Recent Changes](/macropedia/recent-changes) (since flagging macropedia for edit/publication).
-
-Here is a [sketchy timeline](/macropedia/imperium-macropedia-timeline) of events within this Lexicon.
+Here is a <a href='/macropedia/imperium-macropedia-timeline'>sketchy timeline</a> of events within this Lexicon.
 
 
 
 ## Articles
-<table class='table'>
 
-  <td ></td><a name='A'>A-C</a> &middot; <a name='D'>D-F</a> &middot; <a name='G'>G-I</a> &middot; <a name='J'>J-L</a> &middot; \
-<a name='M'>M-O</a> &middot; <a name='P'>P-S</a> &middot; <a name='T'>T-W</a> &middot; <a name='X'>X-Z</a> 
+<table class='table'>
+<tr>
+  <td ><a name='A'>A-C</a> </td><td> <a name='D'>D-F</a> </td><td> <a name='G'>G-I</a> </td><td> <a name='J'>J-L</a> </td><td> 
+<a name='M'>M-O</a> </td><td> <a name='P'>P-S</a> </td><td> <a name='T'>T-W</a> </td><td> <a name='X'>X-Z</a> </td>
+</tr></table>
+
 <table class='table'>
 
 <a name='A'></a>
-### A
-<table class='table'>
-</tr>
+
+<h3>A</h3>
+
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Academy Of The Imperial Fleet](/macropedia/academy-of-the-imperial-fleet)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Ivan Dabrian](/macropedia/ivan-dabrian))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/academy-of-the-imperial-fleet'>Academy Of The Imperial Fleet</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/ivan-dabrian'>Ivan Dabrian</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Alaerian Cult](/macropedia/alaerian-cult)</td>
+  <td ><a href='/macropedia/alaerian-cult'>Alaerian Cult</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Alistair Cormwite](/macropedia/alistair-cormwite)</td>
+  <td ><a href='/macropedia/alistair-cormwite'>Alistair Cormwite</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Anthorph](/macropedia/anthorph)</td>
+  <td ><a href='/macropedia/anthorph'>Anthorph</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Anthorph Free State](/macropedia/anthorph-free-state)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Yatharan Migration](/macropedia/yatharan-migration))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/anthorph-free-state'>Anthorph Free State</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/yatharan-migration'>Yatharan Migration</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Antius Trevus I](/macropedia/antius-trevus-one)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Gahanian Seers](/macropedia/gahanian-seers))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/antius-trevus-one'>Antius Trevus I</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/gahanian-seers'>Gahanian Seers</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Arturo San Degas](/macropedia/arturo-san-degas)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Ivan Dabrian](/macropedia/ivan-dabrian))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/arturo-san-degas'>Arturo San Degas</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/ivan-dabrian'>Ivan Dabrian</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Ascension Cults](/macropedia/ascension-cults)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Odni Planyeti](/macropedia/odni-planyeti))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/ascension-cults'>Ascension Cults</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/odni-planyeti'>Odni Planyeti</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Assimilysis](/macropedia/assimilysis)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Charl Bovit](/macropedia/charl-bovit))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/macropedia/assimilysis'>Assimilysis</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/charl-bovit'>Charl Bovit</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
 <a name='B'></a>
-### B
-<table class='table'>
-</tr>
+
+<h3>B</h3>
+
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Baelian Fiasco](/macropedia/baelian-fiasco)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Nazir Al Shamuth](/macropedia/nazir-al-shamuth))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/baelian-fiasco'>Baelian Fiasco</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/nazir-al-shamuth'>Nazir Al Shamuth</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)</td>
+  <td ><a href='/macropedia/bafiktuy-intelligence-directive'>Bafiktuy Intelligence Directive</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Balanar III](/macropedia/balanar-three)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Xkan Nimu Hal](/macropedia/xkan-nimu-hal))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/balanar-three'>Balanar III</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/xkan-nimu-hal'>Xkan Nimu Hal</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Bang Hai Nok Incident](/macropedia/bang-hai-nok-incident)</td>
+  <td ><a href='/macropedia/bang-hai-nok-incident'>Bang Hai Nok Incident</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Benita Perez](/macropedia/benita-perez)</td>
+  <td ><a href='/macropedia/benita-perez'>Benita Perez</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Bitanium Fibre Exploration Corporation](/macropedia/bitanium-fibre-exploration-corporation)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Quixotic Maelstrom](/macropedia/quixotic-maelstrom))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/macropedia/bitanium-fibre-exploration-corporation'>Bitanium Fibre Exploration Corporation</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/quixotic-maelstrom'>Quixotic Maelstrom</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
 <a name='C'></a>
-### C
-<table class='table'>
-</tr>
+
+<h3>C</h3>
+
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Canticle Of Hope](/macropedia/canticle-of-hope) ([Yauwza Magruder](/macropedia/yauwza-magruder))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/canticle-of-hope'>Canticle Of Hope</a> (<a href='/macropedia/yauwza-magruder'>Yauwza Magruder</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Cathian Navy](/macropedia/cathian-navy)</td>
+  <td ><a href='/macropedia/cathian-navy'>Cathian Navy</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Celtainu](/macropedia/celtainu)</td>
+  <td ><a href='/macropedia/celtainu'>Celtainu</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Charl Bovit](/macropedia/charl-bovit)</td>
+  <td ><a href='/macropedia/charl-bovit'>Charl Bovit</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Chogia Faith](/macropedia/chogia-faith)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Imudring](/macropedia/imudring))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/chogia-faith'>Chogia Faith</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/imudring'>Imudring</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Chovim Family](/macropedia/chovim-family)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/chovim-family'>Chovim Family</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/hegemonic-economic-trade-group'>Hegemonic Economic Trade Group</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Committee of Ten Thousand Flowers](/macropedia/committee-ten-thousand-flowers)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Benita Perez](/macropedia/benita-perez))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/committee-ten-thousand-flowers'>Committee of Ten Thousand Flowers</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/benita-perez'>Benita Perez</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Confederation Party](/macropedia/confederation-party)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Veltrane Fres Volon](/macropedia/veltrane-fres-volon))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/confederation-party'>Confederation Party</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/veltrane-fres-volon'>Veltrane Fres Volon</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Conference Of Religion And Science](/macropedia/conference-of-religion-and-science)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Qin Lop Shu](/macropedia/qin-lop-shu))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/conference-of-religion-and-science'>Conference Of Religion And Science</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/qin-lop-shu'>Qin Lop Shu</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Conspiracy Of Ages](/macropedia/conspiracy-of-ages)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Weng Zhu Li](/macropedia/weng-zhu-li))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/conspiracy-of-ages'>Conspiracy Of Ages</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/weng-zhu-li'>Weng Zhu Li</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Corrigan System](/macropedia/corrigan-system)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Jiao Banner Sphere](/macropedia/jiao-banner-sphere))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/corrigan-system'>Corrigan System</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/jiao-banner-sphere'>Jiao Banner Sphere</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Counsel Of Concerned Scientists](/macropedia/counsel-of-concerned-scientists)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/macropedia/counsel-of-concerned-scientists'>Counsel Of Concerned Scientists</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
 <a name='D'></a>
-### D
-<table class='table'>
-</tr>
+
+<h3>D</h3>
+
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Dabrian Dynasty](/macropedia/dabrian-dynasty)</td>
+  <td ><a href='/macropedia/dabrian-dynasty'>Dabrian Dynasty</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Dalludna](/macropedia/dalludna)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Xkan Nimu Hal](/macropedia/xkan-nimu-hal))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/dalludna'>Dalludna</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/xkan-nimu-hal'>Xkan Nimu Hal</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Dao Jihn Corp](/macropedia/dao-jihn-corp)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Unstable Particle Projectors](/macropedia/unstable-particle-projectors))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/dao-jihn-corp'>Dao Jihn Corp</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/unstable-particle-projectors'>Unstable Particle Projectors</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Deltai-Cathian League](/macropedia/deltai-cathian-league)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Cathian Navy](/macropedia/cathian-navy))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/deltai-cathian-league'>Deltai-Cathian League</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/cathian-navy'>Cathian Navy</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Denuded Earth Theory](/macropedia/denuded-earth-theory)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Primitive Population Regression](/macropedia/primitive-population-regression))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/denuded-earth-theory'>Denuded Earth Theory</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/primitive-population-regression'>Primitive Population Regression</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Dinzwar Gefera](/macropedia/dinzwar-gefera)</td>
+  <td ><a href='/macropedia/dinzwar-gefera'>Dinzwar Gefera</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Dio En Mashino](/macropedia/dio-en-mashino)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Celtainu](/macropedia/celtainu))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/dio-en-mashino'>Dio En Mashino</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/celtainu'>Celtainu</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Dreohedge Gevar](/macropedia/dreohedge-gevar)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)  ([Popelof Project](/macropedia/popelof-project))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/dreohedge-gevar'>Dreohedge Gevar</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a>  (<a href='/macropedia/popelof-project'>Popelof Project</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Durin Bonish](/macropedia/durin-bonish)</td>
+  <td ><a href='/macropedia/durin-bonish'>Durin Bonish</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td><table class='table'>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td></tr></table>
 
-### E
+
+<h3>E</h3>
+
 <a name='E'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Ekreiter Plague](/macropedia/ekreiter-plague)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)([Voushniya](/macropedia/voushniya))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/ekreiter-plague'>Ekreiter Plague</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a>(<a href='/macropedia/voushniya'>Voushniya</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Elkar Lemard](/macropedia/elkar-lemard)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/elkar-lemard'>Elkar Lemard</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Emil Dabrian](/macropedia/emil-dabrian)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Nevian Schmizt](/macropedia/nevian-schmizt))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/emil-dabrian'>Emil Dabrian</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/nevian-schmizt'>Nevian Schmizt</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Endyphad Konjrez](/macropedia/endyphad-konjrez)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/endyphad-konjrez'>Endyphad Konjrez</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Engle Pogroms](/macropedia/engle-pogroms)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Muzgersun's Human History](/macropedia/muzgersuns-history))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/engle-pogroms'>Engle Pogroms</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/muzgersuns-history'>Muzgersun's Human History</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory)</td>
+  <td ><a href='/macropedia/enhanced-autonomous-research-laboratory'>Enhanced Autonomous Research Laboratory</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Entering the Decline](/macropedia/entering-first-decline)</td>
+  <td ><a href='/macropedia/entering-first-decline'>Entering the Decline</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Esperopteris Koinsii](/macropedia/esperopteris-koinsii)</td>
+  <td ><a href='/macropedia/esperopteris-koinsii'>Esperopteris Koinsii</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Elenarai Fathame](/macropedia/elenarai-fathame)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Zophian Sisterhood](/macropedia/zophian-sisterhood))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/macropedia/elenarai-fathame'>Elenarai Fathame</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/zophian-sisterhood'>Zophian Sisterhood</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### F
+
+<h3>F</h3>
+
 <a name='F'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Fasantauri System](/macropedia/fasantauri-system)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Jiao Banner Sphere](/macropedia/jiao-banner-sphere))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/fasantauri-system'>Fasantauri System</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/jiao-banner-sphere'>Jiao Banner Sphere</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Femaron Felard](/macropedia/femaron-felard)</td>
+  <td ><a href='/macropedia/femaron-felard'>Femaron Felard</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Fractal Shielding](/macropedia/fractal-shielding)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Unstable Particle Projectors](/macropedia/unstable-particle-projectors))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/fractal-shielding'>Fractal Shielding</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/unstable-particle-projectors'>Unstable Particle Projectors</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Frontier Rebellion](/macropedia/frontier-rebellion)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Alaerian Cult](/macropedia/alaerian-cult))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/frontier-rebellion'>Frontier Rebellion</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/alaerian-cult'>Alaerian Cult</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Frontier Scout Fleet](/macropedia/frontier-scout-fleet)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Esperopteris Koinsii](/macropedia/esperopteris-koinsii))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/frontier-scout-fleet'>Frontier Scout Fleet</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/esperopteris-koinsii'>Esperopteris Koinsii</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Fteigar Alloys](/macropedia/fteigar-alloys)</td>
+  <td ><a href='/macropedia/fteigar-alloys'>Fteigar Alloys</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Fully Integrated Corporation](/macropedia/fully-integrated-corporation)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Primitive Population Regression](/macropedia/primitive-population-regression))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/fully-integrated-corporation'>Fully Integrated Corporation</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/primitive-population-regression'>Primitive Population Regression</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Furnoklin Taschera](/macropedia/furnoklin-taschera)</td>
+  <td ><a href='/macropedia/furnoklin-taschera'>Furnoklin Taschera</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### G
+
+<h3>G</h3>
+
 <a name='G'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Gahanian Seers](/macropedia/gahanian-seers)</td>
+  <td ><a href='/macropedia/gahanian-seers'>Gahanian Seers</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Gahani Bari Monastery](/macropedia/gahani-bari-monastery)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Odni Planyeti](/macropedia/odni-planyeti))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/gahani-bari-monastery'>Gahani Bari Monastery</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/odni-planyeti'>Odni Planyeti</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Galactic Library Of Language And Culture](/macropedia/galactic-library-of-language-and-culture)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Hagurin Character Set](/macropedia/hagurin-character-set))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/galactic-library-of-language-and-culture'>Galactic Library Of Language And Culture</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/hagurin-character-set'>Hagurin Character Set</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Genetically Enhanced Peoples](/macropedia/genetically-enhanced-peoples)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Qin Lop Shu](/macropedia/qin-lop-shu))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/genetically-enhanced-peoples'>Genetically Enhanced Peoples</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/qin-lop-shu'>Qin Lop Shu</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Gieliaden Sohia](/macropedia/gieliaden-sohia)</td>
+  <td ><a href='/macropedia/gieliaden-sohia'>Gieliaden Sohia</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Gesceamian Choent](/macropedia/gesceamian-choent)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Dinzwar Gefera](/macropedia/dinzwar-gefera))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/gesceamian-choent'>Gesceamian Choent</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/dinzwar-gefera'>Dinzwar Gefera</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Ghen Changh Liu](/macropedia/ghen-changh-liu)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Lemardians](/macropedia/lemardians))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/ghen-changh-liu'>Ghen Changh Liu</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/lemardians'>Lemardians</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Grand Reforms](/macropedia/grand-reforms)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Dabrian Dynasty](/macropedia/dabrian-dynasty))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/grand-reforms'>Grand Reforms</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/dabrian-dynasty'>Dabrian Dynasty</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Gravito Magnetic Sensor Sheaths](/macropedia/gravito-magnetic-sensor-sheaths)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Weng Zhu Li](/macropedia/weng-zhu-li))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/gravito-magnetic-sensor-sheaths'>Gravito Magnetic Sensor Sheaths</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/weng-zhu-li'>Weng Zhu Li</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Gruyonh Doyu](/macropedia/gruyonh-doyu)</td>
+  <td ><a href='/macropedia/gruyonh-doyu'>Gruyonh Doyu</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Gawdain Tawmerik](/macropedia/gawdain-tawmerik)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Parthas Class Vessels](/macropedia/parthas-class-vessels))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td><table class='table'>
+  <td ><a href='/macropedia/gawdain-tawmerik'>Gawdain Tawmerik</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/parthas-class-vessels'>Parthas Class Vessels</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td></tr></table>
 
-### H
+
+<h3>H</h3>
+
 <a name='H'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Hagurin Character Set](/macropedia/hagurin-character-set)</td>
+  <td ><a href='/macropedia/hagurin-character-set'>Hagurin Character Set</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group)</td>
+  <td ><a href='/macropedia/hegemonic-economic-trade-group'>Hegemonic Economic Trade Group</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Heljyks](/macropedia/heljyks)</td>
+  <td ><a href='/macropedia/heljyks'>Heljyks</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Helsmunt Institute](/macropedia/helsmunt-institute)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Celtainu](/macropedia/celtainu))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/helsmunt-institute'>Helsmunt Institute</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/celtainu'>Celtainu</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Gahanian Seers](/macropedia/gahanian-seers))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/hjans-kreb-lakol'>Hjans Kreb Lakol</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/gahanian-seers'>Gahanian Seers</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Hundred Bloody Days](/macropedia/hundred-bloody-days)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Femaron Felard](/macropedia/femaron-felard))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td><table class='table'>
+  <td ><a href='/macropedia/hundred-bloody-days'>Hundred Bloody Days</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/femaron-felard'>Femaron Felard</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td></tr></table>
 
-### I
+
+<h3>I</h3>
+
 <a name='I'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Imperial Core Worlds](/macropedia/imperial-core-worlds)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Alistair Cormwite](/macropedia/alistair-cormwite))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/imperial-core-worlds'>Imperial Core Worlds</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/alistair-cormwite'>Alistair Cormwite</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Imperial Congress](/macropedia/imperial-congress)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Cathian Navy](/macropedia/cathian-navy))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/imperial-congress'>Imperial Congress</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/cathian-navy'>Cathian Navy</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Imperial Interregnum](/macropedia/imperial-interregnum)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Durin Bonish](/macropedia/durin-bonish))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/durin-bonish'>Durin Bonish</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Ivan Dabrian](/macropedia/ivan-dabrian)</td>
+  <td ><a href='/macropedia/ivan-dabrian'>Ivan Dabrian</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Imudring](/macropedia/imudring)</td>
+  <td ><a href='/macropedia/imudring'>Imudring</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Iadian Massacre](/macropedia/iadian-massacre)</td>
+  <td ><a href='/macropedia/iadian-massacre'>Iadian Massacre</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Imperial Court Of Cassation](/macropedia/imperial-court-of-cassation)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Nazir Al Shamuth](/macropedia/nazir-al-shamuth))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/macropedia/imperial-court-of-cassation'>Imperial Court Of Cassation</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/nazir-al-shamuth'>Nazir Al Shamuth</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### J
+
+<h3>J</h3>
+
 <a name='J'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Janoos Welkred](/macropedia/janoos-welkred)</td>
+  <td ><a href='/macropedia/janoos-welkred'>Janoos Welkred</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Jiao-Banner Sphere](/macropedia/jiao-banner-sphere)</td>
+  <td ><a href='/macropedia/jiao-banner-sphere'>Jiao-Banner Sphere</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Jubal II](/macropedia/jubal-two)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Nevian Schmizt](/macropedia/nevian-schmizt))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/jubal-two'>Jubal II</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/nevian-schmizt'>Nevian Schmizt</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Jubal III](/macropedia/jubal-three)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Tithian Foundation](/macropedia/tithian-foundation))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/jubal-three'>Jubal III</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/tithian-foundation'>Tithian Foundation</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Jubal IV](/macropedia/jubal-four)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Durin Bonish](/macropedia/durin-bonish))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/jubal-four'>Jubal IV</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/durin-bonish'>Durin Bonish</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Jupiter Rocket](/macropedia/jupiter-rocket)</td>
+  <td ><a href='/macropedia/jupiter-rocket'>Jupiter Rocket</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### K
+
+<h3>K</h3>
+
 <a name='K'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Kabal Nebrotensia](/macropedia/kabal-nebrotensia)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/kabal-nebrotensia'>Kabal Nebrotensia</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Kaurium Government](/macropedia/kaurium-government)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Jupiter Rocket](/macropedia/jupiter-rocket))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/kaurium-government'>Kaurium Government</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/jupiter-rocket'>Jupiter Rocket</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Kazam-Re](/macropedia/kazam-re)</td>
+  <td ><a href='/macropedia/kazam-re'>Kazam-Re</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor)</td>
+  <td ><a href='/macropedia/kemen-febrer-suwor'>Kemen Febrer Suwor</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[King Traih League](/macropedia/king-traih-league)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Bang Hai Nok Incident](/macropedia/bang-hai-nok-incident))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/king-traih-league'>King Traih League</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/bang-hai-nok-incident'>Bang Hai Nok Incident</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Klister University](/macropedia/klister-university)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Anthorph](/macropedia/anthorph))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/klister-university'>Klister University</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/anthorph'>Anthorph</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Krezil Stock Market Crash](/macropedia/krezil-stock-market-crash)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/krezil-stock-market-crash'>Krezil Stock Market Crash</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/bafiktuy-intelligence-directive'>Bafiktuy Intelligence Directive</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Kuberian Movement](/macropedia/kuberian-movement)</td>
+  <td ><a href='/macropedia/kuberian-movement'>Kuberian Movement</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Yatharan Migration](/macropedia/yatharan-migration))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/kaldar-esra-yathara'>Kaldar Esra Yathara</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/yatharan-migration'>Yatharan Migration</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Kanth Tawmerik](/macropedia/kanth-tawmerik)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Zophian Sisterhood](/macropedia/zophian-sisterhood))</td>
-  <td ></td><table class='table'>
+  <td ><a href='/macropedia/kanth-tawmerik'>Kanth Tawmerik</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/zophian-sisterhood'>Zophian Sisterhood</a>)</td>
+  <td ></td></tr></table>
 
-### L
+
+<h3>L</h3>
+
 <a name='L'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Langothian Rangers](/macropedia/langothian-rangers)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Janoos Welkred](/macropedia/janoos-welkred))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/langothian-rangers'>Langothian Rangers</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/janoos-welkred'>Janoos Welkred</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Lemardians](/macropedia/lemardians)</td>
+  <td ><a href='/macropedia/lemardians'>Lemardians</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Librarian Society](/macropedia/librarian-society)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Muzgersun's Human History](/macropedia/muzgersuns-history))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/librarian-society'>Librarian Society</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/muzgersuns-history'>Muzgersun's Human History</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Liu-No-Ri Masters](/macropedia/liu-no-ri-masters)</td>
+  <td ><a href='/macropedia/liu-no-ri-masters'>Liu-No-Ri Masters</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Last Charge Of Light Horse](/macropedia/last-charge-of-light-horse)</td>
+  <td ><a href='/macropedia/last-charge-of-light-horse'>Last Charge Of Light Horse</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Lenda Tawmerik](/macropedia/lenda-tawmerik)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Umarian Guard](/macropedia/umarian-guard))</td>
-  <td ></td><table class='table'>
+  <td ><a href='/macropedia/lenda-tawmerik'>Lenda Tawmerik</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/umarian-guard'>Umarian Guard</a>)</td>
+  <td ></td></tr></table>
 
-### M
+
+<h3>M</h3>
+
 <a name='M'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Macrodonic Collapse](/macropedia/macrodonic-collapse)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Entering First Decline](/macropedia/entering-first-decline))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/macrodonic-collapse'>Macrodonic Collapse</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/entering-first-decline'>Entering First Decline</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Mother's Memory Core](/macropedia/mother-memory-core)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Gruyonh Doyu](/macropedia/gruyonh-doyu))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/mother-memory-core'>Mother's Memory Core</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/gruyonh-doyu'>Gruyonh Doyu</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Ministry Of Cultural Development](/macropedia/ministry-of-cultural-development)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Temba II](/macropedia/temba-two))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/ministry-of-cultural-development'>Ministry Of Cultural Development</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/temba-two'>Temba II</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Muzigle Fiasco](/macropedia/muzigle-fiasco)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/muzigle-fiasco'>Muzigle Fiasco</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/hegemonic-economic-trade-group'>Hegemonic Economic Trade Group</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Muridian Avengers](/macropedia/muridian-avengers)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Kuberian Movement](/macropedia/kuberian-movement))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/muridian-avengers'>Muridian Avengers</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/kuberian-movement'>Kuberian Movement</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Mysteries Of The Diaspora](/macropedia/mysteries-of-the-diaspora)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Fteigar Alloys](/macropedia/fteigar-alloys))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/mysteries-of-the-diaspora'>Mysteries Of The Diaspora</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/fteigar-alloys'>Fteigar Alloys</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Messen Fremezulejo](/macropedia/messen-fremezulejo)</td>
+  <td ><a href='/macropedia/messen-fremezulejo'>Messen Fremezulejo</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Muzgersun's Human History](/macropedia/muzgersuns-history)</td>
+  <td ><a href='/macropedia/muzgersuns-history'>Muzgersun's Human History</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Merithian Revolution](/macropedia/merithian-revolution)</td>
+  <td ><a href='/macropedia/merithian-revolution'>Merithian Revolution</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Morsh Furnoklin](/macropedia/morsh-furnoklin)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Furnoklin Taschera](/macropedia/furnoklin-taschera))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/morsh-furnoklin'>Morsh Furnoklin</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/furnoklin-taschera'>Furnoklin Taschera</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Mnovellii Collective](/macropedia/mnovellii-collective)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Sedren Tawmerik](/macropedia/sedren-tawmerik))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/macropedia/mnovellii-collective'>Mnovellii Collective</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/sedren-tawmerik'>Sedren Tawmerik</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### N
+
+<h3>N</h3>
+
 <a name='N'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Nevian Schmizt](/macropedia/nevian-schmizt)</td>
+  <td ><a href='/macropedia/nevian-schmizt'>Nevian Schmizt</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Nguyonhi Assault Suits](/macropedia/nguyonhi-assault-suits)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Bang Hai Nok Incident](/macropedia/bang-hai-nok-incident))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/nguyonhi-assault-suits'>Nguyonhi Assault Suits</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/bang-hai-nok-incident'>Bang Hai Nok Incident</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Normalized Anthorph](/macropedia/normalized-anthorph)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Femaron Felard](/macropedia/femaron-felard))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/normalized-anthorph'>Normalized Anthorph</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/femaron-felard'>Femaron Felard</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Nazir Al Shamuth](/macropedia/nazir-al-shamuth)</td>
+  <td ><a href='/macropedia/nazir-al-shamuth'>Nazir Al Shamuth</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Neo Tawmeriks](/macropedia/neo-tawmeriks)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Parthas Class Vessels](/macropedia/parthas-class-vessels))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/neo-tawmeriks'>Neo Tawmeriks</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/parthas-class-vessels'>Parthas Class Vessels</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[New Diaspora](/macropedia/new-diaspora)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Retri Gahani](/macropedia/retri-gahani))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/new-diaspora'>New Diaspora</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/retri-gahani'>Retri Gahani</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Nindus Azrahn Felard](/macropedia/nindus-azrahn-felard)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Tithian Foundation](/macropedia/tithian-foundation))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/nindus-azrahn-felard'>Nindus Azrahn Felard</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/tithian-foundation'>Tithian Foundation</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Nomon Pirates](/macropedia/nomon-pirates)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Voushniya](/macropedia/voushniya))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/nomon-pirates'>Nomon Pirates</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/voushniya'>Voushniya</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Novya Siberia Belshane War](/macropedia/novya-siberia-belshane-war)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Veltrane Fres Volon](/macropedia/veltrane-fres-volon))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/macropedia/novya-siberia-belshane-war'>Novya Siberia Belshane War</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/veltrane-fres-volon'>Veltrane Fres Volon</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### O
+
+<h3>O</h3>
+
 <a name='O'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Odni Planyeti](/macropedia/odni-planyeti)</td>
+  <td ><a href='/macropedia/odni-planyeti'>Odni Planyeti</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Oneric Devices](/macropedia/oneric-devices)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Liu-No-Ri Masters](/macropedia/liu-no-ri-masters))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/oneric-devices'>Oneric Devices</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/liu-no-ri-masters'>Liu-No-Ri Masters</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Oradian Shipping Conglomerate](/macropedia/oradian-shipping-conglomerate)</td>
+  <td ><a href='/macropedia/oradian-shipping-conglomerate'>Oradian Shipping Conglomerate</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### P
+
+<h3>P</h3>
+
 <a name='P'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Pan Terran Defense Treaty Council](/macropedia/pan-terran-defense-treaty-council)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Iadian Massacre](/macropedia/iadian-massacre))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/pan-terran-defense-treaty-council'>Pan Terran Defense Treaty Council</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/iadian-massacre'>Iadian Massacre</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Parthas Class Vessels](/macropedia/parthas-class-vessels)</td>
+  <td ><a href='/macropedia/parthas-class-vessels'>Parthas Class Vessels</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Peace and Order Laws](/macropedia/peace-and-order-laws)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Lemardians](/macropedia/lemardians))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/peace-and-order-laws'>Peace and Order Laws</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/lemardians'>Lemardians</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Perez Family](/macropedia/perez-family)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Benita Perez](/macropedia/benita-perez))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/perez-family'>Perez Family</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/benita-perez'>Benita Perez</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Periphery](/macropedia/periphery)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Heljyks](/macropedia/heljyks))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/periphery'>Periphery</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/heljyks'>Heljyks</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Perkentov Covenent](/macropedia/perkentov-covenent)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Kuberian Movement](/macropedia/kuberian-movement))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/perkentov-covenent'>Perkentov Covenent</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/kuberian-movement'>Kuberian Movement</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Petras Godane](/macropedia/petras-godane)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Merithian Revolution](/macropedia/merithian-revolution))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/petras-godane'>Petras Godane</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/merithian-revolution'>Merithian Revolution</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Popelof Project](/macropedia/popelof-project)</td>
+  <td ><a href='/macropedia/popelof-project'>Popelof Project</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Primitive Population Regression](/macropedia/primitive-population-regression)</td>
+  <td ><a href='/macropedia/primitive-population-regression'>Primitive Population Regression</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Purivi Donar System](/macropedia/purivi-donar-system)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Esperopteris Koinsii](/macropedia/esperopteris-koinsii))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/macropedia/purivi-donar-system'>Purivi Donar System</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/esperopteris-koinsii'>Esperopteris Koinsii</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### Q
+
+<h3>Q</h3>
+
 <a name='Q'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Qadan Rom](/macropedia/qadan-rom)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Oradian Shipping Conglomerate](/macropedia/oradian-shipping-conglomerate))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/qadan-rom'>Qadan Rom</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/oradian-shipping-conglomerate'>Oradian Shipping Conglomerate</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Qanna Dabrian](/macropedia/qanna-dabrian)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Dabrian Dynasty](/macropedia/dabrian-dynasty))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/qanna-dabrian'>Qanna Dabrian</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/dabrian-dynasty'>Dabrian Dynasty</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Qanna Dabrian II](/macropedia/qanna-dabrian-two)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Liu-No-Ri Masters](/macropedia/liu-no-ri-masters))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/qanna-dabrian-two'>Qanna Dabrian II</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/liu-no-ri-masters'>Liu-No-Ri Masters</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Qin Lop Shu](/macropedia/qin-lop-shu)</td>
+  <td ><a href='/macropedia/qin-lop-shu'>Qin Lop Shu</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Quijrad Lkrada Wars](/macropedia/quijrad-lkrada-wars)</td>
+  <td ><a href='/macropedia/quijrad-lkrada-wars'>Quijrad Lkrada Wars</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Quixotic Maelstrom](/macropedia/quixotic-maelstrom)</td>
+  <td ><a href='/macropedia/quixotic-maelstrom'>Quixotic Maelstrom</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>
 
-### R
+
+<h3>R</h3>
+
 <a name='R'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Rouphi Academy](/macropedia/rouphi-academy)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Entering First Decline](/macropedia/entering-first-decline))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/rouphi-academy'>Rouphi Academy</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/entering-first-decline'>Entering First Decline</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Raoul Tammerik](/macropedia/raoul-tammerik)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Kazam-Re](/macropedia/kazam-re))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/raoul-tammerik'>Raoul Tammerik</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/kazam-re'>Kazam-Re</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Reth Tawmerik I](/macropedia/reth-tawmerik-i)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/reth-tawmerik-i'>Reth Tawmerik I</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Retri Gahani](/macropedia/retri-gahani)</td>
+  <td ><a href='/macropedia/retri-gahani'>Retri Gahani</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Reformed Bank Of The Empire](/macropedia/reformed-bank-of-the-empire)</td>
+  <td ><a href='/macropedia/reformed-bank-of-the-empire'>Reformed Bank Of The Empire</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Route Mapping Commission](/macropedia/route-mapping-commission)</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/route-mapping-commission'>Route Mapping Commission</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Riojier Commonwealth](/macropedia/riojier-commonwealth)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Quixotic Maelstrom](/macropedia/quixotic-maelstrom))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/riojier-commonwealth'>Riojier Commonwealth</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/quixotic-maelstrom'>Quixotic Maelstrom</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Ranks And Titles Of The Empire](/macropedia/ranks-and-titles-of-the-empire)</td>
+  <td ><a href='/macropedia/ranks-and-titles-of-the-empire'>Ranks And Titles Of The Empire</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Rights Of The Imperial Citizen](/macropedia/rights-of-the-imperial-citizen)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Sedren Tawmerik](/macropedia/sedren-tawmerik))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td><table class='table'>
+  <td ><a href='/macropedia/rights-of-the-imperial-citizen'>Rights Of The Imperial Citizen</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/sedren-tawmerik'>Sedren Tawmerik</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td></tr></table>
 
-### S
+
+<h3>S</h3>
+
 <a name='S'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[S Es Tre L](/macropedia/s-es-tre-l)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Kazam-Re](/macropedia/kazam-re))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/s-es-tre-l'>S Es Tre L</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/kazam-re'>Kazam-Re</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Sohia Family](/macropedia/sohia-family)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Gieliaden Sohia](/macropedia/gieliaden-sohia))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/sohia-family'>Sohia Family</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/gieliaden-sohia'>Gieliaden Sohia</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Stellar Treaty](/macropedia/stellar-treaty)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Jupiter Rocket](/macropedia/jupiter-rocket))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/stellar-treaty'>Stellar Treaty</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/jupiter-rocket'>Jupiter Rocket</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Soro Meldur Kafrah Bank](/macropedia/soro-meldur-kafrah-bank)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Quijrad Lkrada Wars](/macropedia/quijrad-lkrada-wars))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/soro-meldur-kafrah-bank'>Soro Meldur Kafrah Bank</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/quijrad-lkrada-wars'>Quijrad Lkrada Wars</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Sabanian Empire](/macropedia/sabanian-empire)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Ranks And Titles Of The Empire](/macropedia/ranks-and-titles-of-the-empire))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/sabanian-empire'>Sabanian Empire</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/ranks-and-titles-of-the-empire'>Ranks And Titles Of The Empire</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Sedren Tawmerik](/macropedia/sedren-tawmerik)</td>
+  <td ><a href='/macropedia/sedren-tawmerik'>Sedren Tawmerik</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### T
+
+<h3>T</h3>
+
 <a name='T'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Tao Sunni](/macropedia/tao-sunni)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Iadian Massacre](/macropedia/iadian-massacre))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/tao-sunni'>Tao Sunni</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/iadian-massacre'>Iadian Massacre</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Tawmerik Dynasty](/macropedia/tawmerik-dynasty)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Alistair Cormwite](/macropedia/alistair-cormwite))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/tawmerik-dynasty'>Tawmerik Dynasty</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/alistair-cormwite'>Alistair Cormwite</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Temba II](/macropedia/temba-two)</td>
+  <td ><a href='/macropedia/temba-two'>Temba II</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Terran Republic](/macropedia/terran-republic)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Charl Bovit](/macropedia/charl-bovit))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) (not finished)</td>
+  <td ><a href='/macropedia/terran-republic'>Terran Republic</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/charl-bovit'>Charl Bovit</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (not finished)</td>
 </tr>
 <tr>
-  <td >[Twist Of Fate](/macropedia/twist-of-fate)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)([Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/twist-of-fate'>Twist Of Fate</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a>(<a href='/macropedia/kemen-febrer-suwor'>Kemen Febrer Suwor</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Trilis Incident](/macropedia/trilis-incident)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)([Last Charge Of Light Horse](/macropedia/last-charge-of-light-horse))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/trilis-incident'>Trilis Incident</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a>(<a href='/macropedia/last-charge-of-light-horse'>Last Charge Of Light Horse</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Tholoman Kresel Muthron](/macropedia/tholoman-kresel-muthron)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Ranks And Titles Of The Empire](/macropedia/ranks-and-titles-of-the-empire))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/tholoman-kresel-muthron'>Tholoman Kresel Muthron</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/ranks-and-titles-of-the-empire'>Ranks And Titles Of The Empire</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Tithian Foundation](/macropedia/tithian-foundation)</td>
+  <td ><a href='/macropedia/tithian-foundation'>Tithian Foundation</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### U
+
+<h3>U</h3>
+
 <a name='U'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Unlek Syndrome](/macropedia/unlek-syndrome)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Anthorph](/macropedia/anthorph))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/unlek-syndrome'>Unlek Syndrome</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/anthorph'>Anthorph</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Untara Drive Control](/macropedia/untara-drive-control)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Retri Gahani](/macropedia/retri-gahani))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/untara-drive-control'>Untara Drive Control</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/retri-gahani'>Retri Gahani</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Unstable Particle Projectors](/macropedia/unstable-particle-projectors)</td>
+  <td ><a href='/macropedia/unstable-particle-projectors'>Unstable Particle Projectors</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Uplift Project](/macropedia/uplift-project)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Temba II](/macropedia/temba-two))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/uplift-project'>Uplift Project</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/temba-two'>Temba II</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Uvane Merith Province](/macropedia/uvane-merith-province)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Merithian Revolution](/macropedia/merithian-revolution))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/uvane-merith-province'>Uvane Merith Province</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/merithian-revolution'>Merithian Revolution</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Umarian Guard](/macropedia/umarian-guard)</td>
+  <td ><a href='/macropedia/umarian-guard'>Umarian Guard</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### V
+
+<h3>V</h3>
+
 <a name='V'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Vadian Free Republic](/macropedia/vadian-free-republic)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Kazam-Re](/macropedia/kazam-re))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/vadian-free-republic'>Vadian Free Republic</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/kazam-re'>Kazam-Re</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Veltrane Fres Volon](/macropedia/veltrane-fres-volon)</td>
+  <td ><a href='/macropedia/veltrane-fres-volon'>Veltrane Fres Volon</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Voshium Insurrection](/macropedia/voshium-insurrection) ([Messen Fremezulejo](/macropedia/messen-fremezulejo))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/voshium-insurrection'>Voshium Insurrection</a> (<a href='/macropedia/messen-fremezulejo'>Messen Fremezulejo</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Voushniya ](/macropedia/voushniya)</td>
+  <td ><a href='/macropedia/voushniya'>Voushniya </a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td><table class='table'>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td></tr></table>
 
-### W
+
+<h3>W</h3>
+
 <a name='W'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Wars of Expansion](/macropedia/wars-of-expansion)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Heljyks](/macropedia/heljyks))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/wars-of-expansion'>Wars of Expansion</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/heljyks'>Heljyks</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Waudbect Society](/macropedia/waudbect-society)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Gieliaden Sohia](/macropedia/gieliaden-sohia))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/waudbect-society'>Waudbect Society</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/gieliaden-sohia'>Gieliaden Sohia</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Welkred Communications](/macropedia/welkred-communications)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Janoos Welkred](/macropedia/janoos-welkred))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/welkred-communications'>Welkred Communications</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/janoos-welkred'>Janoos Welkred</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Welgan Tyrox](/macropedia/welgan-tyrox)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/welgan-tyrox'>Welgan Tyrox</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/enhanced-autonomous-research-laboratory'>Enhanced Autonomous Research Laboratory</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Witi Emplaser Incident](/macropedia/witi-emplaser-incident)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/witi-emplaser-incident'>Witi Emplaser Incident</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/bafiktuy-intelligence-directive'>Bafiktuy Intelligence Directive</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Wecing Doozium](/macropedia/wecing-doozium)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Imudring](/macropedia/imudring))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/wecing-doozium'>Wecing Doozium</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/imudring'>Imudring</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Weng Zhu Li](/macropedia/weng-zhu-li)</td>
+  <td ><a href='/macropedia/weng-zhu-li'>Weng Zhu Li</a></td>
   <td ></td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Woth of Voushniya](/macropedia/woth)</td>[-(or the Black Hand)-]
+  <td ><a href='/macropedia/woth'>Woth of Voushniya</a></td>[-(or the Black Hand)-]
 
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### X
+
+<h3>X</h3>
+
 <a name='X'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Xenohistorical Artifacts](/macropedia/xenohistorical-artifacts)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Gruyonh Doyu](/macropedia/gruyonh-doyu))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/xenohistorical-artifacts'>Xenohistorical Artifacts</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/gruyonh-doyu'>Gruyonh Doyu</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Xervius Lundrel](/macropedia/xervius-lundrel)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Umarian Guard](/macropedia/umarian-guard))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/xervius-lundrel'>Xervius Lundrel</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/umarian-guard'>Umarian Guard</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[X'kan Nimu Hal](/macropedia/xkan-nimu-hal)</td>
+  <td ><a href='/macropedia/xkan-nimu-hal'>X'kan Nimu Hal</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### Y
+
+<h3>Y</h3>
+
 <a name='Y'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Ying Clan](/macropedia/ying-clan)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Alaerian Cult](/macropedia/alaerian-cult))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/ying-clan'>Ying Clan</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/alaerian-cult'>Alaerian Cult</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Yisma Kiau Uprising](/macropedia/yisma-kiau-uprising)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Dinzwar Gefera](/macropedia/dinzwar-gefera))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/yisma-kiau-uprising'>Yisma Kiau Uprising</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/dinzwar-gefera'>Dinzwar Gefera</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Ying Sho Dahn Drive Works](/macropedia/ying-sho-dahn-drive-works)</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran) ([Fteigar Alloys](/macropedia/fteigar-alloys))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/macropedia/ying-sho-dahn-drive-works'>Ying Sho Dahn Drive Works</a></td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a> (<a href='/macropedia/fteigar-alloys'>Fteigar Alloys</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Yauwza Magruder](/macropedia/yauwza-magruder)</td>
+  <td ><a href='/macropedia/yauwza-magruder'>Yauwza Magruder</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Yatharan Migration](/macropedia/yatharan-migration)</td>
+  <td ><a href='/macropedia/yatharan-migration'>Yatharan Migration</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Yousamin Faction](/macropedia/yousamin-faction)</td>
-  <td >[Isaac Taub](/scholar/isaac-taub) ([Popelof Project](/macropedia/popelof-project))</td>
-  <td >[Chang Singh](/scholar/chang-singh)</td><table class='table'>
+  <td ><a href='/macropedia/yousamin-faction'>Yousamin Faction</a></td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a> (<a href='/macropedia/popelof-project'>Popelof Project</a>)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>
 
-### Z
+
+<h3>Z</h3>
+
 <a name='Z'></a>
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
   <th >Written By</th>
 </tr>
 <tr>
-  <td >[Zelther Rathian Group](/macropedia/zelther-rathian-group)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/zelther-rathian-group'>Zelther Rathian Group</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/enhanced-autonomous-research-laboratory'>Enhanced Autonomous Research Laboratory</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Zenbrudi](/macropedia/zenbrudi)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Woth](/macropedia/woth))</td>
-  <td >[Cho Minh Tel Ran](/scholar/cho-minh-tel-ran)</td>
+  <td ><a href='/macropedia/zenbrudi'>Zenbrudi</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/woth'>Woth</a>)</td>
+  <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td >[Zenbrudi War](/macropedia/zenbrudi-war)</td>
-  <td >[Chang Singh](/scholar/chang-singh) ([Woth](/macropedia/woth))</td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td>
+  <td ><a href='/macropedia/zenbrudi-war'>Zenbrudi War</a></td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/woth'>Woth</a>)</td>
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
 <tr>
-  <td >[Zophian Sisterhood](/macropedia/zophian-sisterhood)</td>
+  <td ><a href='/macropedia/zophian-sisterhood'>Zophian Sisterhood</a></td>
   <td ></td>
-  <td >[Chang Singh](/scholar/chang-singh)</td>
+  <td ><a href='/scholar/chang-singh'>Chang Singh</a></td>
 </tr>
 <tr>
-  <td >[Zorastrian Reformed Cabal](/macropedia/zorastrian-reformed-cabal)</td>
+  <td ><a href='/macropedia/zorastrian-reformed-cabal'>Zorastrian Reformed Cabal</a></td>
   <td ></td>
-  <td >[Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
-
-## Scholars
+  <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td></tr></table>

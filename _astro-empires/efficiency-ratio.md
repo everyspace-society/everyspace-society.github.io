@@ -89,6 +89,6 @@ The following table provides the armour efficiency ratio of the various units. T
 </tr>
 <tr>
   <td class='highlight'>Pshield</td>
-  <td colspan='2' class='highlight'>1.72</td><table class='table'>
+  <td colspan='2' class='highlight'>1.72</td></tr></table>
 
 

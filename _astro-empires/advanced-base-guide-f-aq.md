@@ -5,7 +5,7 @@ date: 2008-11-15T22:20:46+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Research"
 ---
 
 This is an FAQ for the [Advanced Base Guide](/astro-empires/advanced-base-guide). The goal of that guide

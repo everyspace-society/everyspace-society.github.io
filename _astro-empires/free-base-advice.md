@@ -14,20 +14,17 @@ to notice I repeat a lot:
 
 
 
-Base Spacing
-============
+## Base Spacing
 
 Never more than one base per region if you can help it. Never more than
 one base in a system.
 
-Metal Rules
-===========
+## Metal Rules
 
 Build only on Metal-3 astros. Favor Asteroids or Moons if your upgraded,
 Moons or Planets if your Free.
 
-Empire Growth
-=============
+## Empire Growth
 
 Build 10 bases in the first week (or as soon after as
 possbile); then build one base per month until it's too painful. I tend
@@ -35,9 +32,7 @@ to think of pain as: If it takes more than a week to save for a base,
 it's too expensive. Based on the table below, that breakpoint is
 Base-16.
 
-<table class='table'>
-
-</tr>
+<table>
 <tr>
   <td class='heading'>Base Number</td>
   <td class='heading'>Base Cost</td>
@@ -96,17 +91,15 @@ Base-16.
 <tr>
   <td >Base 20</td>
   <td >13,107,200</td>
-  <td >79,360</td><table class='table'>
+  <td >79,360</td></tr></table>
 
-Defenses
-========
+## Defenses
 
 Per my [Base Defense Guide](/astro-empires/base-defense-guide), you should get rid of your turrets once
 you start building prings. The return on the turrets is usually enough
 to pay for your next base; or at least steeply discount it.
 
-Long-Distance Trades
-====================
+## Long-Distance Trades
 
 First, you should have at least Spaceport-15 on your bases; once you
 have Spaceport-15 and prings and three Dreads overhead, go for
@@ -120,9 +113,7 @@ Defend your LD trade with Dreadnaughts. One Dreadnaught per 7,400 paces
 in total trades. Just add up your trade distances for an astro, divide
 by 7400 and round up.
 
-<table class='table'>
-
-</tr>
+<table>
 <tr>
   <td class='heading'>Distance</td>
   <td class='heading'>Trade Number & Distance</td>
@@ -146,10 +137,9 @@ by 7400 and round up.
 <tr>
   <td >45,200</td>
   <td >(5 x 5400)</td>
-  <td >4</td><table class='table'>
+  <td >4</td></tr></table>
 
-Pushing Economy
-===============
+## Pushing Economy
 
 When you're ready to push economy, either Crystal Mine-10 for your
 Asteroids or Econ Center-10 on your other bases.  others should have

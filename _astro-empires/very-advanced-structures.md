@@ -155,8 +155,7 @@ and four Fusion Plants. This table below summarizes the impact of these
 building decisions, but reflects that you have a 42 spaces remaining, 39
 berths and four energy.
 
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >&nbsp;</th>
   <th >Space</th>
@@ -203,7 +202,7 @@ berths and four energy.
   <td ><strong>Remaining</strong></td>
   <td align=right>33</td>
   <td align=right>30</td>
-  <td align=right>4</td><table class='table'>
+  <td align=right>4</td></tr></table>
 
 <div class=''>
 Let me let you in on a bit of a secret. How many Urban Structures are

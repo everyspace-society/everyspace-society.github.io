@@ -5,7 +5,7 @@ date: 2008-11-14T15:52:19+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Calculators"
 ---
 
 What is the best way to calculate a unit's efficiency? There is a simple

@@ -5,7 +5,7 @@ date: 2009-11-13T17:22:37+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Guides"
 ---
 
 Congrats on building the DS! I built one on Ceti for the hell of it,

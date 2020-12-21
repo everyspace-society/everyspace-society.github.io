@@ -47,8 +47,7 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 
 <a name='A'></a>
 ### A
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -67,12 +66,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Akrath Multi-sensor Array](/macropedia/akrath-multi-sensor-array) ([Dkaden Works ME Series](/macropedia/dkaden-works-m-e-series))</td>
   <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td>
-  <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td></tr></table>
 
 <a name='B'></a>
 ### B
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -86,12 +84,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Berryman Sensor Array](/macropedia/berryman-sensor-array)</td>
   <td ></td>
-  <td >[[Isaac Taub](/scholar/isaac-taub)](/scholar/isaac-taub)</td><table class='table'>
+  <td >[[Isaac Taub](/scholar/isaac-taub)](/scholar/isaac-taub)</td></tr></table>
 
 <a name='C'></a>
 ### C
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -100,12 +97,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Cerebellum Enhancement Modules](/macropedia/cerebellum-enhancement-modules)</td>
   <td ></td>
-  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td><table class='table'>
+  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td></tr></table>
 
 <a name='D'></a>
 ### D
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -119,12 +115,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[D'kaden Works ME Series](/macropedia/d-kaden-works-m-e-series)</td>
   <td ></td>
-  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td><table class='table'>
+  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td></tr></table>
 
 <a name='E'></a>
 ### E
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -143,12 +138,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Ermelicht phase cannon](/macropedia/ermelicht-phase-cannon)</td>
   <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='F'></a>
 ### F
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -167,12 +161,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Federov Assault Rifle](/macropedia/federov-assault-rifle)</td>
   <td ></td>
-  <td >[Scholar/Boris Helfstein](/scholar/boris-helfstein)</td><table class='table'>
+  <td >[Scholar/Boris Helfstein](/scholar/boris-helfstein)</td></tr></table>
 
 <a name='G'></a>
 ### G
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -181,12 +174,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Guiermod EVA Suit](/macropedia/guiermod-e-va-suit)</td>
   <td ></td>
-  <td >[[Isaac Taub](/scholar/isaac-taub)](/scholar/isaac-taub)</td><table class='table'>
+  <td >[[Isaac Taub](/scholar/isaac-taub)](/scholar/isaac-taub)</td></tr></table>
 
 <a name='H'></a>
 ### H
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -195,12 +187,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='I'></a>
 ### I
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -214,12 +205,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Icarus Flyers](/macropedia/icarus-flyers)</td>
   <td ></td>
-  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td><table class='table'>
+  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td></tr></table>
 
 <a name='J'></a>
 ### J
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -228,12 +218,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='K'></a>
 ### K
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -247,12 +236,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Kehn Munh Light Battle Suit](/macropedia/kehn-munh-light-battle-suit)</td>
   <td >[Scholar/Boris Helfstein](/scholar/boris-helfstein)</td>
-  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td><table class='table'>
+  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td></tr></table>
 
 <a name='L'></a>
 ### L
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -261,12 +249,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='M'></a>
 ### M
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -285,12 +272,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Macabite Liferaft](/macropedia/macabite-liferaft)</td>
   <td ></td>
-  <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td></tr></table>
 
 <a name='N'></a>
 ### N
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -304,12 +290,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Neural Wave Amplifiers](/macropedia/neural-wave-amplifiers) ([[C Ems](/macropedia/c-ems)](/macropedia/cerebellum-enhancement-modules))</td>
   <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='O'></a>
 ### O
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -318,12 +303,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='P'></a>
 ### P
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -337,12 +321,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Poly-control Slave System](/macropedia/poly-control-slave-system) ([Dkaden Works ME Series](/macropedia/dkaden-works-m-e-series))</td>
   <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='Q'></a>
 ### Q
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -351,12 +334,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='R'></a>
 ### R
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -370,12 +352,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Raptor Combat Suit](/macropedia/raptor-combat-suit)</td>
   <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td><table class='table'>
+  <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td></tr></table>
 
 <a name='S'></a>
 ### S
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -384,12 +365,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[+](/macropedia/s-me-e)</td>
   <td ></td>
-  <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td><table class='table'>
+  <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td></tr></table>
 
 <a name='T'></a>
 ### T
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -413,12 +393,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Trogladyte Solar Sail](/macropedia/trogladyte-solar-sail)</td>
   <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='U'></a>
 ### U
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -427,12 +406,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Uraman Cells](/macropedia/uraman-cells) ([Icarus Flyers](/macropedia/icarus-flyers)</td>
   <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='V'></a>
 ### V
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -441,12 +419,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='W'></a>
 ### W
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -455,12 +432,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='X'></a>
 ### X
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -469,12 +445,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Xenophobe Picket](/macropedia/xenophobe-picket) ([Berryman Sensor Array](/macropedia/berryman-sensor-array))</td>
   <td >[Scholar/Isaac Taub](/scholar/isaac-taub)</td>
-  <td >[Scholar/Boris Helfstein](/scholar/boris-helfstein)</td><table class='table'>
+  <td >[Scholar/Boris Helfstein](/scholar/boris-helfstein)</td></tr></table>
 
 <a name='Y'></a>
 ### Y
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -483,12 +458,11 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Example](/macropedia/example)</td>
   <td ></td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>
 
 <a name='Z'></a>
 ### Z
-<table class='table'>
-</tr>
+<table>
 <tr>
   <th >Article</th>
   <th >Phantomed By</th>
@@ -497,4 +471,4 @@ The ***Macropedia Terradoma, Imperium Equipment Suppliment*** was authored at ro
 <tr>
   <td >[Zelrade Sensor Neutral Stealth](/macropedia/zelrade-sensor-neutral-stealth) ([Icarus Flyers](/macropedia/icarus-flyers))</td>
   <td >[Scholar/Kvecton Sharp](/scholar/kvecton-sharp)</td>
-  <td ></td><table class='table'>
+  <td ></td></tr></table>

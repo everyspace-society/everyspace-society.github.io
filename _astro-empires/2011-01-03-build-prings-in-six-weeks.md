@@ -5,7 +5,7 @@ date: 2011-01-04T01:45:37+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "News"
 ---
 
 
