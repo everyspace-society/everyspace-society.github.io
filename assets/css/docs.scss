@@ -103,10 +103,18 @@ $mero-background-image: '';
   opacity: 20%;
 }
 
-main.docs {
+main {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
   article {
+    
+    h1, h2, h3 {
+      font-family: $heading-fonts;
+    }
     #markdown-toc {
       font-family: $system-fonts !important;
+      
       a {
         text-decoration: none;
       }
