@@ -1,0 +1,11 @@
+---
+
+title: "Rules Of Thumb"
+date: 2007-08-31T23:17:12+00:00
+comments: true
+sharing: true
+footer: true
+category: "Astro Empires"
+---
+
+:Minimum Fighter Protection:(Base Econ / 5) * 60

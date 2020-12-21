@@ -1,0 +1,28 @@
+    <header>
+      <a href="/" class="navbar-brand">
+        {{ config.extra.brand | safe }}
+        {% include logo.svg %}
+        <span>{{site.title}}</span>
+        {%- if site.subtitle %}
+        <span class='subtitle'>{{site.subtitle}}</span>
+        {% endif %}
+      </a>
+      <nav>
+        <input id="bmenub" type="checkbox" class="show">
+        <label for="bmenub" class="burger pseudo button">&#9776;</label>
+        <div class="menu">
+          <a class='pseudo' href="/" id='home-link'>
+            {% include icon.html icon='fad fa-home' %} Main Site
+          </a>
+          <a class='pseudo' href="/faq">
+            {% include icon.html icon='fad fa-books' %} FAQ
+          </a>
+          <a class='pseudo' rel="prefetch" href="/posts/">
+            {% include icon.html icon='fad fa-newspaper' %} News
+          </a>
+          <a class='subscribe' href="#">
+            {% include icon.html icon='fad fa-id-card' %} Game
+          </a>
+        </div>
+      </nav>
+    </header>
