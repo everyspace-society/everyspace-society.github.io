@@ -5,7 +5,7 @@ date: 2010-02-10T15:47:37+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 The following table provides the armour efficiency ratio of the various units. The ratio is the unit's armour divided by its costs. The philosophy this ratio follows is that a combatant will bring enough fleet do be effective against the opponent, and the remaining derbs will be harvested by the player. This is useful in comparing the relative effecacy of a unit against another. 

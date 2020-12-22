@@ -5,7 +5,7 @@ date: 2007-10-02T14:16:52+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 The distance depends on the route you send your ships.

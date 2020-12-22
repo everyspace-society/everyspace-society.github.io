@@ -5,7 +5,7 @@ date: 2007-11-06T17:42:02+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 The following link is to a Battle Calculator that should work. I found it on the Internet, and fixed it. I also updated the shield strengths based on the recent unit updates.

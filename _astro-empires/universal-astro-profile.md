@@ -5,7 +5,7 @@ date: 2007-12-31T20:13:01+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 One difficult task in Astro Empires is capturing the details of a base and reporting those details in an easy to read format. To remedy this, a 10-character code was developed called the **Universal Astro Profile**  (UAP).  The idea for the profile derives from the role-playing game, Traveller, which solved the problem of universal description of characters, vehicles and places using a series of universal profiles.

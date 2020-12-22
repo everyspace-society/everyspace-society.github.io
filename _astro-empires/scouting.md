@@ -5,7 +5,7 @@ date: 2007-12-23T18:01:50+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 Scouting in Astro Empires can be a challenge. To make live a little easier, this script (`AeScout) helps by saving the scout the need to fat-finger in a lot of data. 

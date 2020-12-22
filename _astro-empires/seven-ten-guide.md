@@ -10,7 +10,8 @@ category: "Guides"
 
 * **Updated May 2010.**
 * **Updated July 2013.**
-* **Validating September 2014.**
+* **Validated September 2014.**
+* **Revised December 2020.**
 
 The Ten-Seven Guide assists novice players with early empire building to enhance their overall Astro Empires playing experience. The goal of this guide is to help players build ten bases in the first week, and educate players in key aspects of early game play. It is important to balance astro selection, structure building, and scouting. For the first three days player bases are immune to attack, but players need to remain focused on building proper defenses. This guide will also lightly touch on combat, which is discussed in greater detail on this site. The one-week goal provides "free" players (those who will not be upgrading) a chance to build one extra base before free account restrictions are applied.
 
@@ -20,23 +21,24 @@ The important thing to remember about this guide is diligence. The rules change 
 
 This guide does not dive into details. There are more detailed discussions of much of what is written here in other guides found on this site. Some advice here goes against popular wisdom, and the guide tries to explain why. This guide also assumes you have at least read the information provided by Astro Empires.
 
+> **Update Winter 2020.** After taking a few years off, I'm giving it a go again. Partly because I'm curious to see how the state of play has evolved (it hasn't), and partly because I'm programming my own browser-based game. In 2014, AE changed the cost for the number of bases, which put the tenth base well out of reach. On Babylon, I got 9 bases in 9 days (I lost 9 hours to a base hit). I'm updating the charts below accordingly, but leaving the page largely entact. The principles are sound.
+
 ## Astro Picking
 
-<div class='bs-callout bs-callout-info'>
-<h4>Your First Astro, or Getting Off on the Right Foot:</h4>
 
-<ul>
-  <li><strong>Great Choice:</strong> Slot-2 Rocky</li>
-  <li><strong>Good Choice:</strong> Slot-2 Metal-3 (Crater or Rocky)</li>
-  <li><strong>Fair Choice:</strong> Slot-1 Metal-3 (Rocky, Crater or Rocky)</li>
-  <li><strong>Poor Choice:</strong> Slot-1/-2 Metal-2 (Arid, Tundra, Gaia or Earthy)</li>
-</ul>
-</div>
+> #### Your First Astro, or Getting Off on the Right Foot:
+> 
+> * **Great Choice:** Slot-2 Rocky<
+> * **Good Choice:** Slot-2 Metal-3 (Crater or Rocky)<
+> * **Fair Choice:** Slot-1 Metal-3 (Rocky, Crater or Rocky)<
+> * **Poor Choice:** Slot-1/-2 Metal-2 (Arid, Tundra, Gaia or Earthy)<
+
+> **2020 Note:** AE seems to only let you start on an Earth planet. So, it doesn't matter. But, this should guide your subsequent base choices.
 
 You will start on a moon, that is how Astro Empires is programmed. The ideal start astro is a Metal-3 (Rocky, Crater or Metallic)
 moon in Slot-1 or Slot-2. If you do not have both the quality of metal or the slot, restart your account until you do. This will take some time. If it seems you have no choice, prefer a Slot-1 or Slot-2 Metal-2 (Arid, Tundra, Gaia or Earthy) astro.
 
-The <em>best</em> choice is a Slot-2 Rocky for a start as it provides excellent fertility and decent solar.
+The _best_ choice is a Slot-2 Rocky for a start as it provides excellent fertility and decent solar.
 
 Metal-3 astros (which also includes Astroids) provide the best construction/production rates, which is critical at the beginning. Metal-2 astros provide less, but they provide more space for structures. For this reason, some will advise Metal-2 astros for Research bases as they provide capacity to build your Research Labs. The first base tends to become a Research base, so you may decide keeping your Metal-2 base is acceptable.
 
@@ -52,86 +54,24 @@ bases being attacked in short order by a dedicated opponent.
 
 The table below lists the cost of each base, the cumulative cost of bases built that day, what econ you should have on that day to ensure you can plant those bases, and what day you should plant that base. Merovech managed to plant an extra base on Day Three on Ixion, which helped ensure he built all the bases in time.
 
-<div class='bs-callout bs-callout-info'>
- <strong>Note 2014:</strong> I have to say I'm rather pleased. This guide was so consistent for others in allowing 10 bases to be built in seven days (which gave free players an extra base), that AstroEmpires had to increase the cost of the Tenth Base.
-</div>
+
+> **Note 2014:** I have to say I'm rather pleased. This guide was so consistent for others in allowing 10 bases to be built in seven days (which gave free players an extra base), that AstroEmpires had to increase the cost of the Tenth Base.
+
+> **2020 Note:** The fourth base used to cost ¤8,000, with the progression being a bit more fibonnaci. By having the 1-2-5 cadence (hundreds, thousands, ten-thousands), you're only able to get to _nine_ bases in seven days. Since I abhor planets and AE tags them, once you get the ninth base, start looking to dismantal Home Planet.
 
 <a name='quota'></a>
-<table class='table table-bordered'><tr>
-  <th class='text-center' colspan='10'>Base Establishment Quota</th>
-</tr>
-<tr>
-  <th class='text-right'>\ Base</th>
-  <td class='text-right col-sm-1'>2</td>
-  <td class='text-right col-sm-1'>3</td>
-  <td class='text-right col-sm-1'>4</td>
-  <td class='text-right col-sm-1'>5</td>
-  <td class='text-right col-sm-1'>6</td>
-  <td class='text-right col-sm-1'>7</td>
-  <td class='text-right col-sm-1'>8</td>
-  <td class='text-right col-sm-1'>9</td>
-  <td class='text-right col-sm-1'>10</td>
-</tr>
-<tr>
-  <th>Cost</th>
-  <td class='text-right col-sm-1'>100</td>
-  <td class='text-right col-sm-1'>200</td>
-  <td class='text-right col-sm-1'>500</td>
-  <td class='text-right col-sm-1'>800</td>
-  <td class='text-right col-sm-1'>1600</td>
-  <td class='text-right col-sm-1'>3200</td>
-  <td class='text-right col-sm-1'>6400</td>
-  <td class='text-right col-sm-1'>12800</td>
-  <td class='text-right col-sm-1'>25600</td>
-</tr>
-<tr>
-  <th>Total</th>
-  <td class='text-right col-sm-1'>350</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>1200</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>4800</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>19200</td>
-</tr>
-<tr>
-  <th>Econ</th>
-  <td class='text-right col-sm-1'>55</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>140</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>400</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>800</td>
-</tr>
-<tr>
-  <th>Level</th>
-  <td class='text-right col-sm-1'>6.5</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>8.5</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>12.2</td>
-  <td class='text-right col-sm-1'></td>
-  <td class='text-right col-sm-1'>17</td>
-</tr>
-<tr>
-  <th class='text-center'>Day</th>
-  <td class='text-right col-sm-1'>3</td>
-  <td class='text-right col-sm-1'>3</td>
-  <td class='text-right col-sm-1'>3</td>
-  <td class='text-right col-sm-1'>4</td>
-  <td class='text-right col-sm-1'>4</td>
-  <td class='text-right col-sm-1'>5</td>
-  <td class='text-right col-sm-1'>5</td>
-  <td class='text-right col-sm-1'>6</td>
-  <td class='text-right col-sm-1'>6</td>
-</tr>
-<tr>
-</tr>
-</table>
+
+Base Establishment Quota
+
+| **\ Base** | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| **Cost** | ¤100 | ¤200 | ¤500 | ¤1,000 | ¤2,000 | ¤5,000 | ¤10,000 | ¤20,000 | ¤50,000 |
+| **Total** | | |¤800 | | |¤8,800 | | ¤38,800 | |
+| **Econ**  | 55 | | | 140 | 400 || 800 |
+| **Level**| 6.5| | | 8.5| | 12.2| | 17 |
+| **Day** | 3| 3| 3| 4| 5| 5| 6| 7| - |
+
+> **Note 2020:** Updated based on my experience on Babylon.
 
 ## Activity Guide
 
@@ -151,72 +91,23 @@ build an Urban Structure and another Solar Plant as needed. This guide assumes y
 
 After building your first set of Refineries, built a Research Lab. Then, build a Spaceport and find a neighbor to trade with. Some will build the Spaceport first then the Lab; so it is up to you. After the Spaceport, build a Shipyard; then return to building Refineries. The chart below shows what your goals are for Day-1, Day-2, and Day-3 for your first base. This enables you to start planting new bases on Day-3. The Others column are the overall build objectives for all other bases through Day-7. You should balance your queue to meet those objectives.
 
-<table class='table table-bordered' id='construction'><tr>
-  <th class='text-center' colspan='5' >Daily Construction Quota</th>
-</tr>
-<tr>
-  <td>&nbsp;</td>
-  <th class='text-center'>Day 1</th>
-  <th class='text-center'>Day 2</th>
-  <th class='text-center'>Day 3</th>
-  <th class='text-center'>Others</th>
-</tr>
-<tr>
-  <th>Metal Refineries</th>
-  <td class='text-center'>7</td>
-  <td class='text-center'>10</td>
-  <td class='text-center'>15</td>
-  <td class='text-center'>10</td>
-</tr>
-<tr>
-  <th>Robotics Factory</th>
-  <td class='text-center'>4</td>
-  <td class='text-center'>6</td>
-  <td class='text-center'>6</td>
-  <td class='text-center'>6</td>
-</tr>
-<tr>
-  <th>Research Labs</th>
-  <td class='text-center'>5</td>
-  <td class='text-center'>8</td>
-  <td class='text-center'>8</td>
-  <td class='text-center'>-</td>
-</tr>
-<tr>
-  <th>Shipyard</th>
-  <td class='text-center'>4</td>
-  <td class='text-center'>6</td>
-  <td class='text-center'>8</td>
-  <td class='text-center'>1</td>
-</tr>
-<tr>
-  <th>Spaceport</th>
-  <td class='text-center'>4</td>
-  <td class='text-center'>5</td>
-  <td class='text-center'>5</td>
-  <td class='text-center'>5&ndash;10</td>
-</tr>
-<tr>
-  <th>Turret</th>
-  <td class='text-center'>-</td>
-  <td class='text-center'>-</td>
-  <td class='text-center'>1</td>
-  <td class='text-center'>1&ndash;3</td>
-</tr>
-<tr>
-  <th>Crystal Mines</th>
-  <td class='text-center'>-</td>
-  <td class='text-center'>-</td>
-  <td class='text-center'>-</td>
-  <td class='text-center'>5&ndash;10</td>
-</tr>
-</table>
+**Table: Daily Construction Quota**
+
+| | Day 1 | Day 2 | Day 3 | Others |
+| --- | :-: | :-: | :-: | :-: |
+| **Metal Refineries** | 7 | 10 | 15 | 10 |
+| **Robotics Factory** | 4 | 6 | 6 | 6 |
+| **Research Labs** | 5 | 8 | 8 | - |
+| **Shipyard** | 4 | 6 | 8 | 1 |
+| **Spaceport** | 4 | 5 | 5 | 5&ndash;10 |
+| **Turret** | - | - | 1 | 1&ndash;3 |
+| **Crystal Mines** | - | - | - | 5&ndash;10 |
 
 <a name='consend'></a>
 
 Research Labs are only built on the first base and any Research Bases during the first week. Crystal Mines are only built on astros with Crystal 2 (Roids) or Crystal 3 (Crystalline). You will experience a financial crunch as you run out of credits. Queues are your friends as you can go do other things (such as sleep) while the base constructs.
 
-**Turrets.** The [Base Defense Guide](/astro-empires/base-defense-guide) discusses defenses in greater detail. When you are near Tenth level, you will need defenses. This guide recommends you satisfy your requirements for Missile Turrets and build one on all bases right before you reach Tenth level. The <a name='defenses'>Defenses section below</a> discusses your needs in a bit more detail.
+**Turrets.** The [Base Defense Guide](/astro-empires/base-defense-guide) discusses defenses in greater detail. When you are near Tenth level, you will need defenses. This guide recommends you satisfy your requirements for Missile Turrets and build one on all bases right before you reach Tenth level. The <a href='#defenses'>Defenses section below</a> discusses your needs in a bit more detail.
 
 **New Base Goals.** As each base new is built, you will want to work toward the **Others** goal. Merovech recommends the Shipyard be built before you have to build an Urban Structure when you are above Tenth level. This reduces the likelihood of a scout-tap. Otherwise, build the Shipyard before your first Spaceport. This reduces piracy.
 
@@ -231,93 +122,22 @@ research that tech. Start by researching Energy, then add Computer and
 alternate between the two techs until you satisfy the Computer-2
 objective.
 
-<table class='table table-bordered' id='research'><tr>
-  <th class='text-center' colspan='6'>Daily Research Quota</th>
-</tr>
-<tr>
-  <td>&nbsp;</td>
-  <th class='text-center'>Day 1</th>
-  <th class='text-center'>Day 2</th>
-  <th class='text-center'>Day 3</th>
-  <th class='text-center'>Day 5</th>
-  <th class='text-center'>Ion</th>
-</tr>
-<tr>
-  <th>Computer</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>10</td>
-  <td class='text-center'>&nbsp;</td>
-</tr>
-<tr>
-  <th>Energy</th>
-  <td class='text-center'>6</td>
-  <td class='text-center'>8</td>
-  <td class='text-center'>8</td>
-  <td class='text-center'>10</td>
-  <td class='text-center'>12</td>
-</tr>
-<tr>
-  <th>Stellar Drive</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>4 (5)</td>
-  <td class='text-center'>4 (5)</td>
-  <td class='text-center'>4 (5)</td>
-  <td class='text-center'>&nbsp;</td>
-</tr>
-<tr>
-  <th>Warp Drive</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>1 (8)</td>
-  <td class='text-center'>1 (8)</td>
-  <td class='text-center'>&nbsp;</td>
-</tr>
-<tr>
-  <th>Laser</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>1</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>10</td>
-</tr>
-<tr>
-  <th>Armour</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>10</td>
-</tr>
-<tr>
-  <th>Missile</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>1</td>
-  <td class='text-center'>6</td>
-  <td class='text-center'>&nbsp;</td>
-</tr>
-<tr>
-  <th>Shielding</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>2</td>
-</tr>
-<tr>
-  <th>Ion</th>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>&nbsp;</td>
-  <td class='text-center'>1</td>
-</tr>
-</table>
+<a name='research'></a>
+**Table: Daily Research Quota**
+
+|     | Day 1 | Day 2 | Day 3 | Day 5 | Ion |
+| --- |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
+| **Computer** | 2 | 2 | 2 | 10 | &nbsp; |
+| **Energy** | 6 | 8 | 8 | 10 | 12 |
+| **Stellar Drive** | &nbsp; | 4 (5) | 4 (5) | 4 (5) | &nbsp; |
+| **Warp Drive** | &nbsp; | &nbsp; | 1 (8) | 1 (8) | &nbsp; |
+| **Laser** | &nbsp; | &nbsp; | 1 | 4 | 10 |
+| **Armour** | &nbsp; | &nbsp; | 2 | 4 | 10 |
+| **Missile** | &nbsp; | &nbsp; | 1 | 6 | &nbsp; |
+| **Shielding** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 2 |
+| **Ion** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 1 |
 
 The last column shows the minimum technology required to build Ion Turrets.
-<a name='researchend'></a>
 
 
 <table class='table'>
@@ -392,31 +212,14 @@ The last column shows the minimum technology required to build Ion Turrets.
 
 Production should focus on scouting and planting new bases. This guide recommends three units, shown below with the number of Shipyards and Research Targets.
 
-<table class='table' id='production'><tr>
-  <th class='text-center'>Unit</th>
-  <th class='text-center'>Shipyards</th>
-  <th class='text-center'>Research</th>
-  <th class='text-center'>Notes</th>
-</tr>
-<tr>
-  <th>Fighters (FT)</th>
-  <td class='text-center'>1</td>
-  <td>Laser 1</td>
-  <td>Defend your Trade Routes</td>
-</tr>
-<tr>
-  <th>Corvettes (CV)</th>
-  <td class='text-center'>4</td>
-  <td>Laser 2 + Stellar Drive 1 + Armour 2</td>
-  <td>Preferred scout unit</td>
-</tr>
-<tr>
-  <th>Outpost Ships (OS)</th>
-  <td class='text-center'>8</td>
-  <td>Warp-1</td>
-  <td>Build new bases</td>
-</tr>
-</table>
+<a id='production'></a>
+**Table: Production Targets**
+
+| Unit | Shipyards | Research | Notes |
+| --- | :--: | :--: | :--: |
+| Fighters (FT) | 1 | Laser 1 | Defend your Trade Routes |
+| Corvettes (CV) | 4 | Laser 2 + Stellar Drive 1 + Armour 2 | Preferred scout unit |
+| Outpost Ships (OS) | 8 | Warp-1 | Build new bases  |
 
 There are a couple other units that you may consider adding if you want to pick on your neighbors: Frigate and Recycler. Frigates allow you to carry Fighters that can more cheaply attack your neighbors. Recyclers allow you to recover the debris (derbs) that enhances profitability. This guide does not need these units; but Astro Empires is an economic combat simulator.
 
@@ -443,6 +246,7 @@ Banking credits is how you safeguard your credits from pillage. If you are attac
 Goods production is good for when you know when you need money available, such as when you know you will be planting your next base. Astro Empires lets you put in a time for completion. So, if you know you will be planting a base in eight hours, type '8h' in the production field for Goods. It will provide a fairly accurate number of goods.
 
 <a name='defenses'></a>
+
 ## Defenses
 
 Earlier, this guide shows that you need an economy of nearly 800 to build your last base. To accomplish this with the previous nine bases, your average base economy will be between 45&ndash;65. It is imperative that you defend your bases so they are not profitable to your attacker. This discourages attack at this stage of the game, as the primary focus should be on empire build.

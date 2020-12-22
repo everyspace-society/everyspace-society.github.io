@@ -5,7 +5,7 @@ date: 2010-02-10T15:40:24+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 This article addresses a debate I heard between a Cruiser Fleet and a

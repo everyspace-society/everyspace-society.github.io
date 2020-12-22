@@ -5,7 +5,7 @@ date: 2007-10-04T00:42:50+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 BEST SHIPS

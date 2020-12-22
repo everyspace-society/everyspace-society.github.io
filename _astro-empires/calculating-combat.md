@@ -5,7 +5,7 @@ date: 2009-03-29T22:25:13+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 There are basically three formulas you need to calculate unit-on-unit combat. In the three examples below, "Power" refers to the Attacker, "Shield" and "Armour" refer to the defender.

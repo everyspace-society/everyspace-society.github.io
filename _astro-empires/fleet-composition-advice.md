@@ -5,7 +5,7 @@ date: 2010-02-08T23:25:18+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 This guide provides specific advice on fleet formation based on the

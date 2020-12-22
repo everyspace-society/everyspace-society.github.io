@@ -5,7 +5,7 @@ date: 2007-11-06T15:54:29+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 I've been asked to discuss briefly efficient base attacking. First, make sure you're own bases are adequately defended&mdash;no stripping base defenses to run pell mell into a fight. You'll only suffer when retaliations occur.

@@ -5,7 +5,7 @@ date: 2007-10-06T12:58:26+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 This guide discusses the use of fleets in Astro Empires. 

@@ -5,7 +5,7 @@ date: 2007-10-18T13:51:32+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 This is a diary of one run through the Ten-Seven Guide. This diary

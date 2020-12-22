@@ -5,7 +5,7 @@ date: 2010-02-15T01:30:33+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 I tend to be asked for base advice from various players. My guides tend

@@ -5,7 +5,7 @@ date: 2007-10-20T16:06:26+00:00
 comments: true
 sharing: true
 footer: true
-category: "Astro Empires"
+category: "Old Content Queue"
 ---
 
 This guide builds off of the [Advanced Structure Guide](/astro-empires/advanced-structure-guide), which
