@@ -136,7 +136,7 @@ We now look at the support units in greater detail.
 
 #### Fighters (FT)
 
-<span class='text-success'>Build this unit.</span> 
+**Build this unit.** 
 These are the staple of all fleets in AE&mdash;defense, offense, everything.
 Fighters are the single most efficient ship in Astro Empires. The damage
 they absorb per credit is unparalleled. That makes Fighters your primary
@@ -151,7 +151,7 @@ significantly improve your exchange rate.
 
 #### Bombers (BO)
 
-<span class='text-warning'>Consider this unit.</span> 
+**Consider this unit.** 
 Bombers have the same armor as Fighters with twice the firepower and
 twice the cost. This makes them slightly less efficient. While less
 efficient, they can still be slightly efficient meat. Their ability to
@@ -162,7 +162,7 @@ counterpart in an _offensive_ role.
 
 #### Heavy Bombers (HB)
 
-<span class='text-success'>Build this unit.</span> 
+**Build this unit.** 
 Heavy Bombers are primarily *offensive units*. They carry enough punch
 to take out escort units&mdash;Cruisers and Heavy Cruisers&mdash;but their
 vulnerability to other support units and cost makes them poor defensive
@@ -170,20 +170,19 @@ units.  Enemy Fighters will cut them to ribbons.  Heavy Bombers are best
 used in waves after your Fighter waves destroy the enemy's unshielded
 units. 
 
-<div class='bs-callout bs-callout-info'>
-<h4>Value of Heavy Bombers:</h4>
+> **Value of Heavy Bombers:**
 HBs are ideal units for breaking occupations, if you have a
 proper amount of Command Centers.
-</div>
+
 
 #### Ion Bombers (IB)
 
-<span class='text-warning'>Consider this unit.</span>
+**Consider this unit.**
 Ion Bombers support an anti-capital role but are highly vulnerable to Fighters due to their low shielding. Ion Frigates, below, have a substantially higher ratio against Capital, however.
 
 #### Corvettes (CV)
 
-<span class='text-warning'>Consider this unit.</span> 
+**Consider this unit.** 
 The Corvette utility lies in its speed. They are not very useful in a
 battle fleet because they are too expensive compared to other support
 units. They are as efficient as Bombers, but their unique ability makes
@@ -199,7 +198,7 @@ fleet with insufficient Fighter support.
 
 #### Destroyers (DD)
 
-<span class='text-success'>Build this unit.</span> 
+**Build this unit.** 
 Because Cruisers and Destroyers share the Plasma weapons system,
 Destroyers are useful. They are very efficient in destroying naked
 Cruisers and Heavy Cruisers. They are inefficient against Battleships
@@ -215,7 +214,7 @@ not leave Destroyers in hostile territory when you have to be offline.
 
 #### Frigates (FR)
 
-<span class='text-warning'>Consider this unit.</span> 
+**Consider this unit.** 
 Frigates have a mixed reputation. Small Fleet used to discourage Frigate construction. However, the value of Frigates is not that cut-and-dried. Lacking shields, they are highly vulnerable to Fighters. They have a .33 cost/armor ratio to a Fighter's .88 ratio; which shows what you stand to lose when caught off guard. However, diligently used, Frigates are a decent tool, marginally efficient against Cruisers (.33 to .28 cost/armor ratio), and can carry Fighters (raising the overall efficiency). A Frigate/Fighter mix costs 100 credits, requires 10 Recyclers to support, and can be a lethal, quick combination...with diligence.
 
 ### Escort Ships
@@ -234,7 +233,7 @@ We now look at the escort units in greater detail.
 
 #### Ion Frigates (IF)
 
-<span class='text-warning'>Consider this unit.</span>
+**Consider this unit.**
 Ion Frigates are units of limited utility. With a high-enough Ion level (e.g. over 15), they provide the best ratios (upward of 3.9) against Levis and Death Stars&mdash;all capital ships. Combining them with Ion Bombers (two per IF) packs a stronger punch, but with a lower ratio (2.6); requiring fewer units.
 
 * Against LV: 1200 to 1250 Ion Frigates per LV
@@ -243,7 +242,7 @@ Ion Frigates are units of limited utility. With a high-enough Ion level (e.g. ov
  
 #### Cruisers (CR)
 
-<span class='text-success'>Build this unit.</span> In Small Fleet Doctrine, Cruisers serve
+**Build this unit.** In Small Fleet Doctrine, Cruisers serve
 a critical role. You will want to build these by the hundreds. They are
 the efficient killer of escort units (Heavy Cruisers and Battleships).
 They are less efficient against Fighters than Heavy Cruisers, and should
@@ -259,7 +258,7 @@ fleets.
 
 #### Heavy Cruisers (HC)
 
-<span class='text-success'>Build this unit.</span> 
+**Build this unit.** 
 Heavy Cruisers are the bruiser of Astro Empires. 
 Their shields are high enough to let them nakedly rush Fighters. 
 They are inefficient against Heavy Bombers and Destroyers, and should
@@ -278,7 +277,7 @@ Titans.
 
 #### Battleships (BS/BB)
 
-<span class='text-warning'>Consider this unit.</span> 
+**Consider this unit.** 
 As ships get larger, they tend to become less efficient. 
 They are significantly efficient against support units, able to destroy
 more than 12 times their value in Fighters and Heavy Bombers.
@@ -351,11 +350,10 @@ Utility Ships are those ships which you need, but should never be used
 in combat. This guide does not discuss Outpost Ships as they have one
 obvious, limited role.
 
-<div class='bs-callout bs-callout-info'>
-<h4>Retreat Your Utilities:</h4>
+> **Retreat Your Utilities:**
 Always retreat utility ships before attacking. They are not meant for fleet
 operations.
-</div>
+
 
 #### Recyclers (RC)
 
@@ -382,18 +380,15 @@ you are experienced. You should have lots of FCs to move all your
 Fighters around. Although, if speed is your goal and you are hunting
 with Cruisers, keep using Carriers.
 
-<div class='bs-callout bs-callout-info'>
-<h4>Major Points to Remember</h4>
+> **Major Points to Remember**
+> 
+> Here are the most important parts for review:
+> 
+> * Fighters and Cruisers should be the bulk of your fleet&mdash;70 percent your total fleet size.
+> * Keep enough HCs around to deal with the big stuff, with more than that if you want to use them in main fleets.
+> * Do not build Frigates, Ion Frigates, or Ion Bombers. You are wasting your production time and money.
+> * Bigger is not always better. The bigger you get, the less efficient you get. Do not build too much of the big stuff.
 
-<p>Here are the most important parts for review:</p>
-
-<ul>
-<li> Fighters and Cruisers should be the bulk of your fleet&mdash;70 percent your total fleet size.</li>
-<li> Keep enough HCs around to deal with the big stuff, with more than that if you want to use them in main fleets.</li>
-<li> Do not build Frigates, Ion Frigates, or Ion Bombers. You are wasting your production time and money.</li>
-<li> Bigger is not always better. The bigger you get, the less efficient you get. Do not build too much of the big stuff.</li>
-</ul>
-</div>
 
 ## Small Fleet Doctrine Applied
 
