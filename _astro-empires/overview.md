@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 category: "Overview"
-permalink: "/astro-empires"
+permalink: "/astro-empires/"
 ---
 
 Welcome to Ben Wilson's (a.k.a. Merovech)
