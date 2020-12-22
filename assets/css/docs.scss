@@ -119,6 +119,11 @@ main {
         text-decoration: none;
       }
     }
+    table {
+      tr:hover {
+        background-color: rgba($mero-yellow, 0.5);
+      }
+    }
   }
   aside {
     font-size: 16px;

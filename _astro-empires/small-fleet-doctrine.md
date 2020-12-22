@@ -86,347 +86,37 @@ some Destroyers. Escort ships should comprise a balance of Cruisers and
 Heavy Cruisers. In the Small Fleet approach, capital ships are
 generally not built because of their inefficiency.
 
-<a name='chart'>
-</a>
+<a name='chart'></a>
+Table: Attacker / Defender Matchmaking
 
-<table>
-<thead>
-<tr>
-<th rowspan='2' style='border-right:2px solid 336'>Att Units </th>
-<th colspan='16'>Defenders</th>
-</tr>
-    <tr>
-        <th>FT</th>
-        <th>BO</th>
-        <th>HB</th>
-        <th>IB</th>
-        <th>CV</th>
-        <th>DD</th>
-        <th>FR</th>
-        <th>IF</th>
-        <th>CR</th>
-        <th>HC</th>
-        <th>BB</th>
-        <th>DR</th>
-        <th>TI</th>
-        <th>LV</th>
-        <th>DS</th>
-        <th>SP</th>
-    </tr>
-    </thead>
-    <tr>
-        <td class='success'>FT</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X </td>
-    </tr>
-    <tr>
-        <td class='info'>BO</td>
-        <td class='warning'>?</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='success'>HB</td>
-        <td class='danger'>-</td>
-        <td class='warning'>?</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='warning'>IB</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='info'>CV</td>
-        <td class='warning'>?</td>
-        <td class='warning'>?</td>
-        <td class='danger'>-</td>
-        <td class='warning'>?</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='info'>DD</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='danger'>FR</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='danger'>IF</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='success'>CR</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='warning'>HC</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='warning'>BB</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='warning'>DR</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='danger'>TI</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='danger'>LV</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='warning'>?</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='danger'>DS</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='success'>X</td>
-        <td class='success'>X</td>
-    </tr>
-    <tr>
-        <td class='type'>SP</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-        <td class='danger'>-</td>
-    </tr>
-    </table>
+| &nbsp; | FT  | BO  | HB  | IB  | CV  | DD  | FR  | IF  | CR  | HC  | BB  | DR  | TI  | LV  | DS  | SP  |
+| ------ | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  FT    |  ✓  |  ?  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  BO    |  ?  |  ✓  |  ?  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ?  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  HB    |  ·  |  ?  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  IB    |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  CV    |  ?  |  ?  |  ·  |  ?  |  ✓  |  ?  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  DD    |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ?  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  FR    |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  IF    |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ✓  |
+|  CR    |  ✓  |  ✓  |  ·  |  ·  |  ✓  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ?  |  ·  |  ·  |  ·  |  ✓  |
+|  HC    |  ✓  |  ✓  |  ·  |  ·  |  ✓  |  ·  |  ✓  |  ✓  |  ·  |  ✓  |  ✓  |  ✓  |  ?  |  ·  |  ·  |  ✓  |
+|  BB    |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
+|  DR    |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
+|  TI    |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |
+|  LV    |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ?  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
+|  DS    |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ·  |  ✓  |  ✓  |
+|  SP    |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |
 
-* Yellow = Later
-* Red = Avoid
-* Blue = Maybe
-* Green = Definitely
+**Notes:** 
 
-Reading the chart: To see which units are efficient against what,
-the columns are the defenders, the attackers are the rows.
+* Defender units are the columns (header)
+* Attacker units are the rows (leftmost column). 
+* Checked (✓) cells indicate the Attacker is efficient against the Defender. (E.g. Bomber against Ion Bomber) **Use these Units**
+* Dotted (·) cells indicate the Attacker is inefficient against Defender. **Avoid these units.**
+* Questioned (?) cells suggest the Attacker may be efficient against the Defender depending on circumstances (higher Attacker tech, for example).
+ 
+Reading the chart: To see which units are efficient against what, the columns are the defenders, the attackers are the rows.
 
 ### Support Ships
 
