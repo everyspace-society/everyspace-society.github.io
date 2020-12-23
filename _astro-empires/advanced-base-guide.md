@@ -18,10 +18,7 @@ time-tested methods. This page has an accompanying
 [Frequently Asked Questions](/astro-empires/advanced-base-guide-f-aq) pages. If you find
 an area confusing and the FAQ is unhelpful, notify Merovech (Gamma).
 
-<div class='bs-callout bs-callout-info'>
-<h4></h4>
-This guide focuses on base specialization and is not relevant for all players. Players who play free accounts should consider specializing due to restrictions on space.
-</div>
+> This guide focuses on base specialization and is not relevant for all players. Players who play free accounts should consider specializing due to restrictions on space.
 
 ## Astro Layout
 
@@ -45,10 +42,10 @@ your second, third and fourth bases should be commerce specialized to
 help jump start your economy. The table below suggests an order in which
 you may build your bases.
 
-<div class='bs-callout bs-callout-warning'>
-Commerce bases are of dubious value. Consider building them up briefly
+
+> Commerce bases are of dubious value. Consider building them up briefly
 in the beginning, then converting them to Production bases.
-</div>
+
 
 <table id='order'><tr>
   <th colspan='3'>Base Build Order</th>
@@ -70,16 +67,18 @@ in the beginning, then converting them to Production bases.
 <tr> <th class='col-sm-2 text-center'>10th</th> <td class='col-sm-3'>Research</td> <td>Arid, Tundra, Gaia, Earthly</td> </tr>
 </table>
 
-<div class='bs-callout bs-callout-info'>
-<h4>Why is your first base probably a dual-purpose base?</h4>
-<p>In the <a href='/astro-empires/the-ten-seven-guide'>Ten Seven Guide</a>, 
+
+
+> #### Why is your first base probably a dual-purpose base?
+
+> In the <a href='/astro-empires/the-ten-seven-guide'>Ten Seven Guide</a>, 
 you are advised to start with a Rocky, Crater or Metallic
 planet; to optimize production. These three astros are suited for
 Production, yet you have to build eight Research Labs to expand your
 bases. Rather than later disband those Labs (recovering only half of
 what you spent), the recommendation is that you make your first base
-dual-purpose. </p>
-</div>
+dual-purpose.
+
 
 I personally find that whenever I start I end up with an Arid or Tundra,
 both of which are better for research. So, to meet my above
@@ -258,20 +257,21 @@ discussed in a separate guide.
 * **Command Centers:** Level 10 improves defenses 50 percent.
 * **Base Econ:** You should assume an increase of 25 percent above base economy per Trade Route. So, the Minimal base should have an effective economy of 140.
 
-<div class='bs-callout bs-callout-warning'>
-I still need to redo the Upgraded column.
-</div>
 
-<div class='bs-callout bs-callout-info'>
-<h4>Formula for Space Provided</h4>
-Total = structures + ceil(structures/fertility) + ceil(structures/energy)
-</div>
+> TODO: Revise the Upgraded column.
 
-Arid and Tundra type planets have 95 available spaces, 120 spaces
-with Terraform, and 170 with Multi-level Platforms. Rocky has 85, 110
-and 160, respectively. 
-Crystals have 80, 105 and 155. 
-Asteroids have 65, 90 and 140. 
+
+> #### Formula for Space Provided
+>
+> Total = structures + ceil(structures/fertility) + ceil(structures/energy)
+
+
+| Astro Type | Base | Terraform | MLP |
+| -- | :---: | :---: | :---: | :---: |
+| Arid and Tundra | 95 | 120 | 170 |
+| Rocky | 85 | 110 | 160|
+|Crystals | 80 | 105 | 155 |
+|Asteroids | 65 | 90 | 140 |
 
 The **Minimum column** below represents the structure limits free players experience.
 The energy requirement for the minimum layout is 75, which requires Fusion-10 (assuming Energy-20).
@@ -337,12 +337,12 @@ emboldened astro is the preferred choice for a given specialization.
 </tr>
 </table>
 
-<div class='bs-callout bs-callout-info'>
-<h4>Why Not Crystals?</h4>
-I recommend Asteroids over Crystals because you can convert the Roid
+> #### Why Not Crystals?
+>
+> I recommend Asteroids over Crystals because you can convert the Roid
 base to a Production base when you've sobered up. "Commerce" bases do
 not provide the long-term value you seek in a strong empire.
-</div>
+
 
 My findings vary a bit from the sage wisdom of other guides. I did
 separate [analysis](/astro-empires/advanced-base-guide-analysis) of slot usage. The
@@ -516,10 +516,10 @@ an Asteroid will never have more than 140 spaces for structures.
 
 ### Astro Orbit Preferences
 
-<div class='bs-callout bs-callout-info'>
-<h4>Ideal Locations</h4>
-Prefer Metal-3, Slot-2 astros. Planets if you need space, moons and roids if you want cheap prings. 
-</div>
+> #### Ideal Locations
+>
+> Prefer Metal-3, Slot-2 astros. Planets if you need space, moons and roids if you want cheap prings. 
+
 
 **Choose Slot Twoes.** Naturally, you will let your needs influence your decision on which astro to take. 
 When you can be choosy, prefer a Slot 2 orbit (e.g.  GXX:XX:XX:**2**X). 
@@ -542,14 +542,14 @@ get the Slot-2 fertility benefit.
 
 ### Choosing a Moon or Planet
 
-<div class='bs-callout bs-callout-info'>
-<h4>Moon or Planet Simplified?</h4>
-<ul>
+> #### Moon or Planet Simplified?
+>
+> <ul>
   <li>Planets if free account player</li>
   <li>Moons if upgraded</li>
   <li>Astroids if you're patient.</li>
   </ul>
-</div>
+
 
 **Should you choose a moon or a planet?** If you are going to play with a
 free account, you should focus on planets. Otherwise, you should focus

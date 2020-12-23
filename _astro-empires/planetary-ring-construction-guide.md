@@ -23,118 +23,30 @@ As you see, I've managed this a few times before. I started on Ceti, played slig
 Research
 ========
 
-I start this article with the most important aspect: research. As I show below, you will spend over 200,000 &cent; to complete the Pring research alone. As with other things in AE, that requires a well-tuned economy and time. You will spend five of the seven weeks pushing the research. Why only five weeks? The first week you should spend [building your empire](/astro-empires/the-ten-seven-guide).
+I start this article with the most important aspect: research. As I show below, you will spend over ¤ 200,000 to complete the Pring research alone. As with other things in AE, that requires a well-tuned economy and time. You will spend five of the seven weeks pushing the research. Why only five weeks? The first week you should spend [building your empire](/astro-empires/the-ten-seven-guide).
 
 "How many Research bases do you need?" To complete the research, you need only two bases. However, I always start with three Research bases during this phase of empire building. On Helion, I ranked in the top 20 for research for a while, with three-quarters of my bases as labs.
 
-Why only two bases? Take a look at the table below. Please note that I am tracking only the last 12 levels of Armour, instead of all 22. You can see at the bottom the final cost of research for all levels of each technology. The grand total is 209,309 &cent;. Photon research is 55.6 percent of the total research investment. This means you can research both Armour and Shielding on one base at the same time you research Photon on the other. I build three bases because I'd like to continue to research other technologies, such as Laser, Plasma, etc. Having a third research base also lets me research Armour and Shielding in parallel in case somehow I've fallen behind.
+Why only two bases? Take a look at the table below. Please note that I am tracking only the last 12 levels of Armour, instead of all 22. You can see at the bottom the final cost of research for all levels of each technology. The grand total is ¤ 209,309. Photon research is 55.6 percent of the total research investment. This means you can research both Armour and Shielding on one base at the same time you research Photon on the other. I build three bases because I'd like to continue to research other technologies, such as Laser, Plasma, etc. Having a third research base also lets me research Armour and Shielding in parallel in case somehow I've fallen behind.
 
 
-<table class='table'><tr>
-</tr>
-<tr>
-  <th>&nbsp;</th>
-  <th>Photon</th>
-  <th>Shielding</th>
-  <th>Armour</th>
-</tr>
-<tr>
-  <td>1</td>
-  <td>1028</td>
-  <td>128</td>
-  <td>231 (level 11)</td>
-  <td></td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>1542</td>
-  <td>192</td>
-  <td>346</td>
-  <td></td>
-</tr>
-<tr>
-  <td>3</td>
-  <td>2313</td>
-  <td>288</td>
-  <td>519</td>
-  <td></td>
-</tr>
-<tr>
-  <td>4</td>
-  <td>3470</td>
-  <td>432</td>
-  <td>778</td>
-  <td></td>
-</tr>
-<tr>
-  <td>5</td>
-  <td>5204</td>
-  <td>648</td>
-  <td>1168</td>
-  <td></td>
-</tr>
-<tr>
-  <td>6</td>
-  <td>7806</td>
-  <td>972</td>
-  <td>1752</td>
-  <td></td>
-</tr>
-<tr>
-  <td>7</td>
-  <td>11710</td>
-  <td>1458</td>
-  <td>2627</td>
-  <td></td>
-</tr>
-<tr>
-  <td>8</td>
-  <td>17564</td>
-  <td>2187</td>
-  <td>3941</td>
-  <td></td>
-</tr>
-<tr>
-  <td>9</td>
-  <td>26347</td>
-  <td>3281</td>
-  <td>5912</td>
-  <td></td>
-</tr>
-<tr>
-  <td>10</td>
-  <td>39520</td>
-  <td>4921</td>
-  <td>8867</td>
-  <td></td>
-</tr>
-<tr>
-  <td>11</td>
-  <td></td>
-  <td>7381</td>
-  <td>13301</td>
-  <td></td>
-</tr>
-<tr>
-  <td>12</td>
-  <td></td>
-  <td>11072</td>
-  <td>19847</td>
-</tr>
-<tr>
-  <td>Total:</td>
-  <td>116503</td>
-  <td>32959</td>
-  <td>59847</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>93806</td>
-  <td></td>
-  <td></td>
-</tr>
-</table>
+
+| # | Photon | Shielding | Armour |
+| - |  :--:  |  :--:     | :--:   |
+| 1 | 1028   | 128 | 231 (level 11) |
+| 2 | 1542 | 192 | 346 |
+| 3 | 2313 | 288 | 519  |
+| 4 | 3470 | 432 | 778  |
+| 5 | 5204 | 648 | 1168  |
+| 6 | 7806 | 972 | 1752  |
+| 7 | 11710 | 1458 | 2627  |
+| 8 | 17564 | 2187 | 3941  |
+| 9 | 26347 | 3281 | 5912  |
+| 10 | 39520 | 4921 | 8867  |
+| 11 | | 7381 | 13301  |
+| 12 | | 11072 | 19847  |
+| Sum: | 116503 | 32959 | 59847  |
+| | | 93806 | |
 
 **Commanders.** I typically start a research commander as soon as I can afford one; usually after the first week. I push him to level 6 or 7, depending on circumstances. I assign him to the Photon base, but I tend to also have a second Research commander assigned to the Armour/Shield research base.
 
@@ -142,7 +54,7 @@ Why only two bases? Take a look at the table below. Please note that I am tracki
 
 **Artificial Intelligence.** Remember that Artificial Intelligence increases your Research rate by five percent; and I typically get to AI-2 while I am researching Photon 8. This is important because...
 
-**The Halfway Point.** When you finish Photon-8, you are at the halfway point. It costs about 50,637 &cent; to get Photon-1 to Photon-8. It costs 65,866 &cent; to get Photon-9 and Photon-10. If you researched Armour and Shielding on two separate bases, you could already be finished with them by Photon-8. I typically finish both of them around the time I finish Photon-9.
+**The Halfway Point.** When you finish Photon-8, you are at the halfway point. It costs about ¤50,637 to get Photon-1 to Photon-8. It costs ¤65,866 to get Photon-9 and Photon-10. If you researched Armour and Shielding on two separate bases, you could already be finished with them by Photon-8. I typically finish both of them around the time I finish Photon-9.
 
 The halfway point for Armour is Armour-20. The halfway point for Shielding is Shielding-10. See the pattern? The last two levels of each technology takes as much time to research as the previous levels. So, don't get cocky when you're two-thirds of the way done and you're only on week four.
 
@@ -211,7 +123,7 @@ Putting It Together
 
 Okay, so you should focus on getting to ten bases as soon as possible. During the first week you might be able to inch toward the necessary prerequisite technologies for Photon (Energy & Plasma). As soon as you have the prerequisites and a base with Lab-16, start the Photon. The clock starts on Day-0; but once you get to Photon research you can start tracking your completion date.
 
-Get all your bases to where they can Construction about 100 &cent; per hour...And pick your best base to get the Construction as high as possible. On a Roid that means you can build the prings in under six days, ten days for Moons, three weeks for Planets.
+Get all your bases to where they can Construction ¤about 100 per hour...And pick your best base to get the Construction as high as possible. On a Roid that means you can build the prings in under six days, ten days for Moons, three weeks for Planets.
 
 Once you start Photon-10, time to stop Constructing or Researching or Producing. Time to use your Production queues to build Goods (to cycle cash). Use your Construction queues to bank your credits. I typically try to save up enough to start half my bases building prings as soon as the technology is researched and enough to start the other half the next 24 hours after (or 2 days). I once managed to start all bases within two hours of Photon-10 finishing. 
 
