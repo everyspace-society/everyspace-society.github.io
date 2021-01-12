@@ -419,6 +419,10 @@ your specific situation.
 
 <h2><a name="toc3" id="toc3"></a>Cost/Time Scale</h2>
 <table class="table table-condensed table-hover">
+  <thead>
+    <tr><th>Multiple</th><th>Next Level</th><th>Cumulative</th></tr>
+  </thead>
+  <tbody>
   <tr><td>0</td><td align="right">1.0</td><td align="right">1.0</td></tr>
   <tr><td>1</td><td align="right">1.5</td><td align="right">2.5</td></tr>
   <tr><td>2</td><td align="right">2.2</td><td align="right">4.8</td></tr>
@@ -439,6 +443,7 @@ your specific situation.
   <tr><td>17</td><td align="right">985.3</td><td align="right">2953.8</td></tr>
   <tr><td>18</td><td align="right">1477.9</td><td align="right">4431.7</td></tr>
   <tr><td>19</td><td align="right">2216.8</td><td align="right">6648.5</td></tr>
+</tbody>
 </table>
 
 <div id="footnotes">

@@ -84,7 +84,7 @@ $mero-background-image: '';
 @import 'fnord';
 @import 'posts';
 
-@include font('KonsprioDisplay',           '../fonts/Oswald-VariableFont_wght');
+@include font('KonsprioDispralay',           '../fonts/Oswald-VariableFont_wght');
 
 @include font('KonsprioSans',             '../fonts/SourceSansPro-Regular');
 @include font('KonsprioSans-Italic',      '../fonts/SourceSansPro-Italic');
@@ -93,7 +93,7 @@ $mero-background-image: '';
 
 @include font('KonsprioSerif',            '../fonts/SourceSerifPro-Regular');
 @include font('KonsprioSerif-Italic',     '../fonts/SourceSerifPro-Italic');
-@include font('KonsprioSerif-Bold',       '../fonts/SourceSerifPro-Bold');
+@include font('KonsprioSerif-Bold',       '../fonts/ -Bold');
 @include font('KonsprioSerif-BoldItalic', '../fonts/SourceSerifPro-BoldItalic');
 
 .page-copyright {
