@@ -1,0 +1,33 @@
+--- 
+"Disruptor Turrets": 
+  area: -1
+  armour: 265
+  credits: 4096
+  energy: -8
+  power: 265
+  requires: disruptor-1+armour-18+shielding-8
+  shield: 8
+"Photon Turrets": 
+  area: -1
+  armour: 64
+  credits: 1024
+  energy: -4
+  power: 64
+  requires: photon-1+armour-14+shielding-6
+  shield: 6
+"Planetary Ring": 
+  area: 0
+  armour: 1024
+  credits: "50000:25000:12500"
+  energy: -24
+  power: 2048
+  requires: photon-10+armour-22+shielding-14
+  shield: 12
+"Planetary Shield": 
+  area: -1
+  armour: 2048
+  credits: "25000:12500:6250"
+  energy: -16
+  power: 4
+  requires: ion-10+shielding-14
+  shield: 20

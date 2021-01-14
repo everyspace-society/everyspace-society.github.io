@@ -1,0 +1,106 @@
+---
+Arid:
+    metal: 3
+    gas: 3
+    crystals: 0
+    fertility: 5
+    planet: 95
+    moon: 83
+Asteroid: 
+  metal: 4
+  gas: 2
+  crystals: 3
+  fertility: 4
+  planet: 65
+  moon: 65
+Craters: 
+  metal: 4
+  gas: 2
+  crystals: 2
+  fertility: 4
+  planet: 85
+  moon: 75
+Crystalline: 
+  metal: 3
+  gas: 2
+  crystals: 4
+  fertility: 4
+  planet: 80
+  moon: 71
+Earthly: 
+  metal: 3
+  gas: 3
+  crystals: 0
+  fertility: 6
+  planet: 85
+  moon: 75
+Gaia: 
+  metal: 3
+  gas: 2
+  crystals: 0
+  fertility: 6
+  planet: 90
+  moon: 79
+Glacial: 
+  metal: 2
+  gas: 4
+  crystals: 0
+  fertility: 5
+  planet: 95
+  moon: 83
+Magma: 
+  metal: 3
+  gas: 5
+  crystals: 0
+  fertility: 5
+  planet: 80
+  moon: 71
+Metallic: 
+  metal: 4
+  gas: 2
+  crystals: 2
+  fertility: 4
+  planet: 85
+  moon: 75
+Oceanic: 
+  metal: 2
+  gas: 4
+  crystals: 0
+  fertility: 6
+  planet: 80
+  moon: 71
+Radioactive: 
+  metal: 3
+  gas: 4
+  crystals: 0
+  fertility: 4
+  planet: 90
+  moon: 79
+Rocky: 
+  metal: 4
+  gas: 2
+  crystals: 0
+  fertility: 5
+  planet: 85
+  moon: 75
+Toxic: 
+  metal: 3
+  gas: 5
+  crystals: 0
+  fertility: 4
+  planet: 90
+  moon: 79
+Tundra: 
+  metal: 3
+  gas: 3
+  crystals: 0
+  fertility: 5
+  planet: 95
+  moon: 83
+Volcanic: 
+  metal: 3
+  gas: 5
+  crystals: 0
+  fertility: 5
+  planet: 80
+  moon: 71
