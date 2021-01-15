@@ -92,3 +92,11 @@ $mero-transition: all .3s;
     }
   }
 }
+table {
+  strong, em {
+    color: blue
+  }
+  em {
+    color: purple
+  }
+}

@@ -1,0 +1,1085 @@
+---
+:moon:
+  Arid:
+  - :structures: &1
+      urban: 22
+      natural-energy: 14.0
+    :area: 88
+    :metal: 3
+    :fertility: 4
+    :berths: 30
+    :remaining: 48.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 58.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 6
+    :berths: 18
+    :remaining: 64.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 6
+    :berths: 18
+    :remaining: 62.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 56.0
+    :energy: 10.0
+  Asteroid:
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 3
+    :berths: 35
+    :remaining: 25.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 4
+    :berths: 24
+    :remaining: 38.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 5
+    :berths: 18
+    :remaining: 46.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 5
+    :berths: 18
+    :remaining: 46.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 4
+    :berths: 24
+    :remaining: 38.0
+    :energy: 8.0
+  Craters:
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 3
+    :berths: 40
+    :remaining: 30.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 4
+    :berths: 27
+    :remaining: 45.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 5
+    :berths: 20
+    :remaining: 54.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 5
+    :berths: 20
+    :remaining: 54.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 4
+    :berths: 27
+    :remaining: 45.0
+    :energy: 8.0
+  Crystalline:
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 3
+    :berths: 38
+    :remaining: 28.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 4
+    :berths: 26
+    :remaining: 42.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 5
+    :berths: 19
+    :remaining: 51.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 5
+    :berths: 19
+    :remaining: 51.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 4
+    :berths: 26
+    :remaining: 42.0
+    :energy: 8.0
+  Earthly:
+  - :structures: *1
+    :area: 80
+    :metal: 3
+    :fertility: 5
+    :berths: 20
+    :remaining: 50.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 80
+    :metal: 3
+    :fertility: 6
+    :berths: 16
+    :remaining: 56.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 80
+    :metal: 3
+    :fertility: 7
+    :berths: 14
+    :remaining: 60.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 3
+    :fertility: 7
+    :berths: 14
+    :remaining: 58.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 80
+    :metal: 3
+    :fertility: 6
+    :berths: 16
+    :remaining: 54.0
+    :energy: 10.0
+  Gaia:
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 5
+    :berths: 21
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 6
+    :berths: 17
+    :remaining: 59.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 7
+    :berths: 14
+    :remaining: 64.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 7
+    :berths: 14
+    :remaining: 64.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 6
+    :berths: 17
+    :remaining: 59.0
+    :energy: 8.0
+  Glacial:
+  - :structures: *1
+    :area: 88
+    :metal: 2
+    :fertility: 4
+    :berths: 30
+    :remaining: 48.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 88
+    :metal: 2
+    :fertility: 5
+    :berths: 22
+    :remaining: 58.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 88
+    :metal: 2
+    :fertility: 6
+    :berths: 18
+    :remaining: 62.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 88
+    :metal: 2
+    :fertility: 6
+    :berths: 18
+    :remaining: 60.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 88
+    :metal: 2
+    :fertility: 5
+    :berths: 22
+    :remaining: 54.0
+    :energy: 12.0
+  Magma:
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 4
+    :berths: 26
+    :remaining: 40.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 5
+    :berths: 19
+    :remaining: 47.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 6
+    :berths: 16
+    :remaining: 50.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 6
+    :berths: 16
+    :remaining: 48.0
+    :energy: 12.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 5
+    :berths: 19
+    :remaining: 43.0
+    :energy: 14.0
+  Metallic:
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 3
+    :berths: 40
+    :remaining: 30.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 4
+    :berths: 27
+    :remaining: 45.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 5
+    :berths: 20
+    :remaining: 54.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 5
+    :berths: 20
+    :remaining: 54.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 4
+    :berths: 27
+    :remaining: 45.0
+    :energy: 8.0
+  Oceanic:
+  - :structures: *1
+    :area: 76
+    :metal: 2
+    :fertility: 5
+    :berths: 19
+    :remaining: 47.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 2
+    :fertility: 6
+    :berths: 16
+    :remaining: 52.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 76
+    :metal: 2
+    :fertility: 7
+    :berths: 13
+    :remaining: 55.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 76
+    :metal: 2
+    :fertility: 7
+    :berths: 13
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 2
+    :fertility: 6
+    :berths: 16
+    :remaining: 48.0
+    :energy: 12.0
+  Radioactive:
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 3
+    :berths: 42
+    :remaining: 32.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 4
+    :berths: 28
+    :remaining: 48.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 5
+    :berths: 21
+    :remaining: 55.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 5
+    :berths: 21
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 4
+    :berths: 28
+    :remaining: 44.0
+    :energy: 12.0
+  Rocky:
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 4
+    :berths: 27
+    :remaining: 43.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 5
+    :berths: 20
+    :remaining: 52.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 6
+    :berths: 16
+    :remaining: 58.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 6
+    :berths: 16
+    :remaining: 58.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 80
+    :metal: 4
+    :fertility: 5
+    :berths: 20
+    :remaining: 52.0
+    :energy: 8.0
+  Toxic:
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 3
+    :berths: 42
+    :remaining: 32.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 4
+    :berths: 28
+    :remaining: 46.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 5
+    :berths: 21
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 5
+    :berths: 21
+    :remaining: 51.0
+    :energy: 12.0
+  - :structures: *1
+    :area: 84
+    :metal: 3
+    :fertility: 4
+    :berths: 28
+    :remaining: 42.0
+    :energy: 14.0
+  Tundra:
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 4
+    :berths: 30
+    :remaining: 48.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 58.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 6
+    :berths: 18
+    :remaining: 64.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 6
+    :berths: 18
+    :remaining: 62.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 88
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 56.0
+    :energy: 10.0
+  Volcanic:
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 4
+    :berths: 26
+    :remaining: 40.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 5
+    :berths: 19
+    :remaining: 47.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 6
+    :berths: 16
+    :remaining: 50.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 6
+    :berths: 16
+    :remaining: 48.0
+    :energy: 12.0
+  - :structures: *1
+    :area: 76
+    :metal: 3
+    :fertility: 5
+    :berths: 19
+    :remaining: 43.0
+    :energy: 14.0
+:planet:
+  Arid:
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 4
+    :berths: 34
+    :remaining: 56.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 5
+    :berths: 25
+    :remaining: 67.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 6
+    :berths: 20
+    :remaining: 74.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 6
+    :berths: 20
+    :remaining: 72.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 5
+    :berths: 25
+    :remaining: 65.0
+    :energy: 10.0
+  Asteroid:
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 3
+    :berths: 35
+    :remaining: 25.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 4
+    :berths: 24
+    :remaining: 38.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 5
+    :berths: 18
+    :remaining: 46.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 5
+    :berths: 18
+    :remaining: 46.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 70
+    :metal: 4
+    :fertility: 4
+    :berths: 24
+    :remaining: 38.0
+    :energy: 8.0
+  Craters:
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 3
+    :berths: 45
+    :remaining: 35.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 4
+    :berths: 30
+    :remaining: 52.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 5
+    :berths: 23
+    :remaining: 61.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 5
+    :berths: 23
+    :remaining: 61.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 4
+    :berths: 30
+    :remaining: 52.0
+    :energy: 8.0
+  Crystalline:
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 3
+    :berths: 43
+    :remaining: 32.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 4
+    :berths: 29
+    :remaining: 48.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 57.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 57.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 4
+    :berths: 29
+    :remaining: 48.0
+    :energy: 8.0
+  Earthly:
+  - :structures: *1
+    :area: 90
+    :metal: 3
+    :fertility: 5
+    :berths: 23
+    :remaining: 57.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 90
+    :metal: 3
+    :fertility: 6
+    :berths: 18
+    :remaining: 64.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 90
+    :metal: 3
+    :fertility: 7
+    :berths: 15
+    :remaining: 69.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 3
+    :fertility: 7
+    :berths: 15
+    :remaining: 67.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 90
+    :metal: 3
+    :fertility: 6
+    :berths: 18
+    :remaining: 62.0
+    :energy: 10.0
+  Gaia:
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 5
+    :berths: 24
+    :remaining: 61.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 6
+    :berths: 19
+    :remaining: 68.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 7
+    :berths: 16
+    :remaining: 73.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 7
+    :berths: 16
+    :remaining: 73.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 6
+    :berths: 19
+    :remaining: 68.0
+    :energy: 8.0
+  Glacial:
+  - :structures: *1
+    :area: 100
+    :metal: 2
+    :fertility: 4
+    :berths: 34
+    :remaining: 56.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 100
+    :metal: 2
+    :fertility: 5
+    :berths: 25
+    :remaining: 67.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 100
+    :metal: 2
+    :fertility: 6
+    :berths: 20
+    :remaining: 72.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 100
+    :metal: 2
+    :fertility: 6
+    :berths: 20
+    :remaining: 70.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 100
+    :metal: 2
+    :fertility: 5
+    :berths: 25
+    :remaining: 63.0
+    :energy: 12.0
+  Magma:
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 4
+    :berths: 29
+    :remaining: 46.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 6
+    :berths: 17
+    :remaining: 58.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 6
+    :berths: 17
+    :remaining: 56.0
+    :energy: 12.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 49.0
+    :energy: 14.0
+  Metallic:
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 3
+    :berths: 45
+    :remaining: 35.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 4
+    :berths: 30
+    :remaining: 52.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 5
+    :berths: 23
+    :remaining: 61.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 5
+    :berths: 23
+    :remaining: 61.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 4
+    :berths: 30
+    :remaining: 52.0
+    :energy: 8.0
+  Oceanic:
+  - :structures: *1
+    :area: 85
+    :metal: 2
+    :fertility: 5
+    :berths: 22
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 2
+    :fertility: 6
+    :berths: 17
+    :remaining: 60.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 85
+    :metal: 2
+    :fertility: 7
+    :berths: 15
+    :remaining: 62.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 85
+    :metal: 2
+    :fertility: 7
+    :berths: 15
+    :remaining: 60.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 2
+    :fertility: 6
+    :berths: 17
+    :remaining: 56.0
+    :energy: 12.0
+  Radioactive:
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 3
+    :berths: 48
+    :remaining: 37.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 4
+    :berths: 32
+    :remaining: 55.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 5
+    :berths: 24
+    :remaining: 63.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 5
+    :berths: 24
+    :remaining: 61.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 4
+    :berths: 32
+    :remaining: 51.0
+    :energy: 12.0
+  Rocky:
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 4
+    :berths: 30
+    :remaining: 50.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 5
+    :berths: 23
+    :remaining: 59.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 6
+    :berths: 18
+    :remaining: 66.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 6
+    :berths: 18
+    :remaining: 66.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 90
+    :metal: 4
+    :fertility: 5
+    :berths: 23
+    :remaining: 59.0
+    :energy: 8.0
+  Toxic:
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 3
+    :berths: 48
+    :remaining: 37.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 4
+    :berths: 32
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 5
+    :berths: 24
+    :remaining: 61.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 5
+    :berths: 24
+    :remaining: 59.0
+    :energy: 12.0
+  - :structures: *1
+    :area: 95
+    :metal: 3
+    :fertility: 4
+    :berths: 32
+    :remaining: 49.0
+    :energy: 14.0
+  Tundra:
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 4
+    :berths: 34
+    :remaining: 56.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 5
+    :berths: 25
+    :remaining: 67.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 6
+    :berths: 20
+    :remaining: 74.0
+    :energy: 6.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 6
+    :berths: 20
+    :remaining: 72.0
+    :energy: 8.0
+  - :structures: *1
+    :area: 100
+    :metal: 3
+    :fertility: 5
+    :berths: 25
+    :remaining: 65.0
+    :energy: 10.0
+  Volcanic:
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 4
+    :berths: 29
+    :remaining: 46.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 53.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 6
+    :berths: 17
+    :remaining: 58.0
+    :energy: 10.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 6
+    :berths: 17
+    :remaining: 56.0
+    :energy: 12.0
+  - :structures: *1
+    :area: 85
+    :metal: 3
+    :fertility: 5
+    :berths: 22
+    :remaining: 49.0
+    :energy: 14.0
