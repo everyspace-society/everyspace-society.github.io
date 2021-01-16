@@ -20,9 +20,18 @@ klass: docs
       </nav>
     </aside>
     <article class="two-third">
-        <header>
-            <h1>{{page.title}}</h1>
-        </header>
+      <header>
+        <h1>
+          {{page.title}}
+          {% if page.subtitle %}
+          <span>{{page.subtitle }}</span>
+          {%endif%}
+        </h1>
+        Created: <time datetime='{{page.date}}'>{{page.date | date_to_long_string}}</time>
+        {% if page.updated_at %}
+        &middot; Updated: <time datetime='{{page.updated_at}}'>{{page.updated_at | date_to_long_string}}</time>
+        {%endif%}
+    </header>
         {{ content }}
     </article>
 </div>

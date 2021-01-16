@@ -5,7 +5,7 @@ table {
   text-align: left;
   font-family: $system-fonts;
   table-layout:fixed;
-  width:100%;
+  min-width:100%;
   overflow-x: scroll;
   scroll-behavior: auto;
   @extend .z-depth-1;

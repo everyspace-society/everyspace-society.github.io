@@ -2,7 +2,7 @@
         <ul>
         {%- for doc in site.astro-empires %}
             {%- if doc.category == include.category %}
-            <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+            <li><a href="{{ doc.url }}">{{ doc.title }}{%if doc.subtitle%} - {{ doc.subtitle }}{%endif%}</a></li>
             {%- endif %}
         {%- endfor %}
         </ul>

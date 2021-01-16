@@ -1,0 +1,259 @@
+--- 
+Battleship: 
+  name: "Battleship"
+  armour: 128
+  cost: 2000
+  abbr: "BB"
+  drive: Warp
+  hanger: 40
+  power: 168
+  requires: "Ion 6 + Warp Drive 8 + Armour 16 + Shielding 8"
+  shield: 10
+  shipyard: 16
+  speed: 4
+  weapon: Ion
+Bombers: 
+  name: "Bombers"
+  armour: 2
+  cost: 10
+  abbr: "BO"
+  drive: Inter
+  hangar: -1
+  power: 4
+  requires: "Missiles 1"
+  shield: 0
+  shipyard: 2
+  speed: 0
+  weapon: Missiles
+Carrier: 
+  name: "Carrier"
+  armour: 24
+  cost: 400
+  abbr: "CA"
+  drive: Warp
+  hanger: 80
+  power: 12
+  requires: "Missiles 6 + Warp Drive 4 + Armour 10 + Shielding 2"
+  shield: 2
+  shipyard: 12
+  speed: 5
+  weapon: Missiles
+Corvette: 
+  name: "Corvette"
+  armour: 4
+  cost: 20
+  abbr: "CV"
+  drive: Stellar
+  hangar: 0
+  power: 4
+  shield: 0
+  shipyard: "4	Laser 2 + Stellar Drive 1 + Armour 2"
+  speed: 10
+  weapon: Laser
+Cruiser: 
+  name: "Cruiser"
+  armour: 24
+  cost: 200
+  abbr: "CR"
+  drive: Warp
+  hanger: 4
+  power: 24
+  requires: "Plasma 4 + Warp Drive 2 + Armour 10 + Shielding 2"
+  shield: 2
+  shipyard: 10
+  speed: 5
+  weapon: Plasma
+DeathStar: 
+  name: "Death Star"
+  armour: 14000
+  cost: 500000
+  abbr: "DS"
+  drive: Warp
+  hanger: 10000
+  power: 26500
+  requires: "Disruptor 10 + Warp Drive 20 + Armour 26 + Shielding 18"
+  shield: 60
+  shipyard: 26.7
+  speed: 2
+  weapon: Disruptor
+Destroyer: 
+  name: "Destroyer"
+  armour: 8
+  cost: 40
+  abbr: "DD"
+  drive: Stellar
+  hangar: 0
+  power: 8
+  shield: 0
+  shipyard: "6	Plasma 1 + Stellar Drive 2 + Armour 6"
+  speed: 8
+  weapon: Plasma
+Dreadnought: 
+  name: "Dreadnought"
+  armour: 512
+  cost: 10000
+  abbr: "DN"
+  drive: Warp
+  hanger: 200
+  power: 756
+  requires: "Photon 6 + Warp Drive 12 + Armour 20 + Shielding 10"
+  shield: 20
+  shipyard: 20.1
+  speed: 3
+  weapon: Photon
+Fighters: 
+  name: "Fighters"
+  armour: 2
+  cost: 5
+  abbr: "FT"
+  drive: Inter
+  hangar: -1
+  power: 2
+  requires: "Laser 1"
+  shield: 0
+  shipyard: 1
+  speed: 0
+  weapon: Laser
+FleetCarrier: 
+  name: "Fleet Carrier"
+  armour: 96
+  cost: 2500
+  abbr: "FC"
+  drive: Warp
+  hanger: 500
+  power: 64
+  requires: "Ion 4 + Warp Drive 8 + Armour 14 + Shielding 6"
+  shield: 8
+  shipyard: 16
+  speed: 4
+  weapon: Ion
+Frigate: 
+  name: "Frigate"
+  armour: 12
+  cost: 80
+  abbr: "FR"
+  drive: Stellar
+  hangar: 4
+  power: 12
+  requires: "Missiles 6 + Stellar Drive 4 + Armour 8"
+  shield: 0
+  shipyard: 8
+  speed: 6
+  weapon: Missiles
+HeavyBombers: 
+  name: "Heavy Bombers"
+  armour: 4
+  cost: 30
+  abbr: "HB"
+  drive: Inter
+  hangar: -2
+  power: 10
+  requires: "Plasma 14"
+  shield: 0
+  shipyard: 3
+  speed: 0
+  weapon: Plasma
+HeavyCruiser: 
+  name: "Heavy Cruiser"
+  armour: 48
+  cost: 500
+  abbr: "HC"
+  drive: Warp
+  hanger: 8
+  power: 48
+  requires: "Plasma 6 + Warp Drive 4 + Armour 12 + Shielding 4"
+  shield: 4
+  shipyard: 12
+  speed: 4
+  weapon: Plasma
+IonBombers: 
+  name: "Ion Bombers"
+  armour: 4
+  cost: 60
+  abbr: "IB"
+  drive: Inter
+  hanger: -2
+  power: 12
+  requires: "Ion 10 + Shielding 10"
+  shield: 1
+  shipyard: 3
+  speed: 0
+  weapon: Ion
+IonFrigate: 
+  name: "Ion Frigate"
+  armour: 12
+  cost: 120
+  abbr: "IF"
+  drive: Stellar
+  hanger: 4
+  power: 14
+  requires: "Ion 10 + Stellar Drive 4 + Armour 8 + Shielding 10"
+  shield: 1
+  shipyard: 8
+  speed: 6
+  weapon: Ion
+Leviathan: 
+  name: "Leviathan"
+  armour: 6600
+  cost: 200000
+  abbr: "LV"
+  drive: Warp
+  hanger: 4000
+  power: 10000
+  requires: "Photon 12 + Warp Drive 18 + Armour 24 + Shielding 16"
+  shield: 40
+  shipyard: 24.5
+  speed: 2
+  weapon: Photon
+OutpostShip: 
+  name: "Outpost Ship"
+  armour: 4
+  cost: 100
+  abbr: "OS"
+  drive: Warp
+  hangar: 0
+  power: 2
+  requires: "Warp Drive 1"
+  shield: 0
+  shipyard: 8
+  speed: 4
+  weapon: Laser
+Recycler: 
+  name: "Recycler"
+  armour: 2
+  cost: 30
+  abbr: "RC"
+  drive: Stellar
+  hangar: 0
+  power: 2
+  shield: 0
+  shipyard: 5
+  requires: "Laser 1 + Stellar Drive 1 + Armour 2"
+  speed: 8
+  weapon: Laser
+ScoutShip: 
+  name: "ScoutShip"
+  armour: 2
+  cost: 40
+  abbr: "SS"
+  drive: Warp
+  hangar: 0
+  power: 1
+  requires: "Warp Drive 1"
+  shield: 0
+  shipyard: 4
+  speed: 12
+  weapon: Laser
+Titan: 
+  name: "Titan"
+  armour: 2048
+  cost: 50000
+  abbr: "TI"
+  drive: Warp
+  hanger: 1000
+  power: 3500
+  requires: "Disruptor 6 + Warp Drive 14 + Armour 22 + Shielding 14"
+  shield: 30
+  shipyard: 22.3
+  speed: 3
+  weapon: Disruptor

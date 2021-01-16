@@ -24,9 +24,9 @@ $mero-grid-offpart-sizes: (
   none: 0
 );
 
-$system-fonts: "KonsprioSans", -apple-system, system-ui, "Segoe UI", Roboto, Lato, Helvetica, Arial, sans-serif;
-$serif-fonts: "KonsprioSerif", Cambria, Georgia, "Times New Roman", Times, serif;
-$heading-fonts: "KonsprioDisplay", $serif-fonts;
+$system-fonts: "Konspirio Sans", -apple-system, system-ui, "Segoe UI", Roboto, Lato, Helvetica, Arial, sans-serif;
+$serif-fonts: "Konspirio Serif", Cambria, Georgia, "Times New Roman", Times, serif;
+$heading-fonts: "Konspirio Display", $system-fonts;
 $mono-fonts: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $table-fonts: $system-fonts;
 
@@ -84,17 +84,17 @@ $mero-background-image: '';
 @import 'fnord';
 @import 'posts';
 
-@include font('KonsprioDispralay',           '../fonts/Oswald-VariableFont_wght');
+@include font('Konspirio Display',           '../fonts/Oswald-VariableFont_wght');
 
-@include font('KonsprioSans',             '../fonts/SourceSansPro-Regular');
-@include font('KonsprioSans-Italic',      '../fonts/SourceSansPro-Italic');
-@include font('KonsprioSans-Bold',        '../fonts/SourceSansPro-Bold');
-@include font('KonsprioSans-BoldItalic',  '../fonts/SourceSansPro-BoldItalic');
+@include font('Konspirio Sans',             '../fonts/SourceSansPro-Regular');
+@include font('Konspirio Sans-Italic',      '../fonts/SourceSansPro-Italic');
+@include font('Konspirio Sans-Bold',        '../fonts/SourceSansPro-Bold');
+@include font('Konspirio Sans-BoldItalic',  '../fonts/SourceSansPro-BoldItalic');
 
-@include font('KonsprioSerif',            '../fonts/SourceSerifPro-Regular');
-@include font('KonsprioSerif-Italic',     '../fonts/SourceSerifPro-Italic');
-@include font('KonsprioSerif-Bold',       '../fonts/ -Bold');
-@include font('KonsprioSerif-BoldItalic', '../fonts/SourceSerifPro-BoldItalic');
+@include font('Konspirio Serif',            '../fonts/SourceSerifPro-Regular');
+@include font('Konspirio Serif-Italic',     '../fonts/SourceSerifPro-Italic');
+@include font('Konspirio Serif-Bold',       '../fonts/ -Bold');
+@include font('Konspirio Serif-BoldItalic', '../fonts/SourceSerifPro-BoldItalic');
 
 .page-copyright {
   font-family: $system-fonts;

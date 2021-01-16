@@ -100,3 +100,33 @@ table {
     color: purple
   }
 }
+h1 {
+  span {
+    display: block;
+    font-size: 60%;
+    opacity: 50%;
+  }
+}
+blockquote {
+  border-radius: 0.3em;
+  &.warning {
+    background: rgba(#f4a460, 0.2);
+    border: 1px solid #f4a460;
+  }
+  &.info {
+    background: rgba($mero-blue, 0.2);
+    border: 1px solid $mero-blue;
+  }
+  &.success {
+    background: rgba($mero-green, 0.2);
+    border: 1px solid $mero-green;
+  }
+}
+table {
+  small {
+    opacity: 50%;
+  }
+}
+.fixed-table table {
+  width: 100%;
+}

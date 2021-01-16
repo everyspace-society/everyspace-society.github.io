@@ -2,6 +2,7 @@ require 'yaml'
 require 'amazing_print'
 require 'markdown-tables'
 
+inc_dir = "../_includes/astro-empires/"
 terrains = YAML.load(File.read('terrains.yml'))
 structures = YAML.load(File.read('structures.yml'))
 # defenses = YAML.load(File.read('defenses.yml'))
@@ -60,7 +61,8 @@ def report(test, category, title, metals=0)
   # ap test[category].key
   omitted = []
 
-  response = "\n\n### #{title}\n\n"
+  # response = "\n\n### #{title}\n\n"
+  response = ""
   labels = %w[Type Ideal Slot-1 Slot-2 Slot-3 Slot-4 Slot-5 ]
   data = []
   summary = []
@@ -147,25 +149,27 @@ test.each_key do |type|
     
   end
 end
-
+def save(file, data)
+  File.open(file, 'w').write(data)
+end
 # ap test[:moon]['Arid']
-final = "\n\n## Metal-4\n\n"
-final << report(test, :moon, "Moon, Metal-4", 4)
-final << report(test, :planet, "Planet, Metal-4", 4)
+# final = "\n\n## Metal-4\n\n"
+save("#{inc_dir}analysis-moon-metal4.md", report(test, :moon, "Moon, Metal-4", 4))
+save("#{inc_dir}analysis-planet-metal4.md", report(test, :planet, "Planet, Metal-4", 4))
 
-final << "\n\n## Metal-3\n\n"
+# metal4_moon = "\n\n## Metal-3\n\n"
 
-final << report(test, :moon, "Moon, Metal-3", 3)
-final << report(test, :planet, "Planet, Metal-3", 3)
-final << "\n\n"
+save("#{inc_dir}analysis-moon-metal3.md", report(test, :moon, "Moon, Metal-3", 3))
+save("#{inc_dir}analysis-planet-metal3.md", report(test, :planet, "Planet, Metal-3", 3))
+# metal_4_moon = "\n\n"
 
 # puts final
 # pbcopy(final)
 File.open("analysis.yml", "w") { |file| file.write(test.to_yaml) }
 
-markdown_page = '../_astro-empires/analysis-v3.md'
-contents = File.read(markdown_page)
-contents.gsub!(/(?<=<!--DATA-->).*?(?=<!--\/DATA-->)/m, final)
-File.open(markdown_page, "w") { |file| file.write(contents) }
+# markdown_page = '../_astro-empires/analysis-v3.md'
+# contents = File.read(markdown_page)
+# contents.gsub!(/(?<=<!--DATA-->).*?(?=<!--\/DATA-->)/m, final)
+# File.open(markdown_page, "w") { |file| file.write(contents) }
 # puts contents
 

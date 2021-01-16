@@ -12,7 +12,7 @@ The following table provides the armour efficiency ratio of the various units. T
 
 
 
-</tr>
+<table>
 <tr>
   <td class='heading'>Unit</td>
   <td class='heading'>Cost Ratio</td>

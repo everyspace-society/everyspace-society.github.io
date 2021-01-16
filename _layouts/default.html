@@ -9,13 +9,8 @@
     <meta name="keywords" content="">
     <meta name="description" content="Website for author Ben Wilson">
     <link rel="canonical" href="{{site.url}}"/>
-    <noscript>
       <link rel="stylesheet" href="{{ '/assets/css/docs.css' }}">
       <link rel="stylesheet" href="{{ '/assets/css/fontawesome.min.css' }}">
-    </noscript>
-    <link rel="preload" as="style" onload="this.rel = 'stylesheet'" href="/assets/css/docs.css">
-    <link rel="stylesheet" href="/assets/css/docs.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="/assets/css/fontawesome.min.css" media="screen" onload="this.media='all'">
     <title>{{page.title}}</title>
     {% include favicon.html %}
     {% include social-applications.html %}
@@ -26,7 +21,7 @@
       {{ content }}
     </main>
     {% include footer.html %}
-    <div id="merovex-privacy-notice" class=''>
+    <div id="merovex-privacy-notice" style='display: none;'>
       <span>We use cookies to improve your experience on our website</span>
       <span>
         <a id="privacy-notice-accept" class="button">Okay</a>

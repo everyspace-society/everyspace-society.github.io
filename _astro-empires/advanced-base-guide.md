@@ -1,7 +1,9 @@
 ---
 
 title: "Advanced Base Guide"
+subtitle: "Version 3.0"
 date: 2007-10-12T15:53:13+00:00
+updated_at: 2021-01-16T06:53:45+05:00
 comments: true
 sharing: true
 footer: true
@@ -9,565 +11,99 @@ category: "Guides"
 ---
 
 * **Updated July 2013.**
+* **Updated January 2021 for v3.0 servers**
 
-This advanced base guide focuses on base specialization and location.
-The Astro Layout section sets minimum build goals for bases depending on
-their specialization.  The Planet Choice section shares common wisdom on
-which astros work better in which specialization. Both sections describe
-time-tested methods. This page has an accompanying
-[Frequently Asked Questions](/astro-empires/advanced-base-guide-f-aq) pages. If you find
-an area confusing and the FAQ is unhelpful, notify Merovech (Gamma).
+This advanced base guide discusses building your base after the first week's sprint to Nine bases. The earlier version of this guide is available, so you can read that if you are inclined. I want this guide to be leaner. There are 
 
-> This guide focuses on base specialization and is not relevant for all players. Players who play free accounts should consider specializing due to restrictions on space.
+Discussed:
 
-## Astro Layout
+* Astro Selection
+* Minimal Build Goals
+* Defense Goals
+* Fleet Standard
 
-The three major areas of activity on a base are fleet production,
-research, and commerce. Because space is a premium on all astros, it is
-critical that you build your empire by specializing your astros
-accordingly. All bases should have a minimum structure, but
-specialization helps a given base reach its potential. This section
-discusses basic empire organization and specific base structures. Specialization is necessary for Free accounts, not necessary for upgraded accounts. So, if you're upgraded, take that into account.
+## Astro Selection
 
-### Basic Empire Organization
+AstroEmpires did an astro rebalance with Version 3. They shifted the Fertility bonus from slots 2,3 to slots 3,4. They increased the metal of all astros by one, as well as base gas and bonuses. I wrote a program that [analized](/astro-empires/analysis-v3/) all of the astro types by calculating the remaining area slot after adding Urban Structures and the most useful natural energy plant (Solar or Gas) for that slot. Where before they gave us a few options, the rebalance narrowed it down considerably: 
 
-For a basic empire, you will want three 
-Commerce 
-astros, two Research Astros, three
-Production astros, and a balance of Production/Research astros
-(dual-purpose).  Your first will likely be a dual Production/Research
-base, this arrangement provides ten bases&mdash;the goal of 
-[the Ten-Seven Guide](the-ten-seven-guide). When building your initial empire,
-your second, third and fourth bases should be commerce specialized to
-help jump start your economy. The table below suggests an order in which
-you may build your bases.
+{: .success} 
+> #### Astro Selection Recommendation
+> Plant on Rocky Planet or Moon, or Asteroids in Slots 3 or 4
 
+If you are a Free player, focus on Rocky only. You are capped at the amount of space available due to the advanced structure limit. I would suggest when you are maxed out that you spend a month's subscription and spend that month building all those advanced structures.
 
-> Commerce bases are of dubious value. Consider building them up briefly
-in the beginning, then converting them to Production bases.
+Rocky Planets and Moons have _four more available area than any other Metal-4 astro_. In Slot-2/5, Rocky astros have six fewer slots than Slot-3/4. Astroids have seven more slots in Slot-3/4 than they do in Slot-2/5, and _21 more_ than Slot 1. Whatever you do, don't plant in Slot-1. I made that mistake on Babylon relying on my old v1.5 advice, and I'm undoing that now. 
 
+Given the difference between a Rocky and the other Metal-4 astros is one Terraform, this is a soft recommendation. The difference between Slot-2/-5 and Slot-3/4 is one or two Terraforms. A Rocky astro has 12/20 (moon/planet) more slots than an Asteroid, three or four terraforms.
 
-<table id='order'><tr>
-  <th colspan='3'>Base Build Order</th>
-</tr>
-<tr>
-  <th>Order</th>
-  <th>Specialization</th>
-  <th>Astro Type</th>
-</tr>
-<tr> <th class='col-sm-2 text-center'>Home</th> <td class='col-sm-3'>Production / Research</td> <td>Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>2nd</th> <td class='col-sm-3'>Commerce</td> <td>Asteroid/ Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>3rd</th> <td class='col-sm-3'>Commerce</td> <td>Asteroid/ Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>4th</th> <td class='col-sm-3'>Commerce</td> <td>Asteroid/ Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>5th</th> <td class='col-sm-3'>Production/Research</td> <td>Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>6th</th> <td class='col-sm-3'>Production</td> <td>Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>7th</th> <td class='col-sm-3'>Production</td> <td>Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>8th</th> <td class='col-sm-3'>Production</td> <td>Rocky, Crater, Metallic</td> </tr>
-<tr> <th class='col-sm-2 text-center'>9th</th> <td class='col-sm-3'>Research</td> <td>Arid, Tundra, Gaia, Earthly</td> </tr>
-<tr> <th class='col-sm-2 text-center'>10th</th> <td class='col-sm-3'>Research</td> <td>Arid, Tundra, Gaia, Earthly</td> </tr>
-</table>
+Metal-3 astros are trash. The best Metal-3 moons are Slot-3 Arid, Gaia and Toxic. The best Metal-3 Planets are Slot-2 Arid and Tundra. But, the best Metal-3 Planet has one more slot than a Rocky planet. The best Metal-3 moon has 3 more slots. You surrender a lot of construction and production for less than a Terraform of slots.
 
+What do I do? From now on, I'm only building on Slot-3/4 Asteroids.
 
+## Base Structure
 
-> #### Why is your first base probably a dual-purpose base?
+It is up to you whether you specialize. My personal minimum goals are:
 
-> In the <a href='/astro-empires/the-ten-seven-guide'>Ten Seven Guide</a>, 
-you are advised to start with a Rocky, Crater or Metallic
-planet; to optimize production. These three astros are suited for
-Production, yet you have to build eight Research Labs to expand your
-bases. Rather than later disband those Labs (recovering only half of
-what you spent), the recommendation is that you make your first base
-dual-purpose.
+* Three Dread-Capable Production bases. All other bases should build to your fleet standard
+* Three Lab-20 Research bases, with one at Lab-26
+* Planetary Rings (Pring) & Shields in a 3:2 ratio. Always have one more Pring than Pshield.
+* Before Prings, build three of your best turret. Disband lessor turrets because AE's mechanics dings you for their obsolence.
 
+### Why Dread-Capable?
 
-I personally find that whenever I start I end up with an Arid or Tundra,
-both of which are better for research. So, to meet my above
-recommendation, you have to restart your account. I find this wasteful,
-when the first astro is typically suitable for Research or Research and
-Production. Later in this guide, I recommend which astros are I find are
-worth having.
+My [Base Defense Guide](/astro-empires/base-defense-guide/) talks about how a Base's defenses protect the base. Fleet protects your trades. If you have 4 long-distance trade routes, then a Dread is usually enough to protect them. The Dread is in turn protected by one of your Prings, so make sure you have one more set of prings than you need for base defense.
 
-### Base Structure Goals
+### Why Lab-20/-26?
 
-A major consideration is specializing astros and optimizing production,
-commerce and research.  The following table presents decent long-term
-goals for each of your bases. Be mindful that this is a guideline and
-your unique situation may require a different layout. For example, if
-you managed to build on an Oceanic world, the value of Metal Refineries
-is a waste of space. However, to play this game effectively, you'll want
-to take heed of the preferred astros discussed later. Oceanics are a
-waste.
+I push hard for Prings early. This requires on base have Lab-16 to research Photon. Disruptor, the best turret tech before prings, requires Lab-20. Done right, there will be a 2-3 week gap between when you are D-Turret-capable and Pring-capable. You'll want a set of D-Turrets.
 
-Free players are severely limited in what they can build. Space is a
-premium. Therefore, they should focus on securing planets, which is
-discussed in greater detail below&mdash;as which astros are preferred.
-The minimum layout in the table below shows the basic structure that
-should work for all free players. It's a good goal for upgraded players
-as well, until you need to grow beyond its offerings. The [production structures](/astro-empires/production-structures) are balanced for cost.
+The Lab-26 covers all the technology. For Dreads you'll need Lab-22 to research the Cybernetics needed for Orbital Shipyards; required to build Dreads.
 
-The goals listed here are easily possible for a player under Level 30.
-These goals allow a player to build the key infrastructure for a base
-without heavy research requirements. Orbital Bases, Androids Factories,
-Antimatter Plants and Multi-Level Platforms all require substantial
-research to construct. These "[Very Advanced Structures](/astro-empires/very-advanced-structures)" are
-discussed in a separate guide.
+## Defense Goals
 
-<table id='buildgoals'>
-<tr>
-  <th >&nbsp;</th>
-  <th >Minimum</th>
-  <th >Research</th>
-  <th >Production</th>
-  <th >Commerce</th>
-  <th >Upgraded</th>
-</tr>
-<tr>
-  <td ><strong>Metal Refineries</strong></td>
-  <td class='text-right'>16</td>
-  <td class='text-right'>16</td>
-  <td class='text-right'>16</td>
-  <td class='text-right'>14</td>
-  <td class='text-right'>25</td>
-</tr>
-<tr>
-  <td ><strong>Robotic Factories</strong></td>
-  <td class='text-right'>12</td>
-  <td class='text-right'>12</td>
-  <td class='text-right'>7</td>
-  <td class='text-right'>10</td>
-  <td class='text-right'>21</td>
-</tr>
-<tr>
-  <td ><strong>Nanite Factories</strong></td>
-  <td class='text-right'>5</td>
-  <td class='text-right'>5</td>
-  <td class='text-right'>5</td>
-  <td class='text-right'>5</td>
-  <td class='text-right'>14</td>
-</tr>
-<tr>
-  <td ><strong>Android Factories</strong></td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>10</td>
-</tr>
-<tr>
-  <td ><strong>Shipyards</strong></td>
-  <td class='text-right'>12 (16)</td>
-  <td class='text-right'>12</td>
-  <td class='text-right'>20</td>
-  <td class='text-right'>12</td>
-  <td class='text-right'>20</td>
-</tr>
-<tr>
-  <td ><strong>Orbital Shipyards</strong></td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>1</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>1</td>
-</tr>
-<tr>
-  <td ><strong>Research Labs</strong></td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>22</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>22</td>
-</tr>
-<tr>
-  <td ><strong>Turrets</strong></td>
-  <td class='text-right'>3</td>
-  <td class='text-right'>3</td>
-  <td class='text-right'>3</td>
-  <td class='text-right'>3</td>
-  <td class='text-right'>-</td>
-</tr>
-<tr>
-  <td ><strong>Command Centers</strong></td>
-  <td class='text-right'>10</td>
-  <td class='text-right'>10</td>
-  <td class='text-right'>10</td>
-  <td class='text-right'>10</td>
-  <td class='text-right'>15</td>
-</tr>
-<tr>
-  <td ><strong>Spaceports</strong></td>
-  <td class='text-right'>15</td>
-  <td class='text-right'>10</td>
-  <td class='text-right'>15</td>
-  <td class='text-right'>15</td>
-  <td class='text-right'>20</td>
-</tr>
-<tr>
-  <td ><strong>Crystal Mines</strong></td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>-</td>
-  <td class='text-right'>12</td>
-  <td class='text-right'>20</td>
-</tr>
-<tr class='info'> <td colspan='6'>&nbsp;</td></tr>
-<tr>
-  <td ><strong>Totals</strong></td>
-  <td class='text-right'>73</td>
-  <td class='text-right'>90</td>
-  <td class='text-right'>75</td>
-  <td class='text-right'>74</td>
-  <td class='text-right'><strong>179</strong></td>
-</tr>
-<tr>
-  <td ><strong>Energy</strong></td>
-  <td class='text-right'>99</td>
-  <td class='text-right'>108</td>
-  <td class='text-right'>122</td>
-  <td class='text-right'>100</td>
-  <td class='text-right'>-</td>
-</tr>
-<tr>
-  <td ><strong>Urban</strong></td>
-  <td class='text-right'>12</td>
-  <td class='text-right'>17</td>
-  <td class='text-right'>16</td>
-  <td class='text-right'>18</td>
-  <td class='text-right'>-</td>
-</tr>
-<tr>
-  <td ><strong>Base Econ</strong></td>
-  <td class='text-right'>80</td>
-  <td class='text-right'>70</td>
-  <td class='text-right'>85</td>
-  <td class='text-right'>112</td>
-  <td class='text-right'>-</td>
-</tr>
-<tr>
-  <td ><strong>Real Econ</strong></td>
-  <td class='text-right'>~140</td>
-  <td class='text-right'>~105</td>
-  <td class='text-right'>~150</td>
-  <td class='text-right'>~196 (~190)</td>
-  <td class='text-right'>-</td>
-  </tr>
-</table>
+{:.info}
+> Before Prings, Build 3 of your best Turret, disband lessor turrets.
+> After Prings, Build a minimum of 3 prings and have 1 less pshield.
 
-* **Urban:** Assumes a Slot-2 Arid, Tundra or Rocky. Divide the Total by your astro's fertility and round up.
-* **Shipyards:** Level 12 allows Heavy Cruisers, which helps ensure all bases have a 2:1 (CR:HC) ratio.
-* **Command Centers:** Level 10 improves defenses 50 percent.
-* **Base Econ:** You should assume an increase of 25 percent above base economy per Trade Route. So, the Minimal base should have an effective economy of 140.
+As you build your bases, you want to have enough turret power to protect your base's economy. The [Base Defense Guide](/astro-empires/base-defense-guide) provides more detail. Don't waste space by retaining obsolete turrets, or turrets without shields.
 
+I discuss this in greater detail in [Planetary Ring Construction Guide](/astro-empires/planetary-ring-construction-guide/). To simplify, I have three Lab-20 bases. One researches Photon continuously. Photon research is the [critical path](https://en.wikipedia.org/wiki/Critical_path_method) for Prings. Another base can research Armour and Shielding full-time and complete before Photon. The third base is for all the other research you'll want, such as Disruptor, Ion, Warp, etc.
 
-> TODO: Revise the Upgraded column.
+## Fleet Standard
 
+I talk about fleet efficency in [Small Fleet Doctrine](/astro-empires/small-fleet-doctrine/). I currently advocate for a simple fleet comprising Fighters and combat-capable transportation. That can be Cruisers, Heavy Cruisers or Battleships. I'll have to update this guide again when I get into more fleet action. Recyclers should be 10 percent of your fleet so you can harvest in one tick.
 
-> #### Formula for Space Provided
->
-> Total = structures + ceil(structures/fertility) + ceil(structures/energy)
+* Fighters are efficient against all Meat units, drop enough to clear the Meat in one go
+* Ion Bombers are efficient against Frigates, Cruisers, Heavy Cruisers and Battleships
+* Cruisers are efficient against Heavy Cruisers and Battleships, so a decent deterrant for Small Fleet
+* Heavy Cruisers are efficent against Dreads, so are essential for cracking a Dread-protected base
+* Battleships are efficient against everything _but_ Cruisers and Heavy Cruisers. They have good Fighter capacity.
 
+## Analysis 
 
-| Astro Type | Base | Terraform | MLP |
-| -- | :---: | :---: | :---: | :---: |
-| Arid and Tundra | 95 | 120 | 170 |
-| Rocky | 85 | 110 | 160|
-|Crystals | 80 | 105 | 155 |
-|Asteroids | 65 | 90 | 140 |
+### Efficency Table v3.0
 
-The **Minimum column** below represents the structure limits free players experience.
-The energy requirement for the minimum layout is 75, which requires Fusion-10 (assuming Energy-20).
-Disrupter Turret-3 raises the requirement to 99, which requires Fusion-13.
-With a Slot-2 Arid or Rocky, the base will need Urban-13, Urban-15 if a Crystal or Asteroid.
-With this example, the base will consume 87 of the astro's available
-spaces, which is within the limits of even the fully-Terraformed
-Asteroid. Adding the other four Shipyards (needed for Battleships) on an
-Asteroid would require Urban-16, but no new Fusion Plants. This adds
-five slots, which is just outside the limits of a 
-Terraformed Asteroid.
+Efficiency is mesured
 
-The **Research column** represents the minimum build with 22 Research Labs.
-This is enough for Cybernetics, but not enough for Tachyon. You need the
-Cybernetics for improved productivity, but not the Tachyon. The number
-of Spaceports is reduced because of space limits for a Terraformed
-Slot-2 Arid planet require saving seven spaces, which is gained by
-reducing the number of Spaceports *or* Robotic Factories.
+<pre>
+<code>
+Ratio<sub>A</sub> = (Power<sub>A</sub> - Shield<sub>D</sub>) / Armour<sub>D</sub>
+Ratio<sub>D</sub> = (Power<sub>D</sub> - Shield<sub>A</sub>) / Armour<sub>A</sub>
 
-The **Production column** represents the optimal infrastructure for a Fully
-Terraformed Slot-2 Rocky Planet. Of the 110 available slots, every one
-is filled, assuming Energy-20 with only Fusion Plants. Notice the
-reduced number of Robotic Factories; saving energy and space.
+true if Ratio<sub>A</sub> > Ratio<sub>D</sub>
+</code>
+</pre>
 
-The **Commerce column** assumes a Slot-2 Crystal optimized. These are
-extremely rare, which helps underscore why Crystals are **more hype than value**. In reality, a player is better served with a Slot-2 Rocky with
-Spaceport-20 than with a Crystal base. The added economy and trade route is worth 30 credits,
-which is more than adding the Crystal Mines. The Real Economy row shows
-in parenthesis the potential value of a Slot-2 Rocky with Spaceport-20
-(based on the quality of your empire's Trade Routes.)
+<div class='fixed-table'>
+{% capture my_include %}{% include astro-empires/efficiency.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
 
-## Astro Choice
+## Kill Ratio
 
-Base location is a critical concern for a successful empire. Remember
-the real estate mantra: "Location, location, location." This section
-discusses the three considerations in astro selection.
-
-### Astro Specialization and Type
-
-These are good pros and cons for each type of astro. The
-general consensus for astro choices are the following:
-
-Each astro has different advantages that make them better for certain
-specializations. The general consensus on Astro Empires is to specialize
-the astros below. If the astro is not below, do not waste your time. The
-emboldened astro is the preferred choice for a given specialization.
-
-<table id='choice'><tr>
-  <th>Specialization</th>
-  <th>Preferred Astros</th>
-</tr>
-<tr>
-  <th>Research:</th>
-  <td><strong>Arid</strong>; <strong>Tundra</strong>; Gaia; Toxic<sub>Slot-4/-5</sub>; Earth</td>
-</tr>
-<tr>
-  <th>Commerce:</th>
-  <td><strong>Asteroid</strong>, Crater</td>
-</tr>
-<tr>
-  <th>Production:</th>
-  <td><strong>Rocky</strong>, Crater, Metallic, Asteroid</td>
-</tr>
-</table>
-
-> #### Why Not Crystals?
->
-> I recommend Asteroids over Crystals because you can convert the Roid
-base to a Production base when you've sobered up. "Commerce" bases do
-not provide the long-term value you seek in a strong empire.
-
-
-My findings vary a bit from the sage wisdom of other guides. I did
-separate [analysis](/astro-empires/advanced-base-guide-analysis) of slot usage. The
-analysis was never completed as I started working on my scout database.
-However, I stand by my recommendations. If you do not see an astro
-listed above, *avoid* it.
-
-## Natural
-
-The table below is from the Astro Empires tables list. This is to help
-guide your understanding regarding why certain astros are preferred for
-bases. Production planets need more Metal. Commerce planets need more
-Crystals, and Research planets need more area and fertility.
-
-<table><tr>
-  <th class='text-center col-sm-3'>Terrains</th>
-  <th class='text-center'>Metal</th>
-  <th class='text-center'>Gas</th>
-  <th class='text-center'>Crystals</th>
-  <th class='text-center'>Fertility</th>
-  <th class='text-center col-sm-2'>Area Planet</th>
-  <th class='text-center col-sm-2'>Area Moon</th>
-</tr>
-<tr class='warning'>
-  <th class='text-right'>Arid</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'><span class='text-danger'><strong>5</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>95</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>83</strong></span></td>
-</tr>
-<tr class='success'>
-  <th class='text-right'>Asteroid</th>
-  <td class='text-center'><span class='text-danger'><strong>3</strong></span></td>
-  <td class='text-center'>1</td>
-  <td class='text-center'><span class='text-danger'><strong>2</strong></span></td>
-  <td class='text-center'>4</td>
-  <td class='text-center' colspan='2'>65</td>
-</tr>
-<tr class='success'>
-  <th class='text-right'>Craters</th>
-  <td class='text-center'><span class='text-danger'><strong>3</strong></span></td>
-  <td class='text-center'>1</td>
-  <td class='text-center'>1</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>85</td>
-  <td class='text-center'>75</td>
-</tr>
-<tr class='warning'>
-  <th class='text-right'>Crystalline</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>1</td>
-  <td class='text-center'><span class='text-danger'><strong>3</strong></span></td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>80</td>
-  <td class='text-center'>71</td>
-</tr>
-<tr class='warning'>
-  <th class='text-right'>Earthly</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'><span class='text-danger'><strong>6</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>85</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>75</strong></span></td>
-</tr>
-<tr class='warning'>
-  <th class='text-right'>Gaia</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'><span class='text-danger'><strong>6</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>90</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>79</strong></span></td>
-</tr>
-<tr class='danger'>
-  <th class='text-right'>Glacial</th>
-  <td class='text-center'>1</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'>5</td>
-  <td class='text-center'>95</td>
-  <td class='text-center'>83</td>
-</tr>
-<tr class='danger'>
-  <th class='text-right'>Magma</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'>5</td>
-  <td class='text-center'>80</td>
-  <td class='text-center'>71</td>
-</tr>
-<tr class='success'>
-  <th class='text-right'>Metallic</th>
-  <td class='text-center'><span class='text-danger'><strong>3</strong></span></td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>1</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>85</td>
-  <td class='text-center'>75</td>
-</tr>
-<tr class='danger'>
-  <th class='text-right'>Oceanic</th>
-  <td class='text-center'>1</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'>6</td>
-  <td class='text-center'>80</td>
-  <td class='text-center'>71</td>
-</tr>
-<tr class='danger'>
-  <th class='text-right'>Radioactive</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>3</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>90</td>
-  <td class='text-center'>79</td>
-</tr>
-<tr class='success'>
-  <th class='text-right'>Rocky</th>
-  <td class='text-center'><span class='text-danger'><strong>3</strong></span></td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'><span class='text-danger'><strong>5</strong></span></td>
-  <td class='text-center'>85</td>
-  <td class='text-center'>75</td>
-</tr>
-<tr class='danger'>
-  <th class='text-right'>Toxic</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>90</td>
-  <td class='text-center'>79</td>
-</tr>
-<tr class='warning'>
-  <th class='text-right'>Tundra</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>2</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'><span class='text-danger'><strong>5</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>95</strong></span></td>
-  <td class='text-center'><span class='text-danger'><strong>83</strong></span></td>
-</tr>
-<tr class='danger'>
-  <th class='text-right'>Volcanic</th>
-  <td class='text-center'>2</td>
-  <td class='text-center'>4</td>
-  <td class='text-center'>0</td>
-  <td class='text-center'>5</td>
-  <td class='text-center'>80</td>
-  <td class='text-center'>71</td>
-</tr>
-</table>
-
-The red figures above are the characteristics of the astro type that
-make that astro appealing. When astro hunting, always make a note of
-Crystalline, Gaia and Rocky astros. If you do not plant a base there,
-somebody will. There are a lot of Asteroids, otherwise I would recommend
-charting them, too.
-
-Free account players should add 25 to the astro's area to represent the
-maximum possible space they will have available with terraforming. Once
-you research Armour-22, you should add another 50 to the astro's area to
-represent the limits you will encounter with Multilevel Platforms. Thus,
-an Asteroid will never have more than 140 spaces for structures.
-
-### Astro Orbit Preferences
-
-> #### Ideal Locations
->
-> Prefer Metal-3, Slot-2 astros. Planets if you need space, moons and roids if you want cheap prings. 
-
-
-**Choose Slot Twoes.** Naturally, you will let your needs influence your decision on which astro to take. 
-When you can be choosy, prefer a Slot 2 orbit (e.g.  GXX:XX:XX:**2**X). 
-Slot 2 orbits have 3 solar energy, which provides cheap,
-accessible energy.
-Slot 2 orbits also increase base Fertility by one, which reduces the
-infrastructure you need to build your base.
-This easy access to cheap energy and improved fertility is what makes Slot 2 orbits preferable.
-
-**Slot 1 orbits are the second preference** because they have higher solar
-energy but less 
-fertility.
-
-Slot 3 and beyond are terrible choices as you are always in a deficit in
-either energy or fertility. The exception is Toxic in Slot 4 or Slot 5.
-This is because Gas is better and mitigates problems with lower
-fertility. You may chose a Slot-3 if you can afford the extra Fusion
-plants you will have to build to offset the low solar output. You still
-get the Slot-2 fertility benefit.
-
-### Choosing a Moon or Planet
-
-> #### Moon or Planet Simplified?
->
-> <ul>
-  <li>Planets if free account player</li>
-  <li>Moons if upgraded</li>
-  <li>Astroids if you're patient.</li>
-  </ul>
-
-
-**Should you choose a moon or a planet?** If you are going to play with a
-free account, you should focus on planets. Otherwise, you should focus
-on moons. This is because of limitations of space. Free players are
-limited to five terraform structures. This puts a ceiling on the number
-of structures they can build. Therefore, free players need the larger
-astros to maximize what they can build.
-
-Conversely, upgraded players have no ceiling on structures. This allows
-paying characters to focus on other issues; such as cost.  Deflection
-Shields, Planetary Shields and Planetary Rings cost 25 percent less on
-Moons than Planets. That is a gross savings of 1024, 6250 and 12500
-credits, respectively. The size difference between a Moon and Planet is
-usually surmounted by two Terraforming, which costs 192 credits. Thus,
-it is cheaper to occupy Moons in the long term for upgraded players.
-
-At least, this is the traditional logic. I need to look into this
-further to determine if there is real cost savings.
-
-Of course, if you focus on planets, you will pay full price for Prings
-and Pshields. Moons cost half as much, and asteroids a quarter as much.
+The following table shows either the number of units killed by the attacking unit (1:X) or the number of units required to kill the defending unit (X:1):
+kon
+<div style='overflow-x: scroll'>
+{% capture my_include %}{% include astro-empires/kill-ratios.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
