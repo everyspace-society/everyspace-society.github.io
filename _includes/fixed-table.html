@@ -1,0 +1,4 @@
+<div class='fixed-table'>
+{% capture my_include %}{% include {{include.file}} %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>

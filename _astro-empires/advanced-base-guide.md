@@ -94,15 +94,12 @@ true if Ratio<sub>A</sub> > Ratio<sub>D</sub>
 </code>
 </pre>
 
-<div class='fixed-table'>
-{% capture my_include %}{% include astro-empires/efficiency.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</div>
+{% include fixed-table.html file='astro-empires/efficiency.md' %}
 
 ## Kill Ratio
 
 The following table shows either the number of units killed by the attacking unit (1:X) or the number of units required to kill the defending unit (X:1):
-kon
+
 <div style='overflow-x: scroll'>
 {% capture my_include %}{% include astro-empires/kill-ratios.md %}{% endcapture %}
 {{ my_include | markdownify }}
