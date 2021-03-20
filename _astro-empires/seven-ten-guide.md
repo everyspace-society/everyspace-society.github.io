@@ -28,10 +28,10 @@ This guide does not dive into details. There are more detailed discussions of mu
 
 > #### Your First Astro, or Getting Off on the Right Foot:
 > 
-> * **Great Choice:** Slot-2 Rocky<
-> * **Good Choice:** Slot-2 Metal-3 (Crater or Rocky)<
-> * **Fair Choice:** Slot-1 Metal-3 (Rocky, Crater or Rocky)<
-> * **Poor Choice:** Slot-1/-2 Metal-2 (Arid, Tundra, Gaia or Earthy)<
+> * **Great Choice:** Slot-3/4 Rocky or Roid
+> * **Good Choice:** Slot-3/4 Metal-4 (Crater or Rocky)
+> * **Fair Choice:** Slot-2/5 Metal-4 (Rocky, Crater or Rocky)
+> * **Poor Choice:** Anything Else
 
 > **2020 Note:** AE seems to only let you start on an Earth planet. So, it doesn't matter. But, this should guide your subsequent base choices.
 
