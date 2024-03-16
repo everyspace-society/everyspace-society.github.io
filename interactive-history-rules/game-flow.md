@@ -9,7 +9,8 @@ group: InteractiveHistoryRules
 ---
 
  INTERACTIVE HISTORY GAME
-Game flow
+
+## Game flow
 
 The flow of game is divided to rounds, with each round equaling 1, 5, 10 or any other number of years, as decided by the GM. Each round is divided to three phases: events, action declaration and resolution phase.
 In the Elyria game each round equals 1 year.
@@ -25,7 +26,8 @@ In the actions declaration phase the actions of the ruling agency are declared. 
 In Elyria the declaration and resolution phases overlap - the actions of the societies are resolved in the order they are recieved by the GM (or when the GM manages to find the time to resolve them).
 
 See also: disasters and critical junctures
-Determinants
+
+### Determinants
 
 Each society has certain determinants or attributes. The attributes may be roughly divided to three groups: primary, political and capabilities. Most determinants have one of 9 possible values ranging in numerical values from -4 to +4: Miserable, Terrible, Poor, Mediocre, Fair, Good, Great, Superb and Legendary. Depending on context the attribute values may also have different kinds of labels, e.g. in quantity/size context they are Tiny, Very Small, Small, Mediocre, Fair, Big/large, Great, Huge and Vast.
 
@@ -41,13 +43,14 @@ Internal: develop/invest, intrigue, observation, elections, fundamental,
 External: raid, observation, intimidation, diplomacy, espionage,
           overtures, sanctions, block, alliance
 
-Number of actions
+### Number of actions
 
 In ARIA IH rules the number of actions a society had per game round depended among other things on its scope. IMO, this is not right. The scope just effects the ... er ... scope of the actions. Instead the number of actions for each society is the same.
 In Elyria the basic number of actions per round is 4. The players may also submit fewer actions, in which case they concentrate more on the remaining actions thus gaining a bonus, or more actions, in which case they divide their attention and get a penalty.
 
 See also the details.
-Scope of actions
+
+### Scope of actions
 
 Typically societies only perform actions in their own scope. As an example of actions of different sized societies, consider the following list:
 
@@ -74,7 +77,8 @@ Finally there is an important mechanic by which the scope and timeframe of diffe
 The normal actions are short-term: raids, small campaigns, intrigue, observation, negotiation, etc. They are used to support strategic actions, respond to actions by other societies, make smaller scale improvements and to resolve other short-term actions. E.g. thinking of war one could use a normal action to conquer an important city and a strategic action to ensure its control.
 
 See also the details.
-Effects of actions
+
+### Effects of actions
 
 The results of actions effect the determinants of the society. Alternatively they may effect other actions. Normal actions only have temporary effects, typically 1-2 rounds. A rule of thumb for determining the effects of an action is to take the action result as a number (like -2 for severe failure or +1 for success) and distribute an equal number of plusses or minuses to appropriate determinant over the next few years. Strategic actions typically have much more long-lasting, or even permanent effects.
 
